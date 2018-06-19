@@ -1,0 +1,27 @@
+<div id="mycontainer" class="note-content" contenteditable="false">              
+  <table class="table table-condensed table-striped">
+    <thead>
+      <tr>
+        <th>Drug</th>
+        <th>Description</th>
+        <th>Dosage</th>
+      </tr>
+    </thead>
+    <tbody>
+    	{{#each this}}
+      <tr>
+        <td>{{drug}}</td>
+        <td>{{description}}</td>
+      {{#if dosage}}
+      <td>
+      {{#each dosage}}
+         {{this}} ,
+        {{/each}}
+        </td>
+        {{/if}}
+      </tr>
+        {{/each}}
+    </tbody>
+  </table>
+
+</div>
