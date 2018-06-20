@@ -1,5 +1,12 @@
-<div id="mycontainer" class="note-content" contenteditable="false">              
-  <table class="table table-condensed table-striped">
+<div id="mycontainer" class="note-content" contenteditable="false">     
+<form id="form" action="/api/medication/" method="get" novalidate>
+ <div>
+   <input type="text" name="search" placeholder="search term"> 
+   <input type="submit"  value="Submit" class="btn btn-default button1">
+ </div>
+</form>
+
+  <table class="table">
     <thead>
       <tr>
         <th>Drug</th>
@@ -7,7 +14,6 @@
         <th>Dosage</th>
       </tr>
     </thead>
-    <tbody>
     	{{#each this}}
       <tr>
         <td>{{drug}}</td>
@@ -21,7 +27,7 @@
         {{/if}}
       </tr>
         {{/each}}
-    </tbody>
+   
   </table>
 
 </div>
