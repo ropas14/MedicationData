@@ -1,0 +1,7383 @@
+[{
+	"_id": {
+		"$oid": "5b2bc4cdf868f65534b5b090"
+	},
+	"url_address": "https://www.goodrx.com/xanthine-oxidase-inhibitors",
+	"drugclass": "Xanthine Oxidase Inhibitors",
+	"drugs": [
+		"Zyloprim",
+		"Uloric",
+		"Duzallo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4d0f868f65534b5b091"
+	},
+	"url_address": "https://www.goodrx.com/wound-dressings",
+	"drugclass": "Wound Dressings",
+	"drugs": [
+		"Biafine",
+		"Bionect",
+		"Vasolex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4d3f868f65534b5b092"
+	},
+	"url_address": "https://www.goodrx.com/vmat-inhibitors",
+	"drugclass": "VMAT Inhibitors",
+	"drugs": [
+		"Xenazine",
+		"Ingrezza",
+		"Austedo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4d5f868f65534b5b093"
+	},
+	"url_address": "https://www.goodrx.com/vitamin-k-supplements",
+	"drugclass": "Vitamin K Supplements",
+	"drugs": [
+		"Mephyton"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4d8f868f65534b5b094"
+	},
+	"url_address": "https://www.goodrx.com/vitamin-d-analogues",
+	"drugclass": "Vitamin D Analogues",
+	"drugs": [
+		"Drisdol",
+		"vitamin D3",
+		"Vectical",
+		"Rocaltrol",
+		"Dovonex",
+		"Zemplar",
+		"Rayaldee",
+		"Sorilux",
+		"Hectorol",
+		"decara"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4dbf868f65534b5b095"
+	},
+	"url_address": "https://www.goodrx.com/vitamin-b12-analogues",
+	"drugclass": "Vitamin B12 Analogues",
+	"drugs": [
+		"cyanocobalamin",
+		"vitamin b12",
+		"Nascobal"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4def868f65534b5b096"
+	},
+	"url_address": "https://www.goodrx.com/viscosupplements",
+	"drugclass": "Viscosupplements",
+	"drugs": [
+		"Orthovisc",
+		"Synvisc One",
+		"Euflexxa",
+		"Monovisc",
+		"Supartz FX",
+		"Synvisc",
+		"Hyalgan",
+		"Supartz",
+		"Genvisc 850"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4e2f868f65534b5b097"
+	},
+	"url_address": "https://www.goodrx.com/vinca-alkaloids",
+	"drugclass": "Vinca Alkaloids",
+	"drugs": [
+		"vinblastine",
+		"vincristine",
+		"Navelbine",
+		"Marqibo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4eaf868f65534b5b098"
+	},
+	"url_address": "https://www.goodrx.com/vegf-antibodies",
+	"drugclass": "VEGF Antibodies",
+	"drugs": [
+		"Cabometyx",
+		"Avastin",
+		"Eylea",
+		"Macugen",
+		"Cometriq",
+		"Lucentis",
+		"Cyramza",
+		"Jetrea",
+		"Zaltrap"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4ecf868f65534b5b099"
+	},
+	"url_address": "https://www.goodrx.com/vasopressins",
+	"drugclass": "Vasopressins",
+	"drugs": [
+		"Ddavp",
+		"Stimate",
+		"Noctiva",
+		"Jynarque"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4eef868f65534b5b09a"
+	},
+	"url_address": "https://www.goodrx.com/vaptans",
+	"drugclass": "Vaptans",
+	"drugs": [
+		"Samsca"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4f5f868f65534b5b09b"
+	},
+	"url_address": "https://www.goodrx.com/vaccinations",
+	"drugclass": "Vaccinations",
+	"drugs": [
+		"Shingrix",
+		"Boostrix",
+		"Vivotif",
+		"Prevnar 13",
+		"Adacel",
+		"Havrix",
+		"Pneumovax 23",
+		"Engerix-B",
+		"Twinrix",
+		"MMR",
+		"Menactra",
+		"Vaqta",
+		"Zostavax",
+		"Typhim VI",
+		"Varivax",
+		"Menveo",
+		"Trumenba",
+		"Imovax",
+		"Recombivax HB",
+		"Gardasil",
+		"Gardasil 9",
+		"Fluzone Intradermal",
+		"Flulaval Quadrivalent",
+		"Hepagam B",
+		"Rotateq",
+		"Fluzone Quadrivalent",
+		"Fluvirin",
+		"Afluria",
+		"Flublok Quadrivalent",
+		"Fluzone High-Dose",
+		"Pedvaxhib",
+		"Menhibrix",
+		"Flublok",
+		"Rotarix",
+		"Fluarix Quadrivalent",
+		"Tenivac",
+		"Flumist Quadrivalent",
+		"Varizig",
+		"Fluad",
+		"Proquad",
+		"Flucelvax",
+		"Afluria Quadrivalent",
+		"Rabavert"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4f8f868f65534b5b09c"
+	},
+	"url_address": "https://www.goodrx.com/urinary-antibiotics",
+	"drugclass": "Urinary Antibiotics",
+	"drugs": [
+		"Hiprex",
+		"Monurol",
+		"Urimar-T",
+		"methenamine mandelate",
+		"ustell",
+		"uramit MB",
+		"Utira-C",
+		"Uroqid Acid No. 2",
+		"Visqid A/A"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4fbf868f65534b5b09d"
+	},
+	"url_address": "https://www.goodrx.com/urinary-antibiotic-anticholinergic-combinations",
+	"drugclass": "Urinary Antibiotic / Anticholinergic Combinations",
+	"drugs": [
+		"Uro-Mp",
+		"Uribel",
+		"Urogesic Blue",
+		"Hyophen",
+		"Urelle",
+		"Urolet MB"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc4fdf868f65534b5b09e"
+	},
+	"url_address": "https://www.goodrx.com/urinary-analgesics",
+	"drugclass": "Urinary Analgesics",
+	"drugs": [
+		"Pyridium",
+		"Rimso-50",
+		"Azo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc500f868f65534b5b09f"
+	},
+	"url_address": "https://www.goodrx.com/uricosuric-drugs",
+	"drugclass": "Uricosuric Drugs",
+	"drugs": [
+		"probenecid",
+		"Zurampic",
+		"Elitek",
+		"Krystexxa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc502f868f65534b5b0a0"
+	},
+	"url_address": "https://www.goodrx.com/uricosuric-colchicum-alkaloid-combinations",
+	"drugclass": "Uricosuric / Colchicum Alkaloid Combinations",
+	"drugs": [
+		"probenecid / colchicine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc504f868f65534b5b0a1"
+	},
+	"url_address": "https://www.goodrx.com/urease-inhibitors",
+	"drugclass": "Urease Inhibitors",
+	"drugs": [
+		"Lithostat"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc508f868f65534b5b0a2"
+	},
+	"url_address": "https://www.goodrx.com/typical-antipsychotics",
+	"drugclass": "Typical Antipsychotics",
+	"drugs": [
+		"Compro",
+		"Haldol",
+		"chlorpromazine",
+		"perphenazine",
+		"fluphenazine",
+		"Navane",
+		"loxapine",
+		"trifluoperazine",
+		"thioridazine",
+		"Orap",
+		"molindone",
+		"Adasuve"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc50af868f65534b5b0a3"
+	},
+	"url_address": "https://www.goodrx.com/typical-antipsychotic-tricyclic-antidepressant-combinations",
+	"drugclass": "Typical Antipsychotic / Tricyclic Antidepressant Combinations",
+	"drugs": [
+		"perphenazine / amitriptyline"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc50cf868f65534b5b0a4"
+	},
+	"url_address": "https://www.goodrx.com/tubulin-inhibitors",
+	"drugclass": "Tubulin Inhibitors",
+	"drugs": [
+		"Grifulvin V",
+		"Gris-Peg"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc50ef868f65534b5b0a5"
+	},
+	"url_address": "https://www.goodrx.com/trpv1-agonists",
+	"drugclass": "TRPV1 Agonists",
+	"drugs": [
+		"Sinelee",
+		"Qutenza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc511f868f65534b5b0a6"
+	},
+	"url_address": "https://www.goodrx.com/triptans",
+	"drugclass": "Triptans",
+	"drugs": [
+		"Imitrex",
+		"Maxalt-Mlt",
+		"Maxalt",
+		"Relpax",
+		"Zomig",
+		"Amerge",
+		"Zomig Zmt",
+		"Imitrex Statdose",
+		"Frova",
+		"Axert",
+		"Zembrace",
+		"Onzetra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc513f868f65534b5b0a7"
+	},
+	"url_address": "https://www.goodrx.com/triptan-nsaid-combinations",
+	"drugclass": "Triptan / NSAID Combinations",
+	"drugs": [
+		"Treximet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc516f868f65534b5b0a8"
+	},
+	"url_address": "https://www.goodrx.com/triiodothyronines",
+	"drugclass": "Triiodothyronines",
+	"drugs": [
+		"Cytomel"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc519f868f65534b5b0a9"
+	},
+	"url_address": "https://www.goodrx.com/tricyclic-antidepressants",
+	"drugclass": "Tricyclic Antidepressants",
+	"drugs": [
+		"amitriptyline",
+		"Pamelor",
+		"Prudoxin",
+		"Zonalon",
+		"Tofranil",
+		"Anafranil",
+		"Norpramin",
+		"Silenor",
+		"Vivactil",
+		"Tofranil-Pm",
+		"maprotiline",
+		"amoxapine",
+		"Surmontil"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc51cf868f65534b5b0aa"
+	},
+	"url_address": "https://www.goodrx.com/topoisomerase-inhibitors",
+	"drugclass": "Topoisomerase Inhibitors",
+	"drugs": [
+		"etoposide",
+		"Hycamtin",
+		"Vyxeos",
+		"mitoxantrone",
+		"Vumon",
+		"Camptosar",
+		"Onivyde",
+		"Etopophos"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc51ff868f65534b5b0ab"
+	},
+	"url_address": "https://www.goodrx.com/tnf-blockers",
+	"drugclass": "TNF Blockers",
+	"drugs": [
+		"Humira",
+		"Enbrel",
+		"Simponi",
+		"Cimzia",
+		"Remicade",
+		"Inflectra",
+		"Simponi Aria",
+		"Renflexis",
+		"Cyltezo",
+		"Amjevita"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc522f868f65534b5b0ac"
+	},
+	"url_address": "https://www.goodrx.com/thyroxines",
+	"drugclass": "Thyroxines",
+	"drugs": [
+		"Synthroid",
+		"Levoxyl",
+		"Tirosint",
+		"levothyroxine / liothyronine",
+		"Unithroid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc524f868f65534b5b0ad"
+	},
+	"url_address": "https://www.goodrx.com/thyroxine-triiodothyronine-combinations",
+	"drugclass": "Thyroxine / Triiodothyronine Combinations",
+	"drugs": [
+		"Armour Thyroid",
+		"nature-throid",
+		"NP thyroid",
+		"WP Thyroid",
+		"Thyrolar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc526f868f65534b5b0ae"
+	},
+	"url_address": "https://www.goodrx.com/thyroid-stimulating-hormones",
+	"drugclass": "Thyroid Stimulating Hormones",
+	"drugs": [
+		"Thyrogen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc529f868f65534b5b0af"
+	},
+	"url_address": "https://www.goodrx.com/thrombopoiesis-stimulating-agents",
+	"drugclass": "Thrombopoiesis Stimulating Agents",
+	"drugs": [
+		"Promacta",
+		"Nplate",
+		"Doptelet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc52cf868f65534b5b0b0"
+	},
+	"url_address": "https://www.goodrx.com/thiazide-like-diuretics",
+	"drugclass": "Thiazide-Like Diuretics",
+	"drugs": [
+		"chlorthalidone",
+		"Zaroxolyn",
+		"indapamide",
+		"Thalitone"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc52ff868f65534b5b0b1"
+	},
+	"url_address": "https://www.goodrx.com/thiazide-diuretics",
+	"drugclass": "Thiazide Diuretics",
+	"drugs": [
+		"Microzide",
+		"Diuril",
+		"Proglycem",
+		"methyclothiazide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc531f868f65534b5b0b2"
+	},
+	"url_address": "https://www.goodrx.com/thiazide-potassium-sparing-diuretic-combinations",
+	"drugclass": "Thiazide / Potassium-Sparing Diuretic Combinations",
+	"drugs": [
+		"Dyazide",
+		"Maxzide",
+		"amiloride / HCTZ"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc534f868f65534b5b0b3"
+	},
+	"url_address": "https://www.goodrx.com/thalidomides",
+	"drugclass": "Thalidomides",
+	"drugs": [
+		"Revlimid",
+		"Pomalyst",
+		"Thalomid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc538f868f65534b5b0b4"
+	},
+	"url_address": "https://www.goodrx.com/tetracycline-antibiotics",
+	"drugclass": "Tetracycline Antibiotics",
+	"drugs": [
+		"Acticlate",
+		"Vibramycin",
+		"Mondoxyne NL",
+		"Monodox",
+		"Vibramycin Monohydrate",
+		"Minocin",
+		"Dynacin",
+		"tetracycline",
+		"Oracea",
+		"Doryx",
+		"Solodyn",
+		"Vibramycin Calcium",
+		"demeclocycline",
+		"Targadox",
+		"Doryx Mpc",
+		"Ximino",
+		"Morgidox",
+		"Minolira",
+		"Arestin",
+		"Alodox"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc53af868f65534b5b0b5"
+	},
+	"url_address": "https://www.goodrx.com/test-strips",
+	"drugclass": "Test Strips",
+	"drugs": [
+		"Abbott Freestyle",
+		"Onetouch",
+		"Accu-Chek",
+		"Bayer Contour Next",
+		"Bayer Contour",
+		"Wavesense",
+		"Truetrack",
+		"Precision Xtra",
+		"Bayer Breeze 2",
+		"Truetest",
+		"Nova Max",
+		"Advocate Redi-Code",
+		"Trueread",
+		"Prodigy Autocode",
+		"Truebalance",
+		"Bionime"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc53ef868f65534b5b0b6"
+	},
+	"url_address": "https://www.goodrx.com/sympathomimetics",
+	"drugclass": "Sympathomimetics",
+	"drugs": [
+		"Adipex-P",
+		"diethylpropion",
+		"Bontril Pdm",
+		"phendimetrazine ER",
+		"lomaira",
+		"Didrex",
+		"Akovaz",
+		"Suprenza",
+		"Regimex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc540f868f65534b5b0b7"
+	},
+	"url_address": "https://www.goodrx.com/sympathomimetic-like-agents",
+	"drugclass": "Sympathomimetic-like Agents",
+	"drugs": [
+		"Provigil",
+		"Nuvigil"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc543f868f65534b5b0b8"
+	},
+	"url_address": "https://www.goodrx.com/sympathomimetic-nsaid-combinations",
+	"drugclass": "Sympathomimetic / NSAID Combinations",
+	"drugs": [
+		"isometheptene / dichloralphenazone / acetaminophen",
+		"nodolor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc545f868f65534b5b0b9"
+	},
+	"url_address": "https://www.goodrx.com/sympathomimetic-anti-epileptic-combinations",
+	"drugclass": "Sympathomimetic / Anti-epileptic Combinations",
+	"drugs": [
+		"Qsymia"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc547f868f65534b5b0ba"
+	},
+	"url_address": "https://www.goodrx.com/sympathomimetc-acetaminophen-combinations",
+	"drugclass": "Sympathomimetc / Acetaminophen Combinations",
+	"drugs": [
+		"Prodrin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc54af868f65534b5b0bb"
+	},
+	"url_address": "https://www.goodrx.com/sulfonylureas",
+	"drugclass": "Sulfonylureas",
+	"drugs": [
+		"Glucotrol",
+		"Amaryl",
+		"Glucotrol XL",
+		"glyburide",
+		"Glynase",
+		"chlorpropamide",
+		"tolazamide",
+		"tolbutamide",
+		"Diabeta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc54cf868f65534b5b0bc"
+	},
+	"url_address": "https://www.goodrx.com/sulfonylurea-biguanide-combinations",
+	"drugclass": "Sulfonylurea / Biguanide Combinations",
+	"drugs": [
+		"glipizide / metformin",
+		"Glucovance"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc54ff868f65534b5b0bd"
+	},
+	"url_address": "https://www.goodrx.com/sulfones",
+	"drugclass": "Sulfones",
+	"drugs": [
+		"Aczone",
+		"dapsone"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc555f868f65534b5b0be"
+	},
+	"url_address": "https://www.goodrx.com/sulfa-antibiotics",
+	"drugclass": "Sulfa Antibiotics",
+	"drugs": [
+		"Ssd",
+		"Thermazene",
+		"Klaron",
+		"sulfacetamide / sulfur",
+		"Silvadene",
+		"Sulfacleanse",
+		"Avar LS",
+		"Avar",
+		"Ovace Plus",
+		"Plexion",
+		"Bleph-10",
+		"sulfadiazine",
+		"Avar-E Green",
+		"Avar-E LS",
+		"Ovace",
+		"Avc",
+		"Sumadan",
+		"Avar-E",
+		"Seb-Prev",
+		"Sumaxin",
+		"mafenide",
+		"Zencia",
+		"Prascion FC",
+		"Sumaxin CP",
+		"Sumadan Xlt",
+		"Prascion",
+		"Prascion RA",
+		"Rosanil",
+		"Sulfamylon",
+		"Rosula"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc557f868f65534b5b0bf"
+	},
+	"url_address": "https://www.goodrx.com/sulfa-antibiotic-corticosteroid-combinations",
+	"drugclass": "Sulfa Antibiotic / Corticosteroid Combinations",
+	"drugs": [
+		"sulfacetamide / prednisolone sodium phosphate",
+		"Blephamide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc559f868f65534b5b0c0"
+	},
+	"url_address": "https://www.goodrx.com/streptogramin-antibiotics",
+	"drugclass": "Streptogramin Antibiotics",
+	"drugs": [
+		"Synercid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc55cf868f65534b5b0c1"
+	},
+	"url_address": "https://www.goodrx.com/stool-softener-laxatives",
+	"drugclass": "Stool Softener Laxatives",
+	"drugs": [
+		"Docqlace",
+		"Colace",
+		"Fleet",
+		"Dulcolax"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc55ef868f65534b5b0c2"
+	},
+	"url_address": "https://www.goodrx.com/stool-softener-stimulant-laxative-combinations",
+	"drugclass": "Stool Softener / Stimulant Laxative Combinations",
+	"drugs": [
+		"Dok Plus"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc561f868f65534b5b0c3"
+	},
+	"url_address": "https://www.goodrx.com/stimulant-laxatives",
+	"drugclass": "Stimulant Laxatives",
+	"drugs": [
+		"Ex-Lax",
+		"Biscolax",
+		"Fleet",
+		"Dulcolax"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc565f868f65534b5b0c4"
+	},
+	"url_address": "https://www.goodrx.com/statins",
+	"drugclass": "Statins",
+	"drugs": [
+		"Lipitor",
+		"Zocor",
+		"Pravachol",
+		"Crestor",
+		"lovastatin",
+		"Livalo",
+		"Lescol",
+		"Lescol XL",
+		"Altoprev",
+		"flolipid",
+		"Zypitamag",
+		"pitavastatin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc569f868f65534b5b0c5"
+	},
+	"url_address": "https://www.goodrx.com/ssris",
+	"drugclass": "SSRIs",
+	"drugs": [
+		"Zoloft",
+		"Prozac",
+		"Lexapro",
+		"Celexa",
+		"Paxil",
+		"Brisdelle",
+		"Viibryd",
+		"fluvoxamine",
+		"Paxil CR",
+		"Luvox CR",
+		"Sarafem",
+		"Pexeva",
+		"selfemra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc56bf868f65534b5b0c6"
+	},
+	"url_address": "https://www.goodrx.com/ssias",
+	"drugclass": "SSIAs",
+	"drugs": [
+		"Nuplazid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc56ef868f65534b5b0c7"
+	},
+	"url_address": "https://www.goodrx.com/sphingosine-receptor-modulators",
+	"drugclass": "Sphingosine Receptor Modulators",
+	"drugs": [
+		"Gilenya"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc572f868f65534b5b0c8"
+	},
+	"url_address": "https://www.goodrx.com/somatostatin-analogues",
+	"drugclass": "Somatostatin Analogues",
+	"drugs": [
+		"Sandostatin",
+		"Sandostatin Lar Depot",
+		"Somatuline Depot",
+		"Signifor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc575f868f65534b5b0c9"
+	},
+	"url_address": "https://www.goodrx.com/snris",
+	"drugclass": "SNRIs",
+	"drugs": [
+		"Cymbalta",
+		"Effexor XR",
+		"venlafaxine",
+		"Pristiq",
+		"Savella",
+		"Fetzima",
+		"Khedezla",
+		"milnacipran",
+		"Desvenlafaxine Fumarate ER"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc578f868f65534b5b0ca"
+	},
+	"url_address": "https://www.goodrx.com/skin-barrier-emollients",
+	"drugclass": "Skin Barrier Emollients",
+	"drugs": [
+		"Epiceram",
+		"Hylatopicplus",
+		"Celacyn",
+		"Eletone",
+		"Levicyn",
+		"Ceramax",
+		"Hpr Plus",
+		"Neosalus",
+		"Prumyx",
+		"Loyon",
+		"Nivatopic Plus",
+		"Sebuderm",
+		"Hylatopic",
+		"Theraseal",
+		"Atrapro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc57bf868f65534b5b0cb"
+	},
+	"url_address": "https://www.goodrx.com/short-acting-beta-agonists",
+	"drugclass": "Short-Acting Beta Agonists",
+	"drugs": [
+		"Ventolin",
+		"Proair",
+		"Accuneb",
+		"Xopenex HFA",
+		"Xopenex",
+		"Proventil",
+		"terbutaline",
+		"metaproterenol"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc57ef868f65534b5b0cc"
+	},
+	"url_address": "https://www.goodrx.com/sglt2-inhibitors",
+	"drugclass": "SGLT2 Inhibitors",
+	"drugs": [
+		"Jardiance",
+		"Invokana",
+		"Farxiga",
+		"Steglatro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc580f868f65534b5b0cd"
+	},
+	"url_address": "https://www.goodrx.com/sglt2-inhibitor-gliptin-combinations",
+	"drugclass": "SGLT2 Inhibitor / Gliptin Combinations",
+	"drugs": [
+		"Glyxambi",
+		"Qtern",
+		"Steglujan"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc583f868f65534b5b0ce"
+	},
+	"url_address": "https://www.goodrx.com/sglt2-inhibitor-biguanide-combinations",
+	"drugclass": "SGLT2 Inhibitor / Biguanide Combinations",
+	"drugs": [
+		"Invokamet",
+		"Xigduo XR",
+		"Synjardy",
+		"Invokamet XR",
+		"Synjardy XR",
+		"Segluromet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc585f868f65534b5b0cf"
+	},
+	"url_address": "https://www.goodrx.com/sgc-stimulators",
+	"drugclass": "sGC Stimulators",
+	"drugs": [
+		"Adempas"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc588f868f65534b5b0d0"
+	},
+	"url_address": "https://www.goodrx.com/serotonin-antagonists",
+	"drugclass": "Serotonin Antagonists",
+	"drugs": [
+		"Zofran",
+		"Lotronex",
+		"granisetron",
+		"Sancuso",
+		"palonosetron",
+		"Granisol",
+		"Anzemet",
+		"Aloxi",
+		"Xermelo",
+		"Zuplenz"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc58af868f65534b5b0d1"
+	},
+	"url_address": "https://www.goodrx.com/selective-relaxant-binding-agents",
+	"drugclass": "Selective Relaxant Binding Agents",
+	"drugs": [
+		"Bridion"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc58cf868f65534b5b0d2"
+	},
+	"url_address": "https://www.goodrx.com/saline-laxatives",
+	"drugclass": "Saline Laxatives",
+	"drugs": [
+		"Fleet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc58ff868f65534b5b0d3"
+	},
+	"url_address": "https://www.goodrx.com/rna-synthetase-inhibitor-antibiotics",
+	"drugclass": "RNA Synthetase Inhibitor Antibiotics",
+	"drugs": [
+		"Bactroban",
+		"Bactroban Nasal",
+		"Centany AT",
+		"Centany"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc591f868f65534b5b0d4"
+	},
+	"url_address": "https://www.goodrx.com/rifamycins",
+	"drugclass": "Rifamycins",
+	"drugs": [
+		"Xifaxan",
+		"Rifadin",
+		"Mycobutin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc594f868f65534b5b0d5"
+	},
+	"url_address": "https://www.goodrx.com/rifamycin-antimycobacterial-combinations",
+	"drugclass": "Rifamycin / Antimycobacterial Combinations",
+	"drugs": [
+		"Priftin",
+		"Rifamate",
+		"Rifater"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc598f868f65534b5b0d6"
+	},
+	"url_address": "https://www.goodrx.com/retinoids",
+	"drugclass": "Retinoids",
+	"drugs": [
+		"Avita",
+		"Atralin",
+		"Retin-A",
+		"amnesteem",
+		"Differin",
+		"Tazorac",
+		"Retin-A Micro",
+		"isotretinoin",
+		"Avage",
+		"Soriatane",
+		"Renova",
+		"Absorica",
+		"Differin Gel",
+		"Fabior",
+		"Targretin",
+		"Panretin",
+		"Tretin X"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc59af868f65534b5b0d7"
+	},
+	"url_address": "https://www.goodrx.com/retinoid-macrolide-antibiotic-combinations",
+	"drugclass": "Retinoid / Macrolide Antibiotic Combinations",
+	"drugs": [
+		"Epiduo",
+		"Epiduo Forte"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc59cf868f65534b5b0d8"
+	},
+	"url_address": "https://www.goodrx.com/retinoid-lincosamide-antibiotic-combinations",
+	"drugclass": "Retinoid / Lincosamide Antibiotic Combinations",
+	"drugs": [
+		"Ziana",
+		"Veltin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc59ff868f65534b5b0d9"
+	},
+	"url_address": "https://www.goodrx.com/renin-inhibitors",
+	"drugclass": "Renin Inhibitors",
+	"drugs": [
+		"Tekturna"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5a1f868f65534b5b0da"
+	},
+	"url_address": "https://www.goodrx.com/renin-inhibitor-thiazide-diuretic-combinations",
+	"drugclass": "Renin Inhibitor / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Tekturna HCT"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5a3f868f65534b5b0db"
+	},
+	"url_address": "https://www.goodrx.com/renin-inhibitor-calcium-channel-blocker-combinations",
+	"drugclass": "Renin Inhibitor / Calcium Channel Blocker Combinations",
+	"drugs": [
+		"Tekamlo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5a6f868f65534b5b0dc"
+	},
+	"url_address": "https://www.goodrx.com/renin-inhibitor-calcium-channel-blocker-thiazide-diuretic-combinations",
+	"drugclass": "Renin Inhibitor / Calcium Channel Blocker / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Amturnide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5a8f868f65534b5b0dd"
+	},
+	"url_address": "https://www.goodrx.com/renin-inhibitor-arb-combinations",
+	"drugclass": "Renin Inhibitor / ARB Combinations",
+	"drugs": [
+		"Valturna"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5abf868f65534b5b0de"
+	},
+	"url_address": "https://www.goodrx.com/recombinant-human-growth-hormones",
+	"drugclass": "Recombinant Human Growth Hormones",
+	"drugs": [
+		"Omnitrope",
+		"Norditropin",
+		"Genotropin",
+		"Humatrope",
+		"Nutropin AQ",
+		"Serostim",
+		"Saizen",
+		"Increlex",
+		"Zomacton",
+		"Tev-Tropin",
+		"Macrilen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5aef868f65534b5b0df"
+	},
+	"url_address": "https://www.goodrx.com/recombinant-human-dnases",
+	"drugclass": "Recombinant Human DNases",
+	"drugs": [
+		"Pulmozyme"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5b0f868f65534b5b0e0"
+	},
+	"url_address": "https://www.goodrx.com/rankl-inhibitors",
+	"drugclass": "RANKL Inhibitors",
+	"drugs": [
+		"Prolia",
+		"Xgeva"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5b5f868f65534b5b0e1"
+	},
+	"url_address": "https://www.goodrx.com/quinolone-antibiotics",
+	"drugclass": "Quinolone Antibiotics",
+	"drugs": [
+		"Cipro",
+		"Ciloxan",
+		"Cetraxal",
+		"Levaquin",
+		"Quixin",
+		"Ocuflox",
+		"Floxin",
+		"Vigamox",
+		"Avelox",
+		"Zymaxid",
+		"Besivance",
+		"Moxeza",
+		"ciprofloxacin ER",
+		"Baxdela",
+		"Otiprio",
+		"Xepi",
+		"Factive",
+		"Zymar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5b7f868f65534b5b0e2"
+	},
+	"url_address": "https://www.goodrx.com/quinolone-antibiotic-corticosteroid-combinations",
+	"drugclass": "Quinolone Antibiotic / Corticosteroid Combinations",
+	"drugs": [
+		"Ciprodex",
+		"Cipro HC",
+		"Otovel"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5baf868f65534b5b0e3"
+	},
+	"url_address": "https://www.goodrx.com/pyrimidine-synthesis-inhibitors",
+	"drugclass": "Pyrimidine Synthesis Inhibitors",
+	"drugs": [
+		"Aubagio"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5bcf868f65534b5b0e4"
+	},
+	"url_address": "https://www.goodrx.com/pyrethroids",
+	"drugclass": "Pyrethroids",
+	"drugs": [
+		"Elimite",
+		"Nix",
+		"permethrin non-prescription"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5bef868f65534b5b0e5"
+	},
+	"url_address": "https://www.goodrx.com/psoralens",
+	"drugclass": "Psoralens",
+	"drugs": [
+		"Oxsoralen Ultra",
+		"Oxsoralen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5c2f868f65534b5b0e6"
+	},
+	"url_address": "https://www.goodrx.com/proton-pump-inhibitors",
+	"drugclass": "Proton Pump Inhibitors",
+	"drugs": [
+		"Prilosec",
+		"Protonix",
+		"Prevacid",
+		"Nexium",
+		"Dexilant",
+		"Aciphex",
+		"Prilosec OTC",
+		"Nexium 24Hr",
+		"Zegerid",
+		"Prevacid 24Hr",
+		"Lansoprazole 24Hr",
+		"Zegerid OTC",
+		"pink bismuth",
+		"Esomeprazole Strontium",
+		"dexlansoprazole"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5c4f868f65534b5b0e7"
+	},
+	"url_address": "https://www.goodrx.com/proton-pump-inhibitor-penicillin-macrolide-antibiotic-combinations",
+	"drugclass": "Proton Pump Inhibitor / Penicillin / Macrolide Antibiotic Combinations",
+	"drugs": [
+		"Prevpac",
+		"Omeclamox-Pak"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5c6f868f65534b5b0e8"
+	},
+	"url_address": "https://www.goodrx.com/proteasome-inhibitors",
+	"drugclass": "Proteasome Inhibitors",
+	"drugs": [
+		"Ninlaro",
+		"Velcade",
+		"Bortezomib",
+		"Kyprolis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5caf868f65534b5b0e9"
+	},
+	"url_address": "https://www.goodrx.com/prostaglandins",
+	"drugclass": "Prostaglandins",
+	"drugs": [
+		"Xalatan",
+		"Lumigan",
+		"Travatan Z",
+		"Cytotec",
+		"Latisse",
+		"Zioptan",
+		"Vyzulta",
+		"Izba",
+		"travoprost",
+		"Cervidil",
+		"Hemabate"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5cdf868f65534b5b0ea"
+	},
+	"url_address": "https://www.goodrx.com/prostaglandin-e1-agonists",
+	"drugclass": "Prostaglandin E1 Agonists",
+	"drugs": [
+		"Edex",
+		"Muse",
+		"Caverject Impulse",
+		"Caverject"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5d0f868f65534b5b0eb"
+	},
+	"url_address": "https://www.goodrx.com/prostacyclines",
+	"drugclass": "Prostacyclines",
+	"drugs": [
+		"Orenitram",
+		"Remodulin",
+		"Veletri",
+		"Flolan",
+		"Ventavis",
+		"Tyvaso"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5d2f868f65534b5b0ec"
+	},
+	"url_address": "https://www.goodrx.com/prostacyclin-agonists",
+	"drugclass": "Prostacyclin Agonists",
+	"drugs": [
+		"Uptravi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5d5f868f65534b5b0ed"
+	},
+	"url_address": "https://www.goodrx.com/progestins",
+	"drugclass": "Progestins",
+	"drugs": [
+		"Depo-Provera",
+		"Provera",
+		"Nor-Qd",
+		"Micronor",
+		"Aygestin",
+		"Megace ES",
+		"Megace",
+		"Take Action",
+		"Plan B One-Step",
+		"Makena",
+		"Depo-Subq Provera",
+		"Mirena",
+		"Kyleena",
+		"Skyla",
+		"Nexplanon",
+		"incassia",
+		"Implanon",
+		"levonorgestrel"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5d8f868f65534b5b0ee"
+	},
+	"url_address": "https://www.goodrx.com/progestin-antagonists",
+	"drugclass": "Progestin Antagonists",
+	"drugs": [
+		"Korlym",
+		"Mifeprex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5daf868f65534b5b0ef"
+	},
+	"url_address": "https://www.goodrx.com/progestin-agonist-antagonists",
+	"drugclass": "Progestin Agonist/Antagonists",
+	"drugs": [
+		"Ella"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5ddf868f65534b5b0f0"
+	},
+	"url_address": "https://www.goodrx.com/progesterones",
+	"drugclass": "Progesterones",
+	"drugs": [
+		"Prometrium",
+		"Endometrin",
+		"Crinone",
+		"preventeza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5dff868f65534b5b0f1"
+	},
+	"url_address": "https://www.goodrx.com/potassium-sparing-diuretics",
+	"drugclass": "Potassium-Sparing Diuretics",
+	"drugs": [
+		"Midamor",
+		"Dyrenium"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5e2f868f65534b5b0f2"
+	},
+	"url_address": "https://www.goodrx.com/potassium-salts",
+	"drugclass": "Potassium Salts",
+	"drugs": [
+		"Klor-Con M",
+		"K-Tab",
+		"Klor-Con",
+		"Micro-K",
+		"Urocit-K",
+		"potassium chloride",
+		"Effer-K",
+		"K-Effervescent",
+		"Epiklor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5e4f868f65534b5b0f3"
+	},
+	"url_address": "https://www.goodrx.com/potassium-channel-openers",
+	"drugclass": "Potassium Channel Openers",
+	"drugs": []
+},
+{
+	"_id": {
+		"$oid": "5b2bc5e6f868f65534b5b0f4"
+	},
+	"url_address": "https://www.goodrx.com/potassium-channel-blockers",
+	"drugclass": "Potassium Channel Blockers",
+	"drugs": [
+		"Ampyra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5e9f868f65534b5b0f5"
+	},
+	"url_address": "https://www.goodrx.com/potassium-binders",
+	"drugclass": "Potassium Binders",
+	"drugs": [
+		"Kayexalate",
+		"Veltassa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5ecf868f65534b5b0f6"
+	},
+	"url_address": "https://www.goodrx.com/polypeptide-antibiotics",
+	"drugclass": "Polypeptide Antibiotics",
+	"drugs": [
+		"bacitracin",
+		"Ak-Poly-Bac",
+		"Coly-Mycin M",
+		"Polysporin",
+		"Cosmegen",
+		"polymyxin b"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5eef868f65534b5b0f7"
+	},
+	"url_address": "https://www.goodrx.com/polypeptide-antifolate-antibiotic-combinations",
+	"drugclass": "Polypeptide / Antifolate Antibiotic Combinations",
+	"drugs": [
+		"Polytrim"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5f1f868f65534b5b0f8"
+	},
+	"url_address": "https://www.goodrx.com/polyene-antifungals",
+	"drugclass": "Polyene Antifungals",
+	"drugs": [
+		"Nystop",
+		"Nyamyc",
+		"Natacyn",
+		"Ambisome",
+		"Pedi-Dri",
+		"Abelcet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5f2f868f65534b5b0f9"
+	},
+	"url_address": "https://www.goodrx.com/polyene-antifungal-corticosteroid-combinations",
+	"drugclass": "Polyene Antifungal / Corticosteroid Combinations",
+	"drugs": [
+		"nystatin / triamcinolone"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5f5f868f65534b5b0fa"
+	},
+	"url_address": "https://www.goodrx.com/podophyllotoxins",
+	"drugclass": "Podophyllotoxins",
+	"drugs": [
+		"Condylox"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5f7f868f65534b5b0fb"
+	},
+	"url_address": "https://www.goodrx.com/pleuromutilin-antibiotics",
+	"drugclass": "Pleuromutilin Antibiotics",
+	"drugs": [
+		"Altabax"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5f9f868f65534b5b0fc"
+	},
+	"url_address": "https://www.goodrx.com/platinum-based-drugs",
+	"drugclass": "Platinum-based Drugs",
+	"drugs": [
+		"carboplatin",
+		"Eloxatin",
+		"cisplatin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5fcf868f65534b5b0fd"
+	},
+	"url_address": "https://www.goodrx.com/plasma-kallikrein-inhibitors",
+	"drugclass": "Plasma Kallikrein Inhibitors",
+	"drugs": [
+		"Kalbitor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc5fef868f65534b5b0fe"
+	},
+	"url_address": "https://www.goodrx.com/pituitary-hormones",
+	"drugclass": "Pituitary Hormones",
+	"drugs": [
+		"Pitocin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc600f868f65534b5b0ff"
+	},
+	"url_address": "https://www.goodrx.com/photoenhancers",
+	"drugclass": "Photoenhancers",
+	"drugs": [
+		"Visudyne",
+		"Photrexa Viscous",
+		"Ameluz",
+		"Photrexa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc602f868f65534b5b100"
+	},
+	"url_address": "https://www.goodrx.com/phosphate-supplements",
+	"drugclass": "Phosphate Supplements",
+	"drugs": [
+		"K-Phos Neutral",
+		"K-Phos",
+		"K-Phos 2",
+		"K-Phos MF"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc605f868f65534b5b101"
+	},
+	"url_address": "https://www.goodrx.com/phosphate-binders",
+	"drugclass": "Phosphate Binders",
+	"drugs": [
+		"Phoslo",
+		"Renvela",
+		"Renagel",
+		"Fosrenol",
+		"Velphoro",
+		"Auryxia",
+		"Phoslyra",
+		"eliphos"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc60af868f65534b5b102"
+	},
+	"url_address": "https://www.goodrx.com/pet-medications",
+	"drugclass": "Pet Medications",
+	"drugs": [
+		"Galliprant",
+		"Heartgard Plus",
+		"Anxitane",
+		"Advantage Multi for Cats",
+		"Virbantel",
+		"Cosequin DS",
+		"Fiproguard Max for Cats",
+		"Cerenia",
+		"Deramaxx",
+		"Novox",
+		"Tumil-K",
+		"Epi-Soothe",
+		"Milbemite",
+		"Endosorb",
+		"Dasuquin With Msm",
+		"Composure for Cats",
+		"Fiproguard for Cats",
+		"Zeniquin",
+		"Glyco-Flex Feline",
+		"Activyl for Cats",
+		"Apoquel",
+		"Advantage II for Dogs",
+		"Tape Worm Tabs",
+		"Resultix",
+		"Synovi G4",
+		"Amoxi-Tabs",
+		"Synovi G3",
+		"Advantage II for Cats",
+		"Renaplus",
+		"Effipro",
+		"Bio Spot Active Care for Dogs",
+		"Thyro-Tabs",
+		"Kinavet-Ca1",
+		"Truprofen",
+		"Salix",
+		"Drontal",
+		"Profender",
+		"Cestex",
+		"Trifexis",
+		"Ammonil",
+		"Glyco-Flex Classic",
+		"Pancrezyme",
+		"Atopica for Dogs",
+		"K-Brovet",
+		"Bravecto",
+		"Capstar",
+		"Simplicef",
+		"Biomox",
+		"Pala-Tech Thyroid",
+		"Duralactin Joint Plus",
+		"Zymox Without Hydrocortisone",
+		"Revolution for Dogs",
+		"Viralys",
+		"Anipryl",
+		"Pet Armor for Dogs",
+		"Mometamax",
+		"Vectra 3D",
+		"Cosequin for Dogs",
+		"Epakitin",
+		"Vetasyl",
+		"Parastar",
+		"Interceptor",
+		"Activyl Tick Plus",
+		"Vetmedin",
+		"Baytril",
+		"Antirobe",
+		"Fiproguard for Dogs",
+		"Easyspot",
+		"Drontal Plus",
+		"Thyrokare",
+		"Tresaderm",
+		"Nutri-Cal for Cats",
+		"Entederm",
+		"Simparica",
+		"Cholodin",
+		"Methigel",
+		"Synovialmax",
+		"Mitaban",
+		"Nutri-Cal for Dogs",
+		"Frontline Plus for Dogs",
+		"Metacam",
+		"acepromazine",
+		"Certifect",
+		"Previcox",
+		"Atopica for Cats",
+		"Duralactin Canine",
+		"Methio-Form",
+		"Iverhart Plus",
+		"Posatex",
+		"Soloxine",
+		"Comfortis",
+		"Denamarin",
+		"Thyrovet",
+		"Terramycin",
+		"Activyl for Dogs",
+		"Cheristin for Cats",
+		"Effitix",
+		"Sentinel",
+		"Denosyl",
+		"Tritop",
+		"phenylbutazone",
+		"Uroeze",
+		"Cosequin DS Plus Msm",
+		"Heartgard for Cats",
+		"Composure for Dogs",
+		"Otomax",
+		"Zymox With Hydrocortisone",
+		"Amoxi-Drop",
+		"Genesis",
+		"Marin for Cats",
+		"Duralactin Feline",
+		"Azodyl",
+		"Dasuquin for Cats",
+		"Malaseb",
+		"Clomicalm",
+		"Marin for Dogs",
+		"Petromalt",
+		"Frontline Tritak for Cats",
+		"Phycox",
+		"Sentinel Spectrum",
+		"Eradimite",
+		"Frontline Tritak for Dogs",
+		"Fiproguard Max for Dogs",
+		"Bio Spot for Cats",
+		"Frontline Plus for Cats",
+		"Albon",
+		"Parastar Plus",
+		"Revolution for Cats",
+		"Felimazole",
+		"Allermyl",
+		"Droncit Feline",
+		"K9 Advantix II",
+		"Pet Armor for Cats",
+		"Primor",
+		"Onsior",
+		"Percorten-V",
+		"Pyoben",
+		"Adequan",
+		"Iverhart Max",
+		"Glyco-Flex for Dogs",
+		"Panakare Plus",
+		"Otomite Plus",
+		"Nexgard",
+		"Vetoryl",
+		"Optimmune",
+		"Animax",
+		"Surolan",
+		"Advantage Multi for Dogs",
+		"Synotic",
+		"Ketochlor",
+		"Pancreved",
+		"Frontline",
+		"Osurnia",
+		"Panacur C",
+		"Clavamox",
+		"Laxatone",
+		"Revolution for Puppies and Kittens",
+		"Epizyme",
+		"Orbax",
+		"Temaril-P",
+		"Dasuquin for Dogs",
+		"Droncit Canine",
+		"Rilexine",
+		"Rimadyl",
+		"Cosequin for Cats",
+		"Vetprofen",
+		"Vetsulin",
+		"Incurin",
+		"Heartgard for Dogs",
+		"Quellin",
+		"Proin",
+		"Composure Max",
+		"Prozinc",
+		"Betagen",
+		"Tri-Heart Plus",
+		"Lax'aire"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc60ef868f65534b5b103"
+	},
+	"url_address": "https://www.goodrx.com/penicillin-antibiotics",
+	"drugclass": "Penicillin Antibiotics",
+	"drugs": [
+		"amoxicillin",
+		"penicillin v potassium",
+		"dicloxacillin",
+		"ampicillin",
+		"Bicillin L-A",
+		"Bicillin CR 900/300",
+		"Unasyn",
+		"Moxatag",
+		"penicillin g potassium",
+		"Bicillin CR"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc610f868f65534b5b104"
+	},
+	"url_address": "https://www.goodrx.com/penicillin-antibiotic-beta-lactamase-inhibitor-combinations",
+	"drugclass": "Penicillin Antibiotic / Beta Lactamase Inhibitor Combinations",
+	"drugs": [
+		"Augmentin",
+		"Augmentin XR",
+		"Zosyn"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc612f868f65534b5b105"
+	},
+	"url_address": "https://www.goodrx.com/penem-antibiotics",
+	"drugclass": "Penem Antibiotics",
+	"drugs": [
+		"Invanz",
+		"Merrem"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc614f868f65534b5b106"
+	},
+	"url_address": "https://www.goodrx.com/pediculides",
+	"drugclass": "Pediculides",
+	"drugs": [
+		"Natroba",
+		"Ulesfia"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc617f868f65534b5b107"
+	},
+	"url_address": "https://www.goodrx.com/pde5-inhibitors",
+	"drugclass": "PDE5 Inhibitors",
+	"drugs": [
+		"Viagra",
+		"Revatio",
+		"Cialis",
+		"Levitra",
+		"Adcirca",
+		"Stendra",
+		"Staxyn"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc61af868f65534b5b108"
+	},
+	"url_address": "https://www.goodrx.com/pde4-inhibitors",
+	"drugclass": "PDE4 Inhibitors",
+	"drugs": [
+		"Daliresp",
+		"Eucrisa",
+		"Otezla"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc61df868f65534b5b109"
+	},
+	"url_address": "https://www.goodrx.com/pde3-inhibitors",
+	"drugclass": "PDE3 Inhibitors",
+	"drugs": [
+		"Pletal",
+		"milrinone"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc61ff868f65534b5b10a"
+	},
+	"url_address": "https://www.goodrx.com/pd-inhibitors",
+	"drugclass": "PD Inhibitors",
+	"drugs": [
+		"Opdivo",
+		"Keytruda"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc622f868f65534b5b10b"
+	},
+	"url_address": "https://www.goodrx.com/pcsk9-inhibitors",
+	"drugclass": "PCSK9 Inhibitors",
+	"drugs": [
+		"Repatha",
+		"Praluent"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc624f868f65534b5b10c"
+	},
+	"url_address": "https://www.goodrx.com/parp-inhibitors",
+	"drugclass": "PARP Inhibitors",
+	"drugs": [
+		"Lynparza",
+		"Zejula",
+		"Rubraca"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc626f868f65534b5b10d"
+	},
+	"url_address": "https://www.goodrx.com/parathyroid-hormones",
+	"drugclass": "Parathyroid Hormones",
+	"drugs": [
+		"Forteo",
+		"Tymlos",
+		"Natpara"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc629f868f65534b5b10e"
+	},
+	"url_address": "https://www.goodrx.com/oxazolidinone-antibiotics",
+	"drugclass": "Oxazolidinone Antibiotics",
+	"drugs": [
+		"Zyvox",
+		"Sivextro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc62bf868f65534b5b10f"
+	},
+	"url_address": "https://www.goodrx.com/oxaborole-antifungals",
+	"drugclass": "Oxaborole Antifungals",
+	"drugs": [
+		"Kerydin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc62ff868f65534b5b110"
+	},
+	"url_address": "https://www.goodrx.com/osmotic-laxatives",
+	"drugclass": "Osmotic Laxatives",
+	"drugs": [
+		"polyethylene glycol 3350",
+		"Enulose",
+		"Constulose",
+		"Suprep Bowel Prep",
+		"Gavilyte-G",
+		"Golytely",
+		"Nulytely",
+		"Colyte",
+		"Gavilyte-N",
+		"Moviprep",
+		"Miralax",
+		"Glycolax",
+		"Gavilyte-C",
+		"Clenpiq",
+		"Kristalose",
+		"Osmoprep",
+		"Fleet",
+		"Colprep"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc635f868f65534b5b111"
+	},
+	"url_address": "https://www.goodrx.com/osmotic-stimulant-laxative-combinations",
+	"drugclass": "Osmotic / Stimulant Laxative Combinations",
+	"drugs": [
+		"Prepopik",
+		"Halflytely and Bisacodyl"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc637f868f65534b5b112"
+	},
+	"url_address": "https://www.goodrx.com/orexin-receptor-antagonists",
+	"drugclass": "Orexin Receptor Antagonists",
+	"drugs": [
+		"Belsomra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc63df868f65534b5b113"
+	},
+	"url_address": "https://www.goodrx.com/opioids",
+	"drugclass": "Opioids",
+	"drugs": [
+		"Ultram",
+		"Roxicodone",
+		"Kadian",
+		"MS Contin",
+		"Methadose",
+		"Dolophine",
+		"Dilaudid",
+		"Oxycontin",
+		"Duragesic",
+		"morphine",
+		"Conzip",
+		"Ultram ER",
+		"oxymorphone ER",
+		"Nucynta",
+		"Demerol",
+		"Nucynta ER",
+		"codeine",
+		"Xtampza ER",
+		"Hysingla ER",
+		"Opana",
+		"Zohydro ER",
+		"opium",
+		"Exalgo",
+		"morphine once-daily",
+		"Morphabond ER",
+		"levorphanol",
+		"Arymo ER",
+		"Actiq",
+		"Oxaydo",
+		"Opana ER",
+		"Subsys",
+		"Probuphine",
+		"Onsolis",
+		"Fentora",
+		"Lazanda",
+		"Ionsys",
+		"Abstral",
+		"Roxybond"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc63ff868f65534b5b114"
+	},
+	"url_address": "https://www.goodrx.com/opioid-antagonists",
+	"drugclass": "Opioid Antagonists",
+	"drugs": [
+		"Revia",
+		"Narcan",
+		"Movantik",
+		"naloxone",
+		"Vivitrol",
+		"Relistor",
+		"Symproic",
+		"Evzio",
+		"Entereg"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc641f868f65534b5b115"
+	},
+	"url_address": "https://www.goodrx.com/opioid-antagonist-atypical-antidepressant-combinations",
+	"drugclass": "Opioid Antagonist / Atypical Antidepressant Combinations",
+	"drugs": [
+		"Contrave"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc645f868f65534b5b116"
+	},
+	"url_address": "https://www.goodrx.com/opioid-agonist-antagonists",
+	"drugclass": "Opioid Agonist/Antagonists",
+	"drugs": [
+		"buprenorphine / naloxone",
+		"Suboxone Film",
+		"Butrans",
+		"Buprenex",
+		"Zubsolv",
+		"butorphanol",
+		"Viberzi",
+		"pentazocine / naloxone",
+		"Belbuca",
+		"Bunavail",
+		"Embeda",
+		"nalbuphine",
+		"Troxyca ER",
+		"Sublocade"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc647f868f65534b5b117"
+	},
+	"url_address": "https://www.goodrx.com/opioid-sudafed-combinations",
+	"drugclass": "Opioid / Sudafed Combinations",
+	"drugs": [
+		"Rezira",
+		"hydrocodone / pseudoephedrine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc649f868f65534b5b118"
+	},
+	"url_address": "https://www.goodrx.com/opioid-phenothiazine-combinations",
+	"drugclass": "Opioid / Phenothiazine Combinations",
+	"drugs": [
+		"promethazine / codeine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc64cf868f65534b5b119"
+	},
+	"url_address": "https://www.goodrx.com/opioid-nsaid-combinations",
+	"drugclass": "Opioid / NSAID Combinations",
+	"drugs": [
+		"Ibudone",
+		"Reprexain",
+		"Vicoprofen",
+		"Percodan",
+		"oxycodone / ibuprofen",
+		"Synalgos DC"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc64ef868f65534b5b11a"
+	},
+	"url_address": "https://www.goodrx.com/opioid-anticholinergic-combinations",
+	"drugclass": "Opioid / Anticholinergic Combinations",
+	"drugs": [
+		"Hydromet",
+		"Tussigon"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc652f868f65534b5b11b"
+	},
+	"url_address": "https://www.goodrx.com/opioid-acetaminophen-combinations",
+	"drugclass": "Opioid / Acetaminophen Combinations",
+	"drugs": [
+		"Vicodin",
+		"Lortab",
+		"Norco",
+		"Xodol",
+		"Hycet",
+		"Endocet",
+		"Percocet",
+		"Roxicet",
+		"Tylenol With Codeine",
+		"Ultracet",
+		"Trezix",
+		"zyfrel",
+		"Capital and Codeine",
+		"Magnacet",
+		"Zamicet",
+		"Primlev",
+		"Xartemis XR",
+		"acetaminophen / caffeine / dihydrocodeine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc655f868f65534b5b11c"
+	},
+	"url_address": "https://www.goodrx.com/omega-3-fatty-acids",
+	"drugclass": "Omega-3 Fatty Acids",
+	"drugs": [
+		"Lovaza",
+		"Vascepa",
+		"Omtryg",
+		"Epanova"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc657f868f65534b5b11d"
+	},
+	"url_address": "https://www.goodrx.com/nucleotide-polymerase-inhibitors",
+	"drugclass": "Nucleotide Polymerase Inhibitors",
+	"drugs": [
+		"Sovaldi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc659f868f65534b5b11e"
+	},
+	"url_address": "https://www.goodrx.com/nucleotide-polymerase-ns5a-inhibitor-combinations",
+	"drugclass": "Nucleotide Polymerase / NS5A Inhibitor Combinations",
+	"drugs": [
+		"Vemlidy",
+		"Harvoni",
+		"Epclusa",
+		"Vosevi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc65df868f65534b5b11f"
+	},
+	"url_address": "https://www.goodrx.com/nucleoside-metabolic-inhibitors",
+	"drugclass": "Nucleoside Metabolic Inhibitors",
+	"drugs": [
+		"Carac",
+		"Efudex",
+		"Adrucil",
+		"Xeloda",
+		"Lonsurf",
+		"Fluoroplex",
+		"Tolak",
+		"Clolar",
+		"Dacogen",
+		"Gemzar",
+		"cytarabine",
+		"fludarabine",
+		"Depocyt",
+		"Vidaza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc660f868f65534b5b120"
+	},
+	"url_address": "https://www.goodrx.com/nucleoside-analogue-antivirals",
+	"drugclass": "Nucleoside Analogue Antivirals",
+	"drugs": [
+		"Viroptic",
+		"Rebetol",
+		"Copegus",
+		"Virazole",
+		"Moderiba"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc662f868f65534b5b121"
+	},
+	"url_address": "https://www.goodrx.com/nucleoside-analogue-antifungals",
+	"drugclass": "Nucleoside Analogue Antifungals",
+	"drugs": [
+		"Ancobon"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc66af868f65534b5b122"
+	},
+	"url_address": "https://www.goodrx.com/nsaids",
+	"drugclass": "NSAIDs",
+	"drugs": [
+		"ibuprofen",
+		"Mobic",
+		"Anaprox",
+		"Naprosyn",
+		"Anaprox DS",
+		"Voltaren Gel",
+		"Pennsaid",
+		"Solaraze",
+		"Voltaren",
+		"aspirin",
+		"Celebrex",
+		"Acular",
+		"Acular LS",
+		"Indocin",
+		"nabumetone",
+		"etodolac",
+		"Cambia",
+		"Cataflam",
+		"sulindac",
+		"Feldene",
+		"Voltaren XR",
+		"Ec-Naprosyn",
+		"indomethacin ER",
+		"Children's Advil",
+		"Children's Motrin",
+		"Ocufen",
+		"Prolensa",
+		"Ilevro",
+		"Flector",
+		"Advil",
+		"Motrin IB",
+		"Daypro",
+		"salsalate",
+		"flurbiprofen",
+		"diflunisal",
+		"etodolac ER",
+		"bromfenac",
+		"Ponstel",
+		"Nevanac",
+		"Bromsite",
+		"ketoprofen ER",
+		"Motrin Junior Strength",
+		"Advil Junior Strength",
+		"Zorvolex",
+		"ketoprofen",
+		"Nalfon",
+		"meclofenamate",
+		"Naprelan",
+		"Zipsor",
+		"Infants Advil",
+		"Aleve",
+		"Vivlodex",
+		"tolmetin",
+		"Tivorbex",
+		"Infants Motrin",
+		"Advil Congestion",
+		"Advil Migraine",
+		"Sudafed Pressure and Pain",
+		"Ibuprofen Lysine",
+		"choline magnesium trisalicylate",
+		"Durlaza",
+		"Acuvail",
+		"Sprix",
+		"Neoprofen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc66cf868f65534b5b123"
+	},
+	"url_address": "https://www.goodrx.com/nsaid-cough-and-cold-combinations",
+	"drugclass": "NSAID Cough and Cold Combinations",
+	"drugs": [
+		"Advil Cold and Sinus",
+		"Advil Allergy Sinus",
+		"Advil Allergy and Congestion",
+		"Advil PM",
+		"Motrin PM"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc66ef868f65534b5b124"
+	},
+	"url_address": "https://www.goodrx.com/nsaid-proton-pump-inhibitor-combinations",
+	"drugclass": "NSAID / Proton Pump Inhibitor Combinations",
+	"drugs": [
+		"Vimovo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc671f868f65534b5b125"
+	},
+	"url_address": "https://www.goodrx.com/nsaid-prostaglandin-combinations",
+	"drugclass": "NSAID / Prostaglandin Combinations",
+	"drugs": [
+		"Arthrotec"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc673f868f65534b5b126"
+	},
+	"url_address": "https://www.goodrx.com/nsaid-histamine-2-antagonist-combinations",
+	"drugclass": "NSAID / Histamine-2 Antagonist Combinations",
+	"drugs": [
+		"Duexis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc675f868f65534b5b127"
+	},
+	"url_address": "https://www.goodrx.com/ns5a-inhibitors",
+	"drugclass": "NS5A Inhibitors",
+	"drugs": [
+		"Daklinza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc677f868f65534b5b128"
+	},
+	"url_address": "https://www.goodrx.com/nris",
+	"drugclass": "NRIs",
+	"drugs": [
+		"Strattera"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc679f868f65534b5b129"
+	},
+	"url_address": "https://www.goodrx.com/nrf2-activator",
+	"drugclass": "NRF2 Activator",
+	"drugs": [
+		"Tecfidera"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc67bf868f65534b5b12a"
+	},
+	"url_address": "https://www.goodrx.com/nonselective-alpha-beta-blockers",
+	"drugclass": "Nonselective Alpha/Beta Blockers",
+	"drugs": [
+		"Coreg",
+		"Coreg CR"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc67ef868f65534b5b12b"
+	},
+	"url_address": "https://www.goodrx.com/non-narcotic-antitussives",
+	"drugclass": "Non-narcotic Antitussives",
+	"drugs": [
+		"Tessalon",
+		"Delsym",
+		"Dayquil Cough",
+		"Zonatuss"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc680f868f65534b5b12c"
+	},
+	"url_address": "https://www.goodrx.com/nmda-receptor-antagonists",
+	"drugclass": "NMDA Receptor Antagonists",
+	"drugs": [
+		"Namenda",
+		"Namenda XR",
+		"Ketalar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc682f868f65534b5b12d"
+	},
+	"url_address": "https://www.goodrx.com/nmda-receptor-antagonist-cholinesterase-inhibitor-combinations",
+	"drugclass": "NMDA Receptor Antagonist / Cholinesterase Inhibitor Combinations",
+	"drugs": [
+		"Namzaric",
+		"memantine / donepezil"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc684f868f65534b5b12e"
+	},
+	"url_address": "https://www.goodrx.com/nmda-receptor-antagonist-antiarrhythmic-combinations",
+	"drugclass": "NMDA Receptor Antagonist / Antiarrhythmic Combinations",
+	"drugs": [
+		"Nuedexta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc686f868f65534b5b12f"
+	},
+	"url_address": "https://www.goodrx.com/nk1-receptor-antagonists",
+	"drugclass": "NK1 Receptor Antagonists",
+	"drugs": [
+		"memantine ER",
+		"Emend",
+		"Varubi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc688f868f65534b5b130"
+	},
+	"url_address": "https://www.goodrx.com/nk1-serotonin-antagonist-combinations",
+	"drugclass": "NK1 / Serotonin Antagonist Combinations",
+	"drugs": [
+		"Akynzeo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc68bf868f65534b5b131"
+	},
+	"url_address": "https://www.goodrx.com/nitroimidazole-antibiotics",
+	"drugclass": "Nitroimidazole Antibiotics",
+	"drugs": [
+		"Metrogel",
+		"Metrocream",
+		"Flagyl",
+		"Metrolotion",
+		"Metrogel-Vaginal",
+		"Tindamax",
+		"Vandazole",
+		"Noritate",
+		"Solosec",
+		"Nuvessa",
+		"Flagyl ER",
+		"Rosadan"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc68df868f65534b5b132"
+	},
+	"url_address": "https://www.goodrx.com/nitroimidazole-tetracycline-antibiotic-combinations",
+	"drugclass": "Nitroimidazole / Tetracycline Antibiotic Combinations",
+	"drugs": [
+		"Pylera",
+		"Helidac"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc68ff868f65534b5b133"
+	},
+	"url_address": "https://www.goodrx.com/nitrofuran-antibiotics",
+	"drugclass": "Nitrofuran Antibiotics",
+	"drugs": [
+		"Macrobid",
+		"Furadantin",
+		"Macrodantin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc692f868f65534b5b134"
+	},
+	"url_address": "https://www.goodrx.com/nitrates",
+	"drugclass": "Nitrates",
+	"drugs": [
+		"isosorbide mononitrate ER",
+		"Nitro-Dur",
+		"Nitrolingual",
+		"Isordil",
+		"Monoket",
+		"Nitro-Time",
+		"Nitro-Bid",
+		"Nitrostat",
+		"Rectiv",
+		"Dilatrate SR",
+		"Nitromist"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc695f868f65534b5b135"
+	},
+	"url_address": "https://www.goodrx.com/nicotinic-acids",
+	"drugclass": "Nicotinic Acids",
+	"drugs": [
+		"Niaspan",
+		"niacin",
+		"Niacor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc698f868f65534b5b136"
+	},
+	"url_address": "https://www.goodrx.com/nicotine-agonists",
+	"drugclass": "Nicotine Agonists",
+	"drugs": [
+		"nicotine",
+		"Chantix",
+		"Nicotrol",
+		"Nicorette",
+		"Nicoderm CQ"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc69af868f65534b5b137"
+	},
+	"url_address": "https://www.goodrx.com/neuraminidase-inhibitors",
+	"drugclass": "Neuraminidase Inhibitors",
+	"drugs": [
+		"Tamiflu",
+		"Relenza",
+		"Rapivab"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc69df868f65534b5b138"
+	},
+	"url_address": "https://www.goodrx.com/muscle-relaxants",
+	"drugclass": "Muscle Relaxants",
+	"drugs": [
+		"cyclobenzaprine",
+		"Robaxin",
+		"Soma",
+		"Skelaxin",
+		"orphenadrine ER",
+		"chlorzoxazone",
+		"Revonto",
+		"Dantrium",
+		"Lorzone",
+		"Amrix",
+		"meprobamate",
+		"rocuronium",
+		"Fexmid",
+		"vecuronium",
+		"cisatracurium"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc69ff868f65534b5b139"
+	},
+	"url_address": "https://www.goodrx.com/muscle-relaxant-opioid-nsaid-combinations",
+	"drugclass": "Muscle Relaxant / Opioid / NSAID Combinations",
+	"drugs": [
+		"carisoprodol / aspirin / codeine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6a2f868f65534b5b13a"
+	},
+	"url_address": "https://www.goodrx.com/muscle-relaxant-nsaid-combinations",
+	"drugclass": "Muscle Relaxant / NSAID Combinations",
+	"drugs": [
+		"carisoprodol / aspirin",
+		"orphenadrine / aspirin / caffeine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6a5f868f65534b5b13b"
+	},
+	"url_address": "https://www.goodrx.com/muscarinic-antagonists",
+	"drugclass": "Muscarinic Antagonists",
+	"drugs": [
+		"Ditropan XL",
+		"oxybutynin",
+		"Vesicare",
+		"Sanctura",
+		"Detrol",
+		"Toviaz",
+		"trospium ER",
+		"flavoxate",
+		"Oxytrol",
+		"Detrol LA",
+		"Gelnique",
+		"Enablex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6a9f868f65534b5b13c"
+	},
+	"url_address": "https://www.goodrx.com/muscarinic-agonists",
+	"drugclass": "Muscarinic Agonists",
+	"drugs": [
+		"tolterodine ER",
+		"Urecholine",
+		"darifenacin ER",
+		"Oxytrol for Women",
+		"solifenacin",
+		"fesoterodine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6b3f868f65534b5b13d"
+	},
+	"url_address": "https://www.goodrx.com/multivitamin-and-mineral-supplements",
+	"drugclass": "Multivitamin and Mineral Supplements",
+	"drugs": [
+		"magnesium oxide",
+		"Oysco 500 Plus D",
+		"multivitamin with fluoride",
+		"Pnv Prenatal Plus Multivitamin",
+		"vitamin B6",
+		"preplus",
+		"Folbic",
+		"Poly-Vi-Sol With Iron",
+		"Ferralet 90",
+		"l-methyl B6 b12",
+		"Integra Plus",
+		"Integra",
+		"Folbee",
+		"Prenate Mini",
+		"melatonin",
+		"Poly-Vi-Sol",
+		"Rena-Vite RX",
+		"Fusion Plus",
+		"Dialyvite",
+		"Vitafol Ultra",
+		"prenatal plus low iron",
+		"OB Complete Petite",
+		"vol-plus",
+		"Integra F",
+		"triphrocaps",
+		"prenatal 19",
+		"Reguloid",
+		"poly-iron forte",
+		"prena1 pearl",
+		"Prenatabs RX",
+		"se-natal 19",
+		"Pnv DHA",
+		"Renal Caps",
+		"Foltx",
+		"Folbee Plus",
+		"prenatabs FA",
+		"Citranatal Assure",
+		"Virt-Pn DHA",
+		"Concept DHA",
+		"Ferocon",
+		"Vol-Care",
+		"Vitafol One",
+		"Dialyvite 5000",
+		"Chromagen",
+		"Citranatal 90 DHA",
+		"Hemocyte Plus",
+		"se-tan plus",
+		"Vinate One",
+		"folivane-plus",
+		"Vitapearl",
+		"multigen plus",
+		"multivitamin with fluoride and iron",
+		"Tristart DHA",
+		"ferrex 28",
+		"Daily-Vite",
+		"Nestabs DHA",
+		"tab-a-vite",
+		"Prenate DHA",
+		"Cerefolin",
+		"Ferraplus 90",
+		"Enlyte",
+		"Citranatal Harmony",
+		"Pnv DHA Plus Docusate",
+		"Virt-Vite Forte",
+		"folivane-f",
+		"prenatal plus iron",
+		"Select-Ob Plus DHA",
+		"taron-c DHA",
+		"vitafol OB plus DHA",
+		"Nephro-Vite RX",
+		"Cardiotek RX",
+		"Vinate M",
+		"Enbrace HR",
+		"Animi-3",
+		"Tl-Hem",
+		"Folgard OS",
+		"Virt-Vite",
+		"Dialyvite With Zinc",
+		"OB Complete One",
+		"Prenate Pixie",
+		"Proferrin Forte",
+		"Nephplex RX",
+		"Prenate Elite",
+		"Complete Natal DHA",
+		"taron forte",
+		"vol-tab RX",
+		"Dialyvite 3000",
+		"Folbee Plus CZ",
+		"Nicomide",
+		"Nephrocaps",
+		"prena1 chew",
+		"Prenaissance",
+		"Vitamedmd One RX",
+		"Folgard",
+		"Centratex",
+		"Hematogen Forte",
+		"Vitafol Nano",
+		"multigen folic",
+		"Foltrate",
+		"Nephron FA",
+		"Prenate Essential",
+		"Prenate Enhance",
+		"prenatal plus",
+		"Prenaissance Plus",
+		"Corvite FE",
+		"Prenate Chewable",
+		"Dialyvite Supreme D",
+		"Pnv Select",
+		"Purevit Dualfe Plus",
+		"Hematogen",
+		"Citranatal DHA",
+		"taron-prex",
+		"TL gard RX",
+		"Citranatal B-Calm",
+		"folivane-ob",
+		"Vinate Care",
+		"Nestabs",
+		"Concept OB",
+		"Feriva 21/7",
+		"DuetDHA Balanced",
+		"Hematogen FA",
+		"Tandem Plus",
+		"Fabb",
+		"niva plus",
+		"Thera-M",
+		"Floriva",
+		"Vinate II",
+		"quflora",
+		"OB Complete Gold",
+		"Prenate AM",
+		"Neevo DHA",
+		"Tandem",
+		"Feriva FA",
+		"Vemavite-Prx 2",
+		"Prenate Restore",
+		"prena1 plus",
+		"Virtprex",
+		"Vinacal",
+		"Triadvance",
+		"coq10",
+		"Vitamedmd Plus RX",
+		"Foltabs Prenatal Plus DHA",
+		"Natelle One",
+		"corvita 150",
+		"Folbecal",
+		"Pnv OB DHA",
+		"Puralor CI",
+		"Virt-Pn Plus",
+		"Active OB",
+		"Maxaron Forte",
+		"Vinate Ultra",
+		"Vinate PN Care",
+		"folivane-prx DHA",
+		"Folcaps Omega 3",
+		"Complete-RF",
+		"Elite OB With DHA",
+		"PR natal EC",
+		"natalvirt CA",
+		"Cavan-Ec Sod DHA",
+		"natalvirt 90 DHA",
+		"Animi-3 With Vitamin D",
+		"Metamucil",
+		"prena1",
+		"Nexa Select",
+		"Preferaob Plus DHA",
+		"virt-phos",
+		"Ultimatecare One NF",
+		"Preferaob One",
+		"Prenexa",
+		"TL icon",
+		"Feriva",
+		"OB Complete Premier",
+		"Dermanic",
+		"hylafem",
+		"Folcaps",
+		"Folcaps Care One",
+		"PR natal",
+		"Marnatal F",
+		"reno caps",
+		"Ferrogels Forte",
+		"Virt-Vite Plus",
+		"Prenate Star",
+		"vitamin b complex",
+		"dhea",
+		"Nexa Plus",
+		"Cavan Alpha",
+		"paire OB plus DHA",
+		"Tandem F",
+		"glutathione",
+		"Ferotrin",
+		"Nephrocaps QT",
+		"taron-bc",
+		"se-tan DHA",
+		"Phluorivit With Iron",
+		"Multilex-Tm",
+		"Preferaob",
+		"Active FE",
+		"se-natal one",
+		"Prenaplus",
+		"Diatx ZN",
+		"zinc sulfate",
+		"Vinate GT",
+		"folplex",
+		"natalvirt flt",
+		"Foltabs Prenatal",
+		"Gesticare DHA",
+		"Virt-Caps",
+		"Natafort",
+		"Nicazel"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6b6f868f65534b5b13e"
+	},
+	"url_address": "https://www.goodrx.com/mucolytics",
+	"drugclass": "Mucolytics",
+	"drugs": [
+		"Acetadote",
+		"Cetylev"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6b8f868f65534b5b13f"
+	},
+	"url_address": "https://www.goodrx.com/mtp-inhibitors",
+	"drugclass": "MTP Inhibitors",
+	"drugs": [
+		"Juxtapid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6baf868f65534b5b140"
+	},
+	"url_address": "https://www.goodrx.com/mtor-inhibitors",
+	"drugclass": "mTOR Inhibitors",
+	"drugs": [
+		"Rapamune"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6bcf868f65534b5b141"
+	},
+	"url_address": "https://www.goodrx.com/msaas",
+	"drugclass": "MSAAs",
+	"drugs": [
+		"Addyi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6bef868f65534b5b142"
+	},
+	"url_address": "https://www.goodrx.com/mood-stabilizers",
+	"drugclass": "Mood Stabilizers",
+	"drugs": [
+		"lithium",
+		"Lithobid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6c9f868f65534b5b143"
+	},
+	"url_address": "https://www.goodrx.com/monoclonal-antibodies",
+	"drugclass": "Monoclonal Antibodies",
+	"drugs": [
+		"Dupixent",
+		"Taltz",
+		"Tremfya",
+		"Fasenra",
+		"Ilaris",
+		"Aimovig",
+		"Darzalex",
+		"Ocrevus",
+		"Besponsa",
+		"Arzerra",
+		"Siliq",
+		"Lartruvo",
+		"Portrazza",
+		"Empliciti",
+		"Bavencio",
+		"Synagis",
+		"Praxbind",
+		"Mylotarg",
+		"Unituxin",
+		"Tecentriq",
+		"Kevzara",
+		"Blincyto"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6cbf868f65534b5b144"
+	},
+	"url_address": "https://www.goodrx.com/monobactam-antibiotics",
+	"drugclass": "Monobactam Antibiotics",
+	"drugs": [
+		"Cayston",
+		"Azactam"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6cef868f65534b5b145"
+	},
+	"url_address": "https://www.goodrx.com/microtubule-inhibitors",
+	"drugclass": "Microtubule Inhibitors",
+	"drugs": [
+		"Taxotere",
+		"Abraxane",
+		"paclitaxel",
+		"Docefrez",
+		"Adcetris",
+		"Halaven",
+		"Jevtana",
+		"Ixempra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6d1f868f65534b5b146"
+	},
+	"url_address": "https://www.goodrx.com/methylxanthines",
+	"drugclass": "Methylxanthines",
+	"drugs": [
+		"Theochron",
+		"Theo-24",
+		"Elixophyllin",
+		"Lufyllin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6d3f868f65534b5b147"
+	},
+	"url_address": "https://www.goodrx.com/methylxanthine-expectorant-combinations",
+	"drugclass": "Methylxanthine / Expectorant Combinations",
+	"drugs": [
+		"Lufyllin-Gg"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6d7f868f65534b5b148"
+	},
+	"url_address": "https://www.goodrx.com/metal-chelators",
+	"drugclass": "Metal Chelators",
+	"drugs": [
+		"Jadenu",
+		"Exjade",
+		"Syprine",
+		"Galzin",
+		"Ferriprox",
+		"Desferal",
+		"trientine",
+		"Chemet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6d9f868f65534b5b149"
+	},
+	"url_address": "https://www.goodrx.com/melatonin-receptor-agonists",
+	"drugclass": "Melatonin Receptor Agonists",
+	"drugs": [
+		"Rozerem",
+		"Hetlioz"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6dcf868f65534b5b14a"
+	},
+	"url_address": "https://www.goodrx.com/melanin-synthesis-inhibitors",
+	"drugclass": "Melanin Synthesis Inhibitors",
+	"drugs": [
+		"hydroquinone",
+		"hydroquinone time release",
+		"Melpaque HP",
+		"Lustra-Af",
+		"Nuquin HP",
+		"hydroquinone sunscreen",
+		"Melquin HP",
+		"Melquin 3",
+		"Lustra",
+		"Aclaro PD",
+		"Aclaro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6dff868f65534b5b14b"
+	},
+	"url_address": "https://www.goodrx.com/melanin-synthesis-inhibitor-retinoid-corticosteroid-combinations",
+	"drugclass": "Melanin Synthesis Inhibitor / Retinoid / Corticosteroid Combinations",
+	"drugs": [
+		"Tri-Luma"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6e1f868f65534b5b14c"
+	},
+	"url_address": "https://www.goodrx.com/megakaryocyte-growth-factors",
+	"drugclass": "Megakaryocyte Growth Factors",
+	"drugs": [
+		"Neumega"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6e6f868f65534b5b14d"
+	},
+	"url_address": "https://www.goodrx.com/medical-supplies-and-devices",
+	"drugclass": "Medical Supplies and Devices",
+	"drugs": [
+		"BD Ultra-Fine",
+		"Abbott Freestyle",
+		"Onetouch",
+		"Accu-Chek",
+		"BD Precisionglide",
+		"Trueplus",
+		"Bayer Contour",
+		"Freestyle Libre",
+		"sodium chloride",
+		"Novofine",
+		"Bayer Microlet",
+		"True Metrix",
+		"Aerochamber Plus W/Mask",
+		"Wavesense",
+		"Truetrack",
+		"Aerochamber Plus",
+		"Prochamber",
+		"Vgo",
+		"Novotwist",
+		"Bayer Breeze 2",
+		"Ayr",
+		"Easivent",
+		"sterile water",
+		"Avenova",
+		"Renacidin",
+		"Recedo",
+		"Neutrasal",
+		"Luxamend",
+		"Easivent W/Mask",
+		"Genadur",
+		"Nuvail",
+		"bacteriostatic water",
+		"Nova Max",
+		"Metopirone",
+		"Paragard",
+		"Advocate Redi-Code",
+		"Advocate Lancing",
+		"E-Z-Hd",
+		"Truebalance",
+		"Ulticare",
+		"Carepoint Vet",
+		"Easytouch",
+		"Keragel",
+		"Optiray 240",
+		"Optiray 320",
+		"Optiray 300",
+		"Optiray 350",
+		"Vet's Choice",
+		"Monoject",
+		"Clever Choice",
+		"Bionime",
+		"Aquoral",
+		"Primabella",
+		"Surecomfort",
+		"Keragelt",
+		"Levulan",
+		"Gleolan",
+		"Flexichamber",
+		"Advocate Insulin",
+		"True Focus",
+		"Netspot",
+		"Trueresult",
+		"Prodigy Autocode",
+		"Acticoat",
+		"True2Go",
+		"methylene blue",
+		"Pre-Pen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6e9f868f65534b5b14e"
+	},
+	"url_address": "https://www.goodrx.com/medical-foods",
+	"drugclass": "Medical Foods",
+	"drugs": [
+		"foltanx",
+		"Metanx",
+		"Cerefolin Nac",
+		"Vayarin",
+		"Deplin",
+		"Podiapn",
+		"Vayacog",
+		"Axona",
+		"Enteragam",
+		"Vasculera",
+		"Fosteum Plus",
+		"Vsl 3",
+		"Limbrel",
+		"Vayarol",
+		"Smoflipid",
+		"Vsl 3 DS",
+		"Fosteum"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6ecf868f65534b5b14f"
+	},
+	"url_address": "https://www.goodrx.com/mast-cell-stabilizers",
+	"drugclass": "Mast Cell Stabilizers",
+	"drugs": [
+		"Gastrocrom",
+		"Alocril",
+		"Alomide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6eff868f65534b5b150"
+	},
+	"url_address": "https://www.goodrx.com/maois",
+	"drugclass": "MAOIs",
+	"drugs": [
+		"Azilect",
+		"Eldepryl",
+		"Nardil",
+		"Parnate",
+		"Emsam",
+		"Xadago",
+		"Zelapar",
+		"Marplan"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6f1f868f65534b5b151"
+	},
+	"url_address": "https://www.goodrx.com/magnesium-supplements",
+	"drugclass": "Magnesium Supplements",
+	"drugs": [
+		"magnesium sulfate"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6f7f868f65534b5b152"
+	},
+	"url_address": "https://www.goodrx.com/macrolide-antibiotics",
+	"drugclass": "Macrolide Antibiotics",
+	"drugs": [
+		"Zithromax",
+		"Ery",
+		"clarithromycin",
+		"Benzefoam Ultra",
+		"Benzefoam",
+		"Benzamycin",
+		"Eryped",
+		"clarithromycin ER",
+		"Azasite",
+		"Ery-Tab",
+		"E.E.S.",
+		"Dificid",
+		"erythromycin DR",
+		"Erythrocin",
+		"PR benzoyl peroxide",
+		"bpo",
+		"Benzepro",
+		"Zmax",
+		"Pacnex MX",
+		"Pce",
+		"Akne-Mycin",
+		"Pacnex HP",
+		"Pacnex LP"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6f9f868f65534b5b153"
+	},
+	"url_address": "https://www.goodrx.com/macrolide-antibiotic-corticosteroid-combinations",
+	"drugclass": "Macrolide Antibiotic / Corticosteroid Combinations",
+	"drugs": [
+		"Vanoxide HC"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6faf868f65534b5b154"
+	},
+	"url_address": "https://www.goodrx.com/macrolide-sulfa-antibiotic-combinations",
+	"drugclass": "Macrolide / Sulfa Antibiotic Combinations",
+	"drugs": [
+		"erythromycin / sulfisoxazole"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6fcf868f65534b5b155"
+	},
+	"url_address": "https://www.goodrx.com/lymphocyte-growth-factors",
+	"drugclass": "Lymphocyte Growth Factors",
+	"drugs": [
+		"Proleukin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc6fff868f65534b5b156"
+	},
+	"url_address": "https://www.goodrx.com/loop-diuretics",
+	"drugclass": "Loop Diuretics",
+	"drugs": [
+		"Lasix",
+		"Demadex",
+		"bumetanide",
+		"Edecrin",
+		"ethacrynic sodium"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc702f868f65534b5b157"
+	},
+	"url_address": "https://www.goodrx.com/long-acting-beta-agonists",
+	"drugclass": "Long-Acting Beta Agonists",
+	"drugs": [
+		"Serevent",
+		"Brovana",
+		"Perforomist",
+		"Striverdi",
+		"Vospire ER",
+		"Foradil",
+		"Arcapta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc706f868f65534b5b158"
+	},
+	"url_address": "https://www.goodrx.com/local-anesthetics",
+	"drugclass": "Local Anesthetics",
+	"drugs": [
+		"Lidoderm",
+		"Xylocaine",
+		"Emla",
+		"Lidocaine OTC",
+		"Sarna",
+		"Altacaine",
+		"Synera",
+		"Alcaine",
+		"Lidorx",
+		"Tetravisc",
+		"Auroguard",
+		"Kovanaze",
+		"Pliaglis",
+		"Goprelto",
+		"Dibucaine",
+		"bupivacaine",
+		"Altafluor",
+		"Nupercainal"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc708f868f65534b5b159"
+	},
+	"url_address": "https://www.goodrx.com/local-anesthetic-corticosteroid-combinations",
+	"drugclass": "Local Anesthetic / Corticosteroid Combinations",
+	"drugs": [
+		"Ana-Lex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc70af868f65534b5b15a"
+	},
+	"url_address": "https://www.goodrx.com/lipase-inhibitors",
+	"drugclass": "Lipase Inhibitors",
+	"drugs": [
+		"Xenical",
+		"Alli"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc70ef868f65534b5b15b"
+	},
+	"url_address": "https://www.goodrx.com/lincosamide-antibiotics",
+	"drugclass": "Lincosamide Antibiotics",
+	"drugs": [
+		"Cleocin",
+		"Cleocin T",
+		"Evoclin",
+		"Clindagel",
+		"Clindacin P",
+		"Clindesse",
+		"Clindamax",
+		"Lincocin",
+		"Clindacin Pac",
+		"Clindacin Etz"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc711f868f65534b5b15c"
+	},
+	"url_address": "https://www.goodrx.com/lincosamide-macrolide-antibiotic-combinations",
+	"drugclass": "Lincosamide / Macrolide Antibiotic Combinations",
+	"drugs": [
+		"Benzaclin",
+		"Duac",
+		"Neuac",
+		"Onexton",
+		"Acanya"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc713f868f65534b5b15d"
+	},
+	"url_address": "https://www.goodrx.com/lfa-1-antagonists",
+	"drugclass": "LFA-1 Antagonists",
+	"drugs": [
+		"Xiidra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc715f868f65534b5b15e"
+	},
+	"url_address": "https://www.goodrx.com/leukotriene-receptor-antagonists",
+	"drugclass": "Leukotriene Receptor Antagonists",
+	"drugs": [
+		"Singulair",
+		"Accolate"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc718f868f65534b5b15f"
+	},
+	"url_address": "https://www.goodrx.com/leukocyte-growth-factors",
+	"drugclass": "Leukocyte Growth Factors",
+	"drugs": [
+		"Zarxio",
+		"Neupogen",
+		"Neulasta",
+		"Granix",
+		"Leukine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc71bf868f65534b5b160"
+	},
+	"url_address": "https://www.goodrx.com/leptin-analogues",
+	"drugclass": "Leptin Analogues",
+	"drugs": [
+		"Myalept"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc721f868f65534b5b161"
+	},
+	"url_address": "https://www.goodrx.com/kinase-inhibitors",
+	"drugclass": "Kinase Inhibitors",
+	"drugs": [
+		"Gleevec",
+		"Xeljanz",
+		"Xeljanz XR",
+		"Ibrance",
+		"Sprycel",
+		"Tasigna",
+		"Jakafi",
+		"Afinitor",
+		"Zortress",
+		"Votrient",
+		"Sutent",
+		"Nexavar",
+		"Rhopressa",
+		"Alecensa",
+		"Tykerb",
+		"Stivarga",
+		"Iressa",
+		"Xalkori",
+		"Imbruvica",
+		"Verzenio",
+		"Zelboraf",
+		"Gilotrif",
+		"Rydapt",
+		"Bosulif",
+		"Ofev",
+		"Nerlynx",
+		"Zydelig",
+		"Kisqali",
+		"Mekinist",
+		"Cotellic",
+		"Inlyta",
+		"Lenvima",
+		"Zykadia",
+		"Calquence",
+		"Afinitor Disperz",
+		"Tafinlar",
+		"Aliqopa",
+		"Alunbrig",
+		"Iclusig",
+		"Caprelsa",
+		"Torisel",
+		"Synribo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc724f868f65534b5b162"
+	},
+	"url_address": "https://www.goodrx.com/ketolide-antibiotics",
+	"drugclass": "Ketolide Antibiotics",
+	"drugs": [
+		"Ketek"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc726f868f65534b5b163"
+	},
+	"url_address": "https://www.goodrx.com/keratolytics",
+	"drugclass": "Keratolytics",
+	"drugs": [
+		"urea",
+		"Rea LO",
+		"Utopic",
+		"X-Viate",
+		"Umecta PD",
+		"Umecta",
+		"Uramaxin GT",
+		"remeven"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc729f868f65534b5b164"
+	},
+	"url_address": "https://www.goodrx.com/iron-supplements",
+	"drugclass": "Iron Supplements",
+	"drugs": [
+		"Fer-Iron",
+		"ferrous gluconate",
+		"poly-iron",
+		"Infed",
+		"Feosol",
+		"Injectafer",
+		"Venofer",
+		"Triferic",
+		"Pur-Absorb",
+		"Feraheme",
+		"Ferrlecit"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc72cf868f65534b5b165"
+	},
+	"url_address": "https://www.goodrx.com/interleukin-antagonists",
+	"drugclass": "Interleukin Antagonists",
+	"drugs": [
+		"Cosentyx",
+		"Stelara",
+		"Nucala",
+		"Actemra",
+		"Kineret",
+		"Sylvant",
+		"Cinqair"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc72ef868f65534b5b166"
+	},
+	"url_address": "https://www.goodrx.com/interferon-gammas",
+	"drugclass": "Interferon Gammas",
+	"drugs": [
+		"Actimmune"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc732f868f65534b5b167"
+	},
+	"url_address": "https://www.goodrx.com/interferon-betas",
+	"drugclass": "Interferon Betas",
+	"drugs": [
+		"Copaxone",
+		"Avonex",
+		"Rebif",
+		"Extavia",
+		"Betaseron",
+		"Plegridy"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc734f868f65534b5b168"
+	},
+	"url_address": "https://www.goodrx.com/interferon-alphas",
+	"drugclass": "Interferon Alphas",
+	"drugs": [
+		"Pegasys",
+		"Intron A",
+		"Pegintron",
+		"Sylatron"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc736f868f65534b5b169"
+	},
+	"url_address": "https://www.goodrx.com/integrin-antagonists",
+	"drugclass": "Integrin Antagonists",
+	"drugs": [
+		"Entyvio",
+		"Tysabri"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc73cf868f65534b5b16a"
+	},
+	"url_address": "https://www.goodrx.com/insulins",
+	"drugclass": "Insulins",
+	"drugs": [
+		"Lantus",
+		"Humalog",
+		"Novolog",
+		"Humulin N",
+		"Basaglar",
+		"Levemir",
+		"Toujeo",
+		"Humulin R",
+		"Humulin 70/30",
+		"Novolin 70/30",
+		"Tresiba",
+		"Novolog 70/30",
+		"Novolin N",
+		"Humalog 75/25",
+		"Novolin R",
+		"Apidra",
+		"Soliqua 100/33",
+		"Xultophy",
+		"Admelog",
+		"Humalog 50/50",
+		"Fiasp",
+		"Afrezza",
+		"Ryzodeg",
+		"Toujeo Max",
+		"Lusduna"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc73ef868f65534b5b16b"
+	},
+	"url_address": "https://www.goodrx.com/insulin-antagonists",
+	"drugclass": "Insulin Antagonists",
+	"drugs": [
+		"Glucagon",
+		"Glucagen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc740f868f65534b5b16c"
+	},
+	"url_address": "https://www.goodrx.com/influenza-a-inhibitors",
+	"drugclass": "Influenza A Inhibitors",
+	"drugs": [
+		"amantadine",
+		"Gocovri",
+		"Flumadine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc743f868f65534b5b16d"
+	},
+	"url_address": "https://www.goodrx.com/immune-response-modifiers",
+	"drugclass": "Immune Response Modifiers",
+	"drugs": [
+		"Aldara",
+		"Picato",
+		"Veregen",
+		"Zyclara",
+		"Mozobil"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc745f868f65534b5b16e"
+	},
+	"url_address": "https://www.goodrx.com/idh2-inhibitors",
+	"drugclass": "IDH2 Inhibitors",
+	"drugs": [
+		"Idhifa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc748f868f65534b5b16f"
+	},
+	"url_address": "https://www.goodrx.com/hydroxypyridone-antifungals",
+	"drugclass": "Hydroxypyridone Antifungals",
+	"drugs": [
+		"Penlac",
+		"Loprox",
+		"Ciclodan",
+		"Cnl8"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc74af868f65534b5b170"
+	},
+	"url_address": "https://www.goodrx.com/human-platelet-derived-growth-factors",
+	"drugclass": "Human Platelet-Derived Growth Factors",
+	"drugs": [
+		"Regranex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc74df868f65534b5b171"
+	},
+	"url_address": "https://www.goodrx.com/human-immunoglobulin-gs",
+	"drugclass": "Human Immunoglobulin Gs",
+	"drugs": [
+		"Hizentra",
+		"Rhogam",
+		"Gammagard",
+		"Hyperrho",
+		"Gamunex-C",
+		"Gammagard S/D",
+		"Winrho",
+		"Vivaglobin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc750f868f65534b5b172"
+	},
+	"url_address": "https://www.goodrx.com/human-alpha-1-proteinase-inhibitors",
+	"drugclass": "Human Alpha-1 Proteinase Inhibitors",
+	"drugs": [
+		"Prolastin C",
+		"Glassia",
+		"Aralast NP",
+		"Zemaira"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc752f868f65534b5b173"
+	},
+	"url_address": "https://www.goodrx.com/hiv-protease-inhibitors",
+	"drugclass": "HIV Protease Inhibitors",
+	"drugs": [
+		"Prezista",
+		"Prezcobix",
+		"Norvir",
+		"Reyataz",
+		"Kaletra",
+		"Evotaz",
+		"Lexiva",
+		"Viracept",
+		"Invirase",
+		"Aptivus",
+		"Crixivan",
+		"Tybost"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc756f868f65534b5b174"
+	},
+	"url_address": "https://www.goodrx.com/hiv-nrtis",
+	"drugclass": "HIV NRTIs",
+	"drugs": [
+		"Descovy",
+		"Viread",
+		"Epzicom",
+		"Epivir",
+		"Ziagen",
+		"Combivir",
+		"Emtriva",
+		"Retrovir",
+		"Trizivir",
+		"Videx",
+		"Zerit"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc758f868f65534b5b175"
+	},
+	"url_address": "https://www.goodrx.com/hiv-nrti-nnrti-combinations",
+	"drugclass": "HIV NRTI / NNRTI Combinations",
+	"drugs": [
+		"Odefsey",
+		"Atripla",
+		"Biktarvy",
+		"Complera",
+		"Symfi LO"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc75bf868f65534b5b176"
+	},
+	"url_address": "https://www.goodrx.com/hiv-nrti-integrase-strand-transfer-inhibitor-combinations",
+	"drugclass": "HIV NRTI / Integrase Strand Transfer Inhibitor Combinations",
+	"drugs": [
+		"Genvoya",
+		"Triumeq",
+		"Stribild",
+		"Juluca"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc75ef868f65534b5b177"
+	},
+	"url_address": "https://www.goodrx.com/hiv-nnrtis",
+	"drugclass": "HIV NNRTIs",
+	"drugs": [
+		"Truvada",
+		"tenofovir",
+		"Intelence",
+		"Sustiva",
+		"Edurant",
+		"Viramune",
+		"Viramune XR",
+		"Rescriptor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc760f868f65534b5b178"
+	},
+	"url_address": "https://www.goodrx.com/hiv-integrase-strand-transfer-inhibitors",
+	"drugclass": "HIV Integrase Strand Transfer Inhibitors",
+	"drugs": [
+		"Tivicay",
+		"Isentress",
+		"Vitekta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc762f868f65534b5b179"
+	},
+	"url_address": "https://www.goodrx.com/hiv-entry-inhibitors",
+	"drugclass": "HIV Entry Inhibitors",
+	"drugs": [
+		"Fuzeon"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc764f868f65534b5b17a"
+	},
+	"url_address": "https://www.goodrx.com/histamine-2-antagonists",
+	"drugclass": "Histamine-2 Antagonists",
+	"drugs": [
+		"Zantac",
+		"Pepcid AC",
+		"Pepcid",
+		"cimetidine",
+		"Axid",
+		"Zantac OTC",
+		"Tagamet HB",
+		"Pepcid Complete"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc767f868f65534b5b17b"
+	},
+	"url_address": "https://www.goodrx.com/herpes-virus-nucleoside-analogues",
+	"drugclass": "Herpes Virus Nucleoside Analogues",
+	"drugs": [
+		"Valtrex",
+		"Zovirax",
+		"Famvir",
+		"Denavir",
+		"Abreva",
+		"Sitavig"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc76af868f65534b5b17c"
+	},
+	"url_address": "https://www.goodrx.com/herpes-virus-nucleoside-analogue-corticosteroid-combinations",
+	"drugclass": "Herpes Virus Nucleoside Analogue / Corticosteroid Combinations",
+	"drugs": [
+		"Xerese"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc76cf868f65534b5b17d"
+	},
+	"url_address": "https://www.goodrx.com/her2-receptor-antagonists",
+	"drugclass": "HER2 Receptor Antagonists",
+	"drugs": [
+		"Perjeta",
+		"Herceptin",
+		"Kadcyla"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc76ff868f65534b5b17e"
+	},
+	"url_address": "https://www.goodrx.com/hepatitis-c-protease-inhibitors",
+	"drugclass": "Hepatitis C Protease Inhibitors",
+	"drugs": [
+		"Olysio"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc771f868f65534b5b17f"
+	},
+	"url_address": "https://www.goodrx.com/hepatitis-c-protease-nucleotide-polymerase-ns5a-inhibitor-combinations",
+	"drugclass": "Hepatitis C Protease / Nucleotide Polymerase / NS5A Inhibitor Combinations",
+	"drugs": [
+		"Viekira Pak",
+		"Viekira XR"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc773f868f65534b5b180"
+	},
+	"url_address": "https://www.goodrx.com/hepatitis-c-protease-ns5a-inhibitor-combinations",
+	"drugclass": "Hepatitis C Protease / NS5A Inhibitor Combinations",
+	"drugs": [
+		"Mavyret",
+		"Zepatier",
+		"Technivie"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc775f868f65534b5b181"
+	},
+	"url_address": "https://www.goodrx.com/hepatitis-b-nrtis",
+	"drugclass": "Hepatitis B NRTIs",
+	"drugs": [
+		"Baraclude",
+		"Hepsera",
+		"Epivir Hbv",
+		"Tyzeka"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc778f868f65534b5b182"
+	},
+	"url_address": "https://www.goodrx.com/hedgehog-pathway-inhibitors",
+	"drugclass": "Hedgehog Pathway Inhibitors",
+	"drugs": [
+		"Erivedge",
+		"Odomzo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc77af868f65534b5b183"
+	},
+	"url_address": "https://www.goodrx.com/hdac-inhibitors",
+	"drugclass": "HDAC Inhibitors",
+	"drugs": [
+		"Zolinza",
+		"Farydak",
+		"Istodax",
+		"Beleodaq"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc77cf868f65534b5b184"
+	},
+	"url_address": "https://www.goodrx.com/growth-hormone-releasing-factors",
+	"drugclass": "Growth Hormone Releasing Factors",
+	"drugs": [
+		"Egrifta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc77ef868f65534b5b185"
+	},
+	"url_address": "https://www.goodrx.com/growth-hormone-receptor-antagonists",
+	"drugclass": "Growth Hormone Receptor Antagonists",
+	"drugs": [
+		"Somavert"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc780f868f65534b5b186"
+	},
+	"url_address": "https://www.goodrx.com/gonadotropins",
+	"drugclass": "Gonadotropins",
+	"drugs": [
+		"Menopur",
+		"Ovidrel",
+		"Gonal-F RFF",
+		"HCG",
+		"Follistim AQ",
+		"Gonal-F",
+		"Novarel",
+		"Repronex",
+		"Bravelle",
+		"Pregnyl"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc782f868f65534b5b187"
+	},
+	"url_address": "https://www.goodrx.com/gonadotropin-releasing-hormone-antagonists",
+	"drugclass": "Gonadotropin Releasing Hormone Antagonists",
+	"drugs": [
+		"Ganirelix",
+		"Cetrotide",
+		"Firmagon"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc785f868f65534b5b188"
+	},
+	"url_address": "https://www.goodrx.com/gonadotropin-releasing-hormone-agonists",
+	"drugclass": "Gonadotropin Releasing Hormone Agonists",
+	"drugs": [
+		"Lupron Depot",
+		"Lupron Depot-Ped",
+		"Zoladex",
+		"Supprelin LA",
+		"Eligard",
+		"Synarel",
+		"leuprolide",
+		"Triptodur",
+		"Vantas",
+		"Trelstar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc786f868f65534b5b189"
+	},
+	"url_address": "https://www.goodrx.com/gonadotropin-releasing-hormone-agonist-progestin-combinations",
+	"drugclass": "Gonadotropin Releasing Hormone Agonist / Progestin Combinations",
+	"drugs": [
+		"Lupaneta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc789f868f65534b5b18a"
+	},
+	"url_address": "https://www.goodrx.com/glycosaminoglycans",
+	"drugclass": "Glycosaminoglycans",
+	"drugs": [
+		"Elmiron"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc78bf868f65534b5b18b"
+	},
+	"url_address": "https://www.goodrx.com/glycopeptide-antibiotics",
+	"drugclass": "Glycopeptide Antibiotics",
+	"drugs": [
+		"Vancocin",
+		"Firvanq",
+		"Orbactiv",
+		"Dalvance",
+		"bleomycin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc78ff868f65534b5b18c"
+	},
+	"url_address": "https://www.goodrx.com/glp-1-agonists",
+	"drugclass": "GLP-1 Agonists",
+	"drugs": [
+		"Victoza",
+		"Trulicity",
+		"Bydureon",
+		"Byetta",
+		"Saxenda",
+		"Ozempic",
+		"Bydureon Bcise",
+		"Adlyxin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc791f868f65534b5b18d"
+	},
+	"url_address": "https://www.goodrx.com/glitazones",
+	"drugclass": "Glitazones",
+	"drugs": [
+		"Actos",
+		"Avandia"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc794f868f65534b5b18e"
+	},
+	"url_address": "https://www.goodrx.com/glitazone-sulfonylurea-combinations",
+	"drugclass": "Glitazone / Sulfonylurea Combinations",
+	"drugs": [
+		"Duetact"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc797f868f65534b5b18f"
+	},
+	"url_address": "https://www.goodrx.com/glitazone-biguanide-combinations",
+	"drugclass": "Glitazone / Biguanide Combinations",
+	"drugs": [
+		"Actoplus Met",
+		"Actoplus Met XR",
+		"Avandamet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc79bf868f65534b5b190"
+	},
+	"url_address": "https://www.goodrx.com/gliptins",
+	"drugclass": "Gliptins",
+	"drugs": [
+		"Januvia",
+		"Tradjenta",
+		"Nesina",
+		"Onglyza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc79df868f65534b5b191"
+	},
+	"url_address": "https://www.goodrx.com/gliptin-glitazone-combinations",
+	"drugclass": "Gliptin / Glitazone Combinations",
+	"drugs": [
+		"Oseni"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc79ff868f65534b5b192"
+	},
+	"url_address": "https://www.goodrx.com/gliptin-biguanide-combinations",
+	"drugclass": "Gliptin / Biguanide Combinations",
+	"drugs": [
+		"Janumet",
+		"Janumet XR",
+		"Jentadueto",
+		"Kazano",
+		"Kombiglyze XR",
+		"Jentadueto XR"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7a2f868f65534b5b193"
+	},
+	"url_address": "https://www.goodrx.com/glinides",
+	"drugclass": "Glinides",
+	"drugs": [
+		"Starlix",
+		"Prandin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7a4f868f65534b5b194"
+	},
+	"url_address": "https://www.goodrx.com/glinide-biguanide-combinations",
+	"drugclass": "Glinide / Biguanide Combinations",
+	"drugs": [
+		"Prandimet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7a6f868f65534b5b195"
+	},
+	"url_address": "https://www.goodrx.com/gene-therapy-drugs",
+	"drugclass": "Gene Therapy Drugs",
+	"drugs": [
+		"Luxturna"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7a8f868f65534b5b196"
+	},
+	"url_address": "https://www.goodrx.com/gcs-inhibitors",
+	"drugclass": "GCS Inhibitors",
+	"drugs": [
+		"Zavesca"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7aaf868f65534b5b197"
+	},
+	"url_address": "https://www.goodrx.com/gc-c-agonists",
+	"drugclass": "GC-C Agonists",
+	"drugs": [
+		"Linzess",
+		"Trulance"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7acf868f65534b5b198"
+	},
+	"url_address": "https://www.goodrx.com/gaba-analogues",
+	"drugclass": "GABA Analogues",
+	"drugs": []
+},
+{
+	"_id": {
+		"$oid": "5b2bc7aff868f65534b5b199"
+	},
+	"url_address": "https://www.goodrx.com/gaba-agonists",
+	"drugclass": "GABA Agonists",
+	"drugs": [
+		"Ambien",
+		"Intermezzo",
+		"Gablofen",
+		"Lioresal",
+		"Lunesta",
+		"Ambien CR",
+		"Sonata",
+		"acamprosate",
+		"Zolpimist",
+		"Diprivan",
+		"Amidate",
+		"Edluar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7b2f868f65534b5b19a"
+	},
+	"url_address": "https://www.goodrx.com/folate-analogues",
+	"drugclass": "Folate Analogues",
+	"drugs": [
+		"folic acid",
+		"l-methylfolate",
+		"leucovorin",
+		"Falessa",
+		"Fusilev"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7b5f868f65534b5b19b"
+	},
+	"url_address": "https://www.goodrx.com/fluoride-supplements",
+	"drugclass": "Fluoride Supplements",
+	"drugs": [
+		"Ludent",
+		"Prevident 5000 Plus",
+		"Epiflur",
+		"Prevident 5000 Booster",
+		"Prevident",
+		"Prevident 5000 Sensitive",
+		"Prevident 5000 Dry Mouth",
+		"Prevident 5000 Enamel Protect",
+		"Flura-Drops",
+		"Fluorabon",
+		"Clinpro 5000",
+		"Fluor-A-Day",
+		"Fluorinse",
+		"sodiphluor",
+		"Prevident 5000 Booster Plus"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7b9f868f65534b5b19c"
+	},
+	"url_address": "https://www.goodrx.com/fibrates",
+	"drugclass": "Fibrates",
+	"drugs": [
+		"Lofibra",
+		"Tricor",
+		"Lipofen",
+		"Fenoglide",
+		"Lopid",
+		"Trilipix",
+		"Fibricor",
+		"Antara",
+		"Triglide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7bbf868f65534b5b19d"
+	},
+	"url_address": "https://www.goodrx.com/expectorants",
+	"drugclass": "Expectorants",
+	"drugs": [
+		"Mucinex",
+		"Q-Tussin",
+		"iophen NR"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7bdf868f65534b5b19e"
+	},
+	"url_address": "https://www.goodrx.com/expectorant-sudafed-combinations",
+	"drugclass": "Expectorant / Sudafed Combinations",
+	"drugs": [
+		"Mucinex D"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7bff868f65534b5b19f"
+	},
+	"url_address": "https://www.goodrx.com/expectorant-opioid-combinations",
+	"drugclass": "Expectorant / Opioid Combinations",
+	"drugs": [
+		"cheratussin AC",
+		"Mar-Cof CG",
+		"Obredon",
+		"Flowtuss",
+		"iophen c-nr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7c2f868f65534b5b1a0"
+	},
+	"url_address": "https://www.goodrx.com/expectorant-opioid-sudafed-combinations",
+	"drugclass": "Expectorant / Opioid / Sudafed Combinations",
+	"drugs": [
+		"Guaifenesin Dac",
+		"Hycofenix"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7c4f868f65534b5b1a1"
+	},
+	"url_address": "https://www.goodrx.com/expectorant-non-narcotic-antitussive-combinations",
+	"drugclass": "Expectorant / Non-narcotic Antitussive Combinations",
+	"drugs": [
+		"Mucinex DM",
+		"Robitussin",
+		"Q-Tussin DM",
+		"siltussin DM",
+		"guaifenesin DM",
+		"Robitussin DM",
+		"Dayquil Mucus Control",
+		"iophen dm-nr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7c9f868f65534b5b1a2"
+	},
+	"url_address": "https://www.goodrx.com/estrogens",
+	"drugclass": "Estrogens",
+	"drugs": [
+		"Vagifem",
+		"Climara",
+		"Estrace",
+		"Vivelle-Dot",
+		"Premarin",
+		"Minivelle",
+		"Estring",
+		"Ogen",
+		"Divigel",
+		"Estrogel",
+		"Delestrogen",
+		"Depo-Estradiol",
+		"Intrarosa",
+		"Evamist",
+		"Menest",
+		"Elestrin",
+		"Alora",
+		"Menostar",
+		"Femring",
+		"Enjuvia",
+		"Cenestin",
+		"Estrasorb",
+		"Femtrace"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7cdf868f65534b5b1a3"
+	},
+	"url_address": "https://www.goodrx.com/estrogen-agonist-antagonists",
+	"drugclass": "Estrogen Agonist/Antagonists",
+	"drugs": [
+		"Serophene",
+		"Clomid",
+		"tamoxifen",
+		"Evista",
+		"Duavee",
+		"Osphena",
+		"Fareston",
+		"Faslodex",
+		"Soltamox"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7d3f868f65534b5b1a4"
+	},
+	"url_address": "https://www.goodrx.com/estrogen-progestin-combinations",
+	"drugclass": "Estrogen / Progestin Combinations",
+	"drugs": [
+		"Ortho-Cyclen",
+		"Ortho Tri-Cyclen",
+		"Desogen",
+		"Yaz",
+		"Nuvaring",
+		"Ortho-Cept",
+		"Delyla",
+		"Ortho Tri-Cyclen LO",
+		"Yasmin",
+		"Ortho-Novum 1/35",
+		"Norinyl 1/35",
+		"portia",
+		"Lo / Ovral",
+		"Loestrin 1/20",
+		"Xulane",
+		"Mircette",
+		"Loestrin 1.5/30",
+		"lessina",
+		"Prempro",
+		"ethinyl estradiol/norethindrone",
+		"Activella",
+		"zovia",
+		"Seasonique",
+		"Ortho-Novum 7/7/7",
+		"larissia",
+		"ethinyl estradiol/levonorgestrel",
+		"enpresse",
+		"Modicon",
+		"Brevicon",
+		"Seasonale",
+		"Ovcon 35",
+		"Combipatch",
+		"Cyclessa",
+		"ogestrel",
+		"Loseasonique",
+		"setlakin",
+		"Tri-Norinyl",
+		"Climara Pro",
+		"jinteli",
+		"Natazia",
+		"Jevantique LO",
+		"Femhrt",
+		"Amethyst",
+		"Norinyl 1/50",
+		"Angeliq",
+		"Premphase",
+		"Quartette",
+		"tarina FE 1/20",
+		"Prefest",
+		"simliya",
+		"LO simpesse",
+		"simpesse",
+		"cyonanz",
+		"kalliga",
+		"nylia 1/35",
+		"ayuna",
+		"jaimiess",
+		"tri-lo-mili",
+		"aurovela 1/20",
+		"necon 10/11",
+		"Ovcon 50",
+		"aurovela 1.5/30",
+		"volnea",
+		"nylia 7/7/7",
+		"balcoltra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7d7f868f65534b5b1a5"
+	},
+	"url_address": "https://www.goodrx.com/estrogen-progestin-iron-combinations",
+	"drugclass": "Estrogen / Progestin / Iron Combinations",
+	"drugs": [
+		"Microgestin FE 1/20",
+		"Loestrin FE 1/20",
+		"Loestrin FE 1.5/30",
+		"LO Loestrin FE",
+		"larin 24 FE",
+		"lomedia 24 FE",
+		"Minastrin 24 FE",
+		"Taytulla",
+		"Estrostep FE",
+		"Layolis FE",
+		"Generess FE",
+		"Femcon FE",
+		"LO Minastrin FE",
+		"nexesta FE",
+		"aurovela 24 FE",
+		"aurovela FE 1/20",
+		"hailey FE 1/20"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7d9f868f65534b5b1a6"
+	},
+	"url_address": "https://www.goodrx.com/estrogen-progestin-folate-combinations",
+	"drugclass": "Estrogen / Progestin / Folate Combinations",
+	"drugs": [
+		"Beyaz",
+		"Safyral",
+		"rajani"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7dbf868f65534b5b1a7"
+	},
+	"url_address": "https://www.goodrx.com/estrogen-androgen-combinations",
+	"drugclass": "Estrogen / Androgen Combinations",
+	"drugs": [
+		"esterified estrogens/methyltestosterone",
+		"Covaryx"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7def868f65534b5b1a8"
+	},
+	"url_address": "https://www.goodrx.com/erythropoiesis-stimulating-agents",
+	"drugclass": "Erythropoiesis-Stimulating Agents",
+	"drugs": [
+		"Procrit",
+		"Epogen",
+		"Aranesp",
+		"Mircera",
+		"Retacrit"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7e1f868f65534b5b1a9"
+	},
+	"url_address": "https://www.goodrx.com/ergot-derivatives",
+	"drugclass": "Ergot Derivatives",
+	"drugs": [
+		"cabergoline",
+		"Parlodel",
+		"Migranal",
+		"D.H.E. 45",
+		"Methergine",
+		"Cycloset",
+		"Cafergot",
+		"ergoloid mesylates",
+		"Ergomar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7e6f868f65534b5b1aa"
+	},
+	"url_address": "https://www.goodrx.com/enzyme-replacement-therapies",
+	"drugclass": "Enzyme Replacement Therapies",
+	"drugs": [
+		"Creon",
+		"Zenpep",
+		"Pancreaze",
+		"Kuvan",
+		"Pertzye",
+		"Viokace",
+		"Endari",
+		"Ravicti",
+		"Cerdelga",
+		"Buphenyl",
+		"Aldurazyme",
+		"Lumizyme",
+		"Strensiq",
+		"Orfadin",
+		"Kanuma",
+		"Elelyso",
+		"Xuriden",
+		"Naglazyme",
+		"Myozyme",
+		"Vimizim",
+		"Vpriv",
+		"Cerezyme",
+		"Elaprase",
+		"Fabrazyme",
+		"Vistogard",
+		"Nityr",
+		"Ultresa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7e8f868f65534b5b1ab"
+	},
+	"url_address": "https://www.goodrx.com/endothelin-antagonists",
+	"drugclass": "Endothelin Antagonists",
+	"drugs": [
+		"Letairis",
+		"Tracleer",
+		"Opsumit"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7ebf868f65534b5b1ac"
+	},
+	"url_address": "https://www.goodrx.com/egfr-inhibitors",
+	"drugclass": "EGFR Inhibitors",
+	"drugs": [
+		"Tagrisso",
+		"Tarceva",
+		"Erbitux"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7eef868f65534b5b1ad"
+	},
+	"url_address": "https://www.goodrx.com/echinocandin-antifungals",
+	"drugclass": "Echinocandin Antifungals",
+	"drugs": [
+		"Eraxis",
+		"Caspofungin",
+		"Cancidas",
+		"Mycamine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7f0f868f65534b5b1ae"
+	},
+	"url_address": "https://www.goodrx.com/dopamine-receptor-antagonists",
+	"drugclass": "Dopamine Receptor Antagonists",
+	"drugs": [
+		"Reglan",
+		"Metozolv"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7f3f868f65534b5b1af"
+	},
+	"url_address": "https://www.goodrx.com/dopamine-agonists",
+	"drugclass": "Dopamine Agonists",
+	"drugs": [
+		"Requip",
+		"Mirapex",
+		"Requip XL",
+		"Neupro",
+		"Mirapex ER",
+		"Apokyn"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7f5f868f65534b5b1b0"
+	},
+	"url_address": "https://www.goodrx.com/dicarboxylic-acids",
+	"drugclass": "Dicarboxylic Acids",
+	"drugs": [
+		"Finacea",
+		"Azelex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7f7f868f65534b5b1b1"
+	},
+	"url_address": "https://www.goodrx.com/dialysis-solutions",
+	"drugclass": "Dialysis Solutions",
+	"drugs": [
+		"Extraneal"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7f9f868f65534b5b1b2"
+	},
+	"url_address": "https://www.goodrx.com/demulcents",
+	"drugclass": "Demulcents",
+	"drugs": [
+		"artificial tears",
+		"Freshkote",
+		"Lacrisert"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7fbf868f65534b5b1b3"
+	},
+	"url_address": "https://www.goodrx.com/decarboxylase-inhibitors",
+	"drugclass": "Decarboxylase Inhibitors",
+	"drugs": [
+		"Vaniqa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc7fef868f65534b5b1b4"
+	},
+	"url_address": "https://www.goodrx.com/ddcis",
+	"drugclass": "DDCIs",
+	"drugs": [
+		"Sinemet",
+		"Parcopa",
+		"Sinemet CR",
+		"Rytary",
+		"Lodosyn",
+		"Northera",
+		"Duopa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc800f868f65534b5b1b5"
+	},
+	"url_address": "https://www.goodrx.com/ddci-comt-inhibitor-combinations",
+	"drugclass": "DDCI / COMT Inhibitor Combinations",
+	"drugs": [
+		"Stalevo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc802f868f65534b5b1b6"
+	},
+	"url_address": "https://www.goodrx.com/cystine-depleting-agents",
+	"drugclass": "Cystine Depleting Agents",
+	"drugs": [
+		"Cystagon",
+		"Cystaran",
+		"Procysbi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc804f868f65534b5b1b7"
+	},
+	"url_address": "https://www.goodrx.com/cyp17-inhibitors",
+	"drugclass": "CYP17 Inhibitors",
+	"drugs": [
+		"Zytiga"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc806f868f65534b5b1b8"
+	},
+	"url_address": "https://www.goodrx.com/cyclic-lipopeptide-antibiotics",
+	"drugclass": "Cyclic Lipopeptide Antibiotics",
+	"drugs": [
+		"Cubicin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc808f868f65534b5b1b9"
+	},
+	"url_address": "https://www.goodrx.com/ctla-4-antagonists",
+	"drugclass": "CTLA-4 Antagonists",
+	"drugs": [
+		"Yervoy"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc80bf868f65534b5b1ba"
+	},
+	"url_address": "https://www.goodrx.com/ctla-4-agonists",
+	"drugclass": "CTLA-4 Agonists",
+	"drugs": [
+		"Orencia",
+		"Nulojix"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc80df868f65534b5b1bb"
+	},
+	"url_address": "https://www.goodrx.com/cps-1-activator",
+	"drugclass": "CPS 1 Activator",
+	"drugs": [
+		"Carbaglu"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc818f868f65534b5b1bc"
+	},
+	"url_address": "https://www.goodrx.com/corticosteroids",
+	"drugclass": "Corticosteroids",
+	"drugs": [
+		"prednisone",
+		"Kenalog",
+		"Nasacort AQ",
+		"Cutivate",
+		"Medrol",
+		"Clobex",
+		"Olux",
+		"Cormax",
+		"Temovate",
+		"Clodan",
+		"Flovent",
+		"Pred Forte",
+		"Omnipred",
+		"Qvar",
+		"dexamethasone",
+		"Cortef",
+		"Pulmicort",
+		"Vanos",
+		"Nasonex",
+		"Elocon",
+		"Rhinocort Aqua",
+		"Entocort",
+		"Orapred",
+		"Pediapred",
+		"prednisolone",
+		"betamethasone dipropionate",
+		"Diprolene",
+		"Derma Smoothe",
+		"Synalar",
+		"Dermotic",
+		"fludrocortisone",
+		"Luxiq",
+		"Desowen",
+		"FML",
+		"anucort HC",
+		"Lotemax",
+		"hydrocortisone acetate",
+		"Durezol",
+		"Asmanex",
+		"Arnuity Ellipta",
+		"Proctozone HC",
+		"Aclovate",
+		"Topicort",
+		"procto-med HC",
+		"flunisolide",
+		"Analpram HC",
+		"Analpram E",
+		"Asmanex HFA",
+		"Ultravate",
+		"Proctofoam HC",
+		"Westcort",
+		"Qnasl",
+		"Alrex",
+		"Olux-E",
+		"Temovate E",
+		"Flonase Allergy Relief",
+		"Uceris",
+		"Colocort",
+		"Cordran",
+		"Alvesco",
+		"Locoid",
+		"Solu-Cortef",
+		"Pred Mild",
+		"FML Forte",
+		"Dexamethasone Intensol",
+		"Cortenema",
+		"fluocinonide-e",
+		"diflorasone",
+		"Depo-Medrol",
+		"Beconase AQ",
+		"Omnaris",
+		"Armonair",
+		"Cloderm",
+		"Locoid Lipocream",
+		"Maxidex",
+		"Venelex",
+		"Solu-Medrol",
+		"Anusol HC",
+		"trianex",
+		"Desonate",
+		"Halog",
+		"Capex",
+		"Dermatop",
+		"Zetonna",
+		"Rayos",
+		"Flarex",
+		"prednisone intensol",
+		"Epifoam",
+		"Procort",
+		"Hemmorex-Hc",
+		"Pramosone",
+		"Cortifoam",
+		"Verdeso",
+		"Veramyst",
+		"amcinonide",
+		"Dexpak",
+		"Texacort",
+		"cortisone",
+		"Aerospan HFA",
+		"Sernivo",
+		"betamethasone sodium phosphate/betamethasone acetate",
+		"Xhance",
+		"Proctocort",
+		"Ala-Quin",
+		"Impoyz",
+		"Apexicon E",
+		"Pramosone E",
+		"Proctosol HC",
+		"Acuicyn",
+		"fluticare",
+		"Nasacort Allergy",
+		"Rhinocort Allergy",
+		"Ultravate X",
+		"Vexol",
+		"Millipred",
+		"Synalar TS",
+		"Proctocream HC",
+		"Pandel",
+		"Veripred",
+		"hemril",
+		"Dermasorb AF",
+		"Lokara",
+		"oto-end",
+		"Apexicon",
+		"Ozurdex",
+		"Triesence",
+		"Iluvien",
+		"Analpram Advanced",
+		"Nucort",
+		"Rectacort HC",
+		"Emflaza",
+		"Cortane B",
+		"Zema",
+		"Dermasorb XM",
+		"Zilretta",
+		"Novacort",
+		"Sinuva",
+		"Dermasorb TA",
+		"tridesilon"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc81af868f65534b5b1bd"
+	},
+	"url_address": "https://www.goodrx.com/corticosteroid-vitamin-d-analogue-combinations",
+	"drugclass": "Corticosteroid / Vitamin D Analogue Combinations",
+	"drugs": [
+		"Taclonex",
+		"Enstilar",
+		"Taclonex Scalp"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc81cf868f65534b5b1be"
+	},
+	"url_address": "https://www.goodrx.com/corticosteroid-keratolytic-combinations",
+	"drugclass": "Corticosteroid / Keratolytic Combinations",
+	"drugs": [
+		"U-Cort"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc81ef868f65534b5b1bf"
+	},
+	"url_address": "https://www.goodrx.com/conotoxins",
+	"drugclass": "Conotoxins",
+	"drugs": [
+		"Prialt"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc821f868f65534b5b1c0"
+	},
+	"url_address": "https://www.goodrx.com/comt-inhibitors",
+	"drugclass": "COMT Inhibitors",
+	"drugs": [
+		"Comtan",
+		"Tasmar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc823f868f65534b5b1c1"
+	},
+	"url_address": "https://www.goodrx.com/complement-inhibitors",
+	"drugclass": "Complement Inhibitors",
+	"drugs": [
+		"Soliris"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc826f868f65534b5b1c2"
+	},
+	"url_address": "https://www.goodrx.com/collagen-specific-enzymes",
+	"drugclass": "Collagen-Specific Enzymes",
+	"drugs": [
+		"Santyl",
+		"Xiaflex"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc828f868f65534b5b1c3"
+	},
+	"url_address": "https://www.goodrx.com/colchicum-alkaloids",
+	"drugclass": "Colchicum Alkaloids",
+	"drugs": [
+		"Colcrys",
+		"Mitigare"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc82df868f65534b5b1c4"
+	},
+	"url_address": "https://www.goodrx.com/coagulation-factors",
+	"drugclass": "Coagulation Factors",
+	"drugs": [
+		"Kogenate FS",
+		"Bebulin VH",
+		"Profilnine SD",
+		"Xyntha",
+		"Recombinate",
+		"Koate-Dvi",
+		"Alprolix",
+		"Tretten",
+		"Bebulin",
+		"Ixinity",
+		"Obizur",
+		"Eloctate",
+		"Monoclate-P",
+		"Alphanine SD",
+		"Mononine",
+		"Advate",
+		"Hemofil M",
+		"Alphanate",
+		"Novoseven RT",
+		"Helixate FS",
+		"Humate-P",
+		"Benefix"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc830f868f65534b5b1c5"
+	},
+	"url_address": "https://www.goodrx.com/cni-immunosuppressants",
+	"drugclass": "CNI Immunosuppressants",
+	"drugs": [
+		"Prograf",
+		"Protopic",
+		"Restasis",
+		"Neoral",
+		"Elidel",
+		"Sandimmune",
+		"Envarsus XR",
+		"Astagraf XL"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc832f868f65534b5b1c6"
+	},
+	"url_address": "https://www.goodrx.com/cmv-nucleoside-analogues",
+	"drugclass": "CMV Nucleoside Analogues",
+	"drugs": [
+		"Valcyte",
+		"Zirgan",
+		"Prevymis",
+		"Vistide",
+		"Cytovene"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc835f868f65534b5b1c7"
+	},
+	"url_address": "https://www.goodrx.com/cholinesterase-inhibitors",
+	"drugclass": "Cholinesterase Inhibitors",
+	"drugs": [
+		"Aricept",
+		"Mestinon",
+		"Exelon",
+		"Ovide",
+		"Razadyne ER",
+		"Razadyne",
+		"Phospholine Iodide",
+		"Bloxiverz",
+		"Neostigmine Methylsulfate"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc838f868f65534b5b1c8"
+	},
+	"url_address": "https://www.goodrx.com/cholinergic-agonists",
+	"drugclass": "Cholinergic Agonists",
+	"drugs": [
+		"Isopto Carpine",
+		"Salagen",
+		"Evoxac",
+		"Miostat",
+		"Pilopine HS"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc83af868f65534b5b1c9"
+	},
+	"url_address": "https://www.goodrx.com/cholesterol-absorption-inhibitors",
+	"drugclass": "Cholesterol Absorption Inhibitors",
+	"drugs": [
+		"Zetia"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc83df868f65534b5b1ca"
+	},
+	"url_address": "https://www.goodrx.com/cholesterol-absorption-inhibitor-statin-combinations",
+	"drugclass": "Cholesterol Absorption Inhibitor / Statin Combinations",
+	"drugs": [
+		"Vytorin",
+		"Liptruzet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc83ff868f65534b5b1cb"
+	},
+	"url_address": "https://www.goodrx.com/chloride-channel-activators",
+	"drugclass": "Chloride Channel Activators",
+	"drugs": [
+		"Amitiza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc842f868f65534b5b1cc"
+	},
+	"url_address": "https://www.goodrx.com/chemoprotectants",
+	"drugclass": "Chemoprotectants",
+	"drugs": [
+		"Mesnex",
+		"Amifostine",
+		"Zinecard"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc846f868f65534b5b1cd"
+	},
+	"url_address": "https://www.goodrx.com/cftr-potentiators",
+	"drugclass": "CFTR Potentiators",
+	"drugs": [
+		"Orkambi",
+		"Kalydeco",
+		"Symdeko"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc84af868f65534b5b1ce"
+	},
+	"url_address": "https://www.goodrx.com/cephalosporin-antibiotics",
+	"drugclass": "Cephalosporin Antibiotics",
+	"drugs": [
+		"Keflex",
+		"cefdinir",
+		"Ceftin",
+		"cefadroxil",
+		"cefpodoxime",
+		"cefprozil",
+		"Suprax",
+		"Rocephin",
+		"cefaclor",
+		"cefaclor ER",
+		"cefazolin",
+		"Spectracef",
+		"ceftibuten",
+		"Claforan",
+		"Teflaro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc84cf868f65534b5b1cf"
+	},
+	"url_address": "https://www.goodrx.com/cephalosporin-antibiotic-beta-lactamase-inhibitor-combinations",
+	"drugclass": "Cephalosporin Antibiotic / Beta Lactamase Inhibitor Combinations",
+	"drugs": [
+		"Avycaz",
+		"Zerbaxa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc851f868f65534b5b1d0"
+	},
+	"url_address": "https://www.goodrx.com/central-nervous-system-stimulants",
+	"drugclass": "Central Nervous System Stimulants",
+	"drugs": [
+		"Adderall",
+		"Adderall XR",
+		"Vyvanse",
+		"Concerta",
+		"Ritalin",
+		"Methylin",
+		"Focalin XR",
+		"Ritalin LA",
+		"Metadate CD",
+		"Focalin",
+		"Ritalin SR",
+		"Dexedrine Spansule",
+		"Mydayis",
+		"Aptensio XR",
+		"Quillichew ER",
+		"Daytrana",
+		"Belviq",
+		"Quillivant XR",
+		"Adzenys XR-ODT",
+		"Evekeo",
+		"Dyanavel XR",
+		"Cotempla XR",
+		"Belviq XR",
+		"Zenzedi",
+		"Desoxyn",
+		"Cafcit",
+		"Adzenys ER",
+		"Procentra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc854f868f65534b5b1d1"
+	},
+	"url_address": "https://www.goodrx.com/central-nervous-system-depressants",
+	"drugclass": "Central Nervous System Depressants",
+	"drugs": [
+		"Xyrem"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc856f868f65534b5b1d2"
+	},
+	"url_address": "https://www.goodrx.com/central-alpha-agonists",
+	"drugclass": "Central Alpha Agonists",
+	"drugs": [
+		"Catapres-Tts",
+		"Catapres",
+		"Zanaflex",
+		"Tenex",
+		"Intuniv",
+		"methyldopa",
+		"Kapvay"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc858f868f65534b5b1d3"
+	},
+	"url_address": "https://www.goodrx.com/central-alpha-agonist-thiazide-like-diuretic-combinations",
+	"drugclass": "Central Alpha Agonist / Thiazide-Like Diuretic Combinations",
+	"drugs": [
+		"Clorpres"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc85af868f65534b5b1d4"
+	},
+	"url_address": "https://www.goodrx.com/central-alpha-agonist-thiazide-diuretic-combinations",
+	"drugclass": "Central Alpha Agonist / Thiazide Diuretic Combinations",
+	"drugs": [
+		"methyldopa / HCTZ"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc85cf868f65534b5b1d5"
+	},
+	"url_address": "https://www.goodrx.com/cd52-antibodies",
+	"drugclass": "CD52 Antibodies",
+	"drugs": [
+		"Lemtrada",
+		"Campath"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc860f868f65534b5b1d6"
+	},
+	"url_address": "https://www.goodrx.com/cd20-antibodies",
+	"drugclass": "CD20 Antibodies",
+	"drugs": [
+		"Rituxan",
+		"Gazyva"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc862f868f65534b5b1d7"
+	},
+	"url_address": "https://www.goodrx.com/ccr5-antagonists",
+	"drugclass": "CCR5 Antagonists",
+	"drugs": [
+		"Selzentry"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc864f868f65534b5b1d8"
+	},
+	"url_address": "https://www.goodrx.com/catecholamines",
+	"drugclass": "Catecholamines",
+	"drugs": [
+		"Epipen",
+		"Epipen JR",
+		"Adrenaclick",
+		"Auvi-Q",
+		"Symjepi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc866f868f65534b5b1d9"
+	},
+	"url_address": "https://www.goodrx.com/catecholamine-synthesis-inhibitors",
+	"drugclass": "Catecholamine Synthesis Inhibitors",
+	"drugs": [
+		"Demser"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc868f868f65534b5b1da"
+	},
+	"url_address": "https://www.goodrx.com/catecholamine-depletors",
+	"drugclass": "Catecholamine Depletors",
+	"drugs": [
+		"reserpine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc86af868f65534b5b1db"
+	},
+	"url_address": "https://www.goodrx.com/carnitine-supplements",
+	"drugclass": "Carnitine Supplements",
+	"drugs": [
+		"Carnitor",
+		"Carnitor SF"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc86cf868f65534b5b1dc"
+	},
+	"url_address": "https://www.goodrx.com/cardiac-glycosides",
+	"drugclass": "Cardiac Glycosides",
+	"drugs": [
+		"Lanoxin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc86ff868f65534b5b1dd"
+	},
+	"url_address": "https://www.goodrx.com/carbonic-anhydrase-inhibitors",
+	"drugclass": "Carbonic Anhydrase Inhibitors",
+	"drugs": [
+		"Trusopt",
+		"acetazolamide",
+		"Azopt",
+		"Diamox Sequels",
+		"methazolamide",
+		"Keveyis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc873f868f65534b5b1de"
+	},
+	"url_address": "https://www.goodrx.com/carbonic-anhydrase-inhibitor-beta-blocker-combinations",
+	"drugclass": "Carbonic Anhydrase Inhibitor / Beta Blocker Combinations",
+	"drugs": [
+		"Cosopt",
+		"Cosopt PF"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc875f868f65534b5b1df"
+	},
+	"url_address": "https://www.goodrx.com/carbonic-anhydrase-inhibitor-alpha-agonist-combinations",
+	"drugclass": "Carbonic Anhydrase Inhibitor / Alpha Agonist Combinations",
+	"drugs": [
+		"Simbrinza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc877f868f65534b5b1e0"
+	},
+	"url_address": "https://www.goodrx.com/cannabinoids",
+	"drugclass": "Cannabinoids",
+	"drugs": [
+		"Marinol",
+		"Cesamet",
+		"Syndros"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc87bf868f65534b5b1e1"
+	},
+	"url_address": "https://www.goodrx.com/calcium-channel-blockers",
+	"drugclass": "Calcium Channel Blockers",
+	"drugs": [
+		"Norvasc",
+		"Cardizem CD",
+		"Calan SR",
+		"Verelan",
+		"Procardia XL",
+		"Adalat CC",
+		"diltiazem ER (Dilacor XR)",
+		"Tiazac",
+		"Cardizem",
+		"felodipine ER",
+		"Calan",
+		"diltiazem twice a day",
+		"Procardia",
+		"Cardizem LA",
+		"Verelan PM",
+		"Sular",
+		"isradipine",
+		"nicardipine",
+		"nimodipine",
+		"Nymalize"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc87ef868f65534b5b1e2"
+	},
+	"url_address": "https://www.goodrx.com/calcium-channel-blocker-statin-combinations",
+	"drugclass": "Calcium Channel Blocker / Statin Combinations",
+	"drugs": [
+		"Caduet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc881f868f65534b5b1e3"
+	},
+	"url_address": "https://www.goodrx.com/calcium-channel-blocker-arb-combinations",
+	"drugclass": "Calcium Channel Blocker / ARB Combinations",
+	"drugs": [
+		"Exforge",
+		"Azor",
+		"Twynsta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc883f868f65534b5b1e4"
+	},
+	"url_address": "https://www.goodrx.com/calcium-channel-blocker-arb-thiazide-diuretic-combinations",
+	"drugclass": "Calcium Channel Blocker / ARB / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Tribenzor",
+		"Exforge HCT"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc886f868f65534b5b1e5"
+	},
+	"url_address": "https://www.goodrx.com/calcium-channel-blocker-ace-inhibitor-combinations",
+	"drugclass": "Calcium Channel Blocker / ACE Inhibitor Combinations",
+	"drugs": [
+		"Lotrel"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc888f868f65534b5b1e6"
+	},
+	"url_address": "https://www.goodrx.com/calcitonins",
+	"drugclass": "Calcitonins",
+	"drugs": [
+		"Miacalcin",
+		"Fortical"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc88bf868f65534b5b1e7"
+	},
+	"url_address": "https://www.goodrx.com/calcimimetics",
+	"drugclass": "Calcimimetics",
+	"drugs": [
+		"Sensipar",
+		"Parsabiv",
+		"cinacalcet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc88ef868f65534b5b1e8"
+	},
+	"url_address": "https://www.goodrx.com/c1-inhibitors",
+	"drugclass": "C1 Inhibitors",
+	"drugs": [
+		"Cinryze",
+		"Berinert"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc890f868f65534b5b1e9"
+	},
+	"url_address": "https://www.goodrx.com/bradykinin-receptor-antagonists",
+	"drugclass": "Bradykinin Receptor Antagonists",
+	"drugs": [
+		"Firazyr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc892f868f65534b5b1ea"
+	},
+	"url_address": "https://www.goodrx.com/blys-specific-inhibitors",
+	"drugclass": "BLyS-Specific Inhibitors",
+	"drugs": [
+		"Benlysta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc894f868f65534b5b1eb"
+	},
+	"url_address": "https://www.goodrx.com/blood-viscosity-reducers",
+	"drugclass": "Blood Viscosity Reducers",
+	"drugs": [
+		"Trental"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc897f868f65534b5b1ec"
+	},
+	"url_address": "https://www.goodrx.com/bisphosphonates",
+	"drugclass": "Bisphosphonates",
+	"drugs": [
+		"Fosamax",
+		"Boniva",
+		"Actonel",
+		"Atelvia",
+		"Zometa",
+		"Binosto",
+		"etidronate",
+		"Reclast"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc89af868f65534b5b1ed"
+	},
+	"url_address": "https://www.goodrx.com/bisphosphonate-vitamin-d-combinations",
+	"drugclass": "Bisphosphonate / Vitamin D Combinations",
+	"drugs": [
+		"Fosamax Plus D"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc89cf868f65534b5b1ee"
+	},
+	"url_address": "https://www.goodrx.com/bile-acids",
+	"drugclass": "Bile Acids",
+	"drugs": [
+		"Urso Forte",
+		"Actigall",
+		"Urso 250",
+		"Ocaliva",
+		"Chenodal",
+		"Cholbam",
+		"chenodiol",
+		"Kybella"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc89ff868f65534b5b1ef"
+	},
+	"url_address": "https://www.goodrx.com/bile-acid-sequestrants",
+	"drugclass": "Bile Acid Sequestrants",
+	"drugs": [
+		"Questran",
+		"Colestid",
+		"Welchol",
+		"Questran Light",
+		"Prevalite",
+		"Colestid Flavored"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8a3f868f65534b5b1f0"
+	},
+	"url_address": "https://www.goodrx.com/biguanides",
+	"drugclass": "Biguanides",
+	"drugs": [
+		"Glucophage",
+		"Glucophage XR",
+		"Fortamet",
+		"Glumetza",
+		"Riomet"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8a6f868f65534b5b1f1"
+	},
+	"url_address": "https://www.goodrx.com/beta-hydroxy-acids",
+	"drugclass": "Beta Hydroxy Acids",
+	"drugs": [
+		"Salex",
+		"Keralyt",
+		"Aliclen",
+		"Salvax",
+		"Salacyn",
+		"Virasal",
+		"Salkera",
+		"Bensal HP",
+		"Ultrasal ER"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8acf868f65534b5b1f2"
+	},
+	"url_address": "https://www.goodrx.com/beta-blockers",
+	"drugclass": "Beta Blockers",
+	"drugs": [
+		"Toprol XL",
+		"Lopressor",
+		"Tenormin",
+		"propranolol",
+		"Timoptic XE",
+		"Timoptic",
+		"Inderal LA",
+		"Trandate",
+		"Bystolic",
+		"Zebeta",
+		"Corgard",
+		"Betagan",
+		"Sectral",
+		"pindolol",
+		"betaxolol",
+		"Betimol",
+		"Timoptic Ocudose",
+		"Betoptic S",
+		"carteolol",
+		"Istalol",
+		"Byvalson",
+		"Hemangeol",
+		"Innopran XL",
+		"Inderal XL",
+		"Optipranolol"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8aef868f65534b5b1f3"
+	},
+	"url_address": "https://www.goodrx.com/beta-blocker-thiazide-like-diuretic-combinations",
+	"drugclass": "Beta Blocker / Thiazide-Like Diuretic Combinations",
+	"drugs": [
+		"Tenoretic"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8b0f868f65534b5b1f4"
+	},
+	"url_address": "https://www.goodrx.com/beta-blocker-thiazide-diuretic-combinations",
+	"drugclass": "Beta Blocker / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Ziac",
+		"Lopressor HCT",
+		"propranolol / HCTZ",
+		"Dutoprol"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8b3f868f65534b5b1f5"
+	},
+	"url_address": "https://www.goodrx.com/beta-agonists",
+	"drugclass": "Beta Agonists",
+	"drugs": [
+		"Myrbetriq",
+		"isoxsuprine",
+		"Isuprel"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8b5f868f65534b5b1f6"
+	},
+	"url_address": "https://www.goodrx.com/beta-agonist-thiazide-diuretic-combinations",
+	"drugclass": "Beta Agonist / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Corzide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8b8f868f65534b5b1f7"
+	},
+	"url_address": "https://www.goodrx.com/beta-agonist-corticosteroid-combinations",
+	"drugclass": "Beta Agonist / Corticosteroid Combinations",
+	"drugs": [
+		"Advair",
+		"Symbicort",
+		"Breo Ellipta",
+		"Dulera",
+		"Airduo",
+		"Trelegy Ellipta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8baf868f65534b5b1f8"
+	},
+	"url_address": "https://www.goodrx.com/beta-agonist-anticholinergic-combinations",
+	"drugclass": "Beta Agonist / Anticholinergic Combinations",
+	"drugs": [
+		"Duoneb",
+		"Combivent",
+		"Bevespi Aerosphere",
+		"Utibron"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8bcf868f65534b5b1f9"
+	},
+	"url_address": "https://www.goodrx.com/benzylamine-antifungals",
+	"drugclass": "Benzylamine Antifungals",
+	"drugs": [
+		"Mentax",
+		"Lotrimin Ultra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8bff868f65534b5b1fa"
+	},
+	"url_address": "https://www.goodrx.com/benzothiazoles",
+	"drugclass": "Benzothiazoles",
+	"drugs": [
+		"Rilutek",
+		"Radicava"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8c3f868f65534b5b1fb"
+	},
+	"url_address": "https://www.goodrx.com/benzodiazepines",
+	"drugclass": "Benzodiazepines",
+	"drugs": [
+		"Xanax",
+		"Niravam",
+		"Klonopin",
+		"Ativan",
+		"Valium",
+		"Restoril",
+		"Halcion",
+		"chlordiazepoxide",
+		"Xanax XR",
+		"Onfi",
+		"Tranxene",
+		"oxazepam",
+		"flurazepam",
+		"Diastat Acudial",
+		"estazolam",
+		"midazolam",
+		"Doral",
+		"quazepam"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8c6f868f65534b5b1fc"
+	},
+	"url_address": "https://www.goodrx.com/benzodiazepine-tricyclic-antidepressant-combinations",
+	"drugclass": "Benzodiazepine / Tricyclic Antidepressant Combinations",
+	"drugs": [
+		"chlordiazepoxide / amitriptyline"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8c8f868f65534b5b1fd"
+	},
+	"url_address": "https://www.goodrx.com/bcl2-inihibitors",
+	"drugclass": "BCL2 Inihibitors",
+	"drugs": [
+		"Venclexta"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8caf868f65534b5b1fe"
+	},
+	"url_address": "https://www.goodrx.com/barbiturates",
+	"drugclass": "Barbiturates",
+	"drugs": [
+		"phenobarbital",
+		"Butisol",
+		"Seconal",
+		"pentobarbital"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8ccf868f65534b5b1ff"
+	},
+	"url_address": "https://www.goodrx.com/barbiturate-opioid-nsaid-combinations",
+	"drugclass": "Barbiturate / Opioid / NSAID Combinations",
+	"drugs": [
+		"Fiorinal With Codeine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8cef868f65534b5b200"
+	},
+	"url_address": "https://www.goodrx.com/barbiturate-opioid-acetaminophen-combinations",
+	"drugclass": "Barbiturate / Opioid / Acetaminophen Combinations",
+	"drugs": [
+		"Fioricet With Codeine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8d0f868f65534b5b201"
+	},
+	"url_address": "https://www.goodrx.com/barbiturate-nsaid-combinations",
+	"drugclass": "Barbiturate / NSAID Combinations",
+	"drugs": [
+		"Fiorinal"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8d2f868f65534b5b202"
+	},
+	"url_address": "https://www.goodrx.com/barbiturate-acetaminophen-combinations",
+	"drugclass": "Barbiturate / Acetaminophen Combinations",
+	"drugs": [
+		"Fioricet",
+		"Esgic",
+		"Zebutal",
+		"butalbital / acetaminophen",
+		"capacet",
+		"Bupap"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8d5f868f65534b5b203"
+	},
+	"url_address": "https://www.goodrx.com/azole-antifungals",
+	"drugclass": "Azole Antifungals",
+	"drugs": [
+		"Diflucan",
+		"Nizoral",
+		"Extina",
+		"Mycelex",
+		"Zazole",
+		"Terazol 7",
+		"Terazol 3",
+		"econazole",
+		"Sporanox",
+		"Monistat 7",
+		"Vfend",
+		"Noxafil",
+		"Jublia",
+		"Zeasorb",
+		"miconazole",
+		"Oxistat",
+		"Xolegel",
+		"Monistat 3",
+		"Vusion",
+		"Luzu",
+		"Exelderm",
+		"Ecoza",
+		"Lotrimin",
+		"Nizoral A-D",
+		"Onmel",
+		"Ertaczo",
+		"Oravig",
+		"Cresemba",
+		"Gynazole-1",
+		"Monistat 1",
+		"Ketodan"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8d7f868f65534b5b204"
+	},
+	"url_address": "https://www.goodrx.com/azole-antifungal-corticosteroid-combinations",
+	"drugclass": "Azole Antifungal / Corticosteroid Combinations",
+	"drugs": [
+		"Lotrisone"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8d9f868f65534b5b205"
+	},
+	"url_address": "https://www.goodrx.com/azapirones",
+	"drugclass": "Azapirones",
+	"drugs": [
+		"buspirone"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8def868f65534b5b206"
+	},
+	"url_address": "https://www.goodrx.com/atypical-antipsychotics",
+	"drugclass": "Atypical Antipsychotics",
+	"drugs": [
+		"Seroquel",
+		"Abilify",
+		"Risperdal",
+		"Risperdal M-Tab",
+		"Zyprexa",
+		"Zyprexa Zydis",
+		"Latuda",
+		"Geodon",
+		"Seroquel XR",
+		"Clozaril",
+		"Fazaclo",
+		"Rexulti",
+		"Invega",
+		"Vraylar",
+		"Saphris",
+		"Invega Sustenna",
+		"Abilify Maintena",
+		"Risperdal Consta",
+		"Invega Trinza",
+		"Aristada",
+		"Fanapt",
+		"Versacloz",
+		"iloperidone",
+		"Abilify Mycite",
+		"Zyprexa Relprevv"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8e0f868f65534b5b207"
+	},
+	"url_address": "https://www.goodrx.com/atypical-antipsychotic-ssri-combinations",
+	"drugclass": "Atypical Antipsychotic / SSRI Combinations",
+	"drugs": [
+		"Symbyax"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8e3f868f65534b5b208"
+	},
+	"url_address": "https://www.goodrx.com/atypical-antidepressants",
+	"drugclass": "Atypical Antidepressants",
+	"drugs": [
+		"trazodone",
+		"Wellbutrin XL",
+		"Wellbutrin SR",
+		"Remeron",
+		"Wellbutrin",
+		"Trintellix",
+		"Zyban",
+		"nefazodone",
+		"Forfivo XL",
+		"Aplenzin",
+		"Geodon",
+		"Oleptro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8e5f868f65534b5b209"
+	},
+	"url_address": "https://www.goodrx.com/arteriolar-vasodilators",
+	"drugclass": "Arteriolar Vasodilators",
+	"drugs": [
+		"hydralazine",
+		"minoxidil",
+		"Women's Rogaine",
+		"Men's Rogaine",
+		"Lexiscan",
+		"Gonitro",
+		"Nitropress"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8e7f868f65534b5b20a"
+	},
+	"url_address": "https://www.goodrx.com/arteriolar-vasodilator-nitrate-combinations",
+	"drugclass": "Arteriolar Vasodilator / Nitrate Combinations",
+	"drugs": [
+		"Bidil"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8e9f868f65534b5b20b"
+	},
+	"url_address": "https://www.goodrx.com/aromatase-inhibitors",
+	"drugclass": "Aromatase Inhibitors",
+	"drugs": [
+		"Arimidex",
+		"Femara",
+		"Aromasin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8edf868f65534b5b20c"
+	},
+	"url_address": "https://www.goodrx.com/arbs",
+	"drugclass": "ARBs",
+	"drugs": [
+		"Cozaar",
+		"Diovan",
+		"Avapro",
+		"Benicar",
+		"Micardis",
+		"Atacand",
+		"Edarbi",
+		"Teveten",
+		"Prexxartan"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8eef868f65534b5b20d"
+	},
+	"url_address": "https://www.goodrx.com/arb-thiazide-like-diuretic-combinations",
+	"drugclass": "ARB / Thiazide-Like Diuretic Combinations",
+	"drugs": [
+		"Edarbyclor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8f1f868f65534b5b20e"
+	},
+	"url_address": "https://www.goodrx.com/arb-thiazide-diuretic-combinations",
+	"drugclass": "ARB / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Hyzaar",
+		"Diovan HCT",
+		"Benicar HCT",
+		"Avalide",
+		"Micardis HCT",
+		"Atacand HCT"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8f3f868f65534b5b20f"
+	},
+	"url_address": "https://www.goodrx.com/apob-inhibitors",
+	"drugclass": "ApoB Inhibitors",
+	"drugs": [
+		"Kynamro"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8f5f868f65534b5b210"
+	},
+	"url_address": "https://www.goodrx.com/antithyroid-drugs",
+	"drugclass": "Antithyroid Drugs",
+	"drugs": [
+		"Tapazole",
+		"propylthiouracil",
+		"Sski"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8f8f868f65534b5b211"
+	},
+	"url_address": "https://www.goodrx.com/antiseptics",
+	"drugclass": "Antiseptics",
+	"drugs": [
+		"Periogard",
+		"Peridex",
+		"Hibiclens",
+		"silver nitrate",
+		"Iodosorb",
+		"Eskata"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8faf868f65534b5b212"
+	},
+	"url_address": "https://www.goodrx.com/antisense-therapeutics",
+	"drugclass": "Antisense Therapeutics",
+	"drugs": [
+		"Exondys 51",
+		"Spinraza"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8fdf868f65534b5b213"
+	},
+	"url_address": "https://www.goodrx.com/antiseborrheics",
+	"drugclass": "Antiseborrheics",
+	"drugs": [
+		"selenium sulfide",
+		"Promiseb",
+		"Selrx",
+		"Tersi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc8fff868f65534b5b214"
+	},
+	"url_address": "https://www.goodrx.com/antirheumatics",
+	"drugclass": "Antirheumatics",
+	"drugs": [
+		"Plaquenil",
+		"Arava",
+		"Depen",
+		"Thiola",
+		"Cuprimine",
+		"Ridaura"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc901f868f65534b5b215"
+	},
+	"url_address": "https://www.goodrx.com/antipsoriatics",
+	"drugclass": "Antipsoriatics",
+	"drugs": [
+		"Drithocreme",
+		"Zithranol",
+		"Zithranol-Rr"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc905f868f65534b5b216"
+	},
+	"url_address": "https://www.goodrx.com/antiprotozoals",
+	"drugclass": "Antiprotozoals",
+	"drugs": [
+		"Mepron",
+		"Alinia",
+		"paromomycin",
+		"Nebupent",
+		"Aloquin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc907f868f65534b5b217"
+	},
+	"url_address": "https://www.goodrx.com/antiprotozoal-corticosteroid-combinations",
+	"drugclass": "Antiprotozoal / Corticosteroid Combinations",
+	"drugs": [
+		"Dermazene",
+		"Vytone",
+		"Alcortin A"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc90af868f65534b5b218"
+	},
+	"url_address": "https://www.goodrx.com/antiplatelet-drugs",
+	"drugclass": "Antiplatelet Drugs",
+	"drugs": [
+		"Plavix",
+		"Brilinta",
+		"prasugrel",
+		"Persantine",
+		"Agrylin",
+		"Effient",
+		"Yosprala",
+		"Reopro",
+		"Kengreal",
+		"Integrilin",
+		"eptifibatide",
+		"Zontivity"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc90cf868f65534b5b219"
+	},
+	"url_address": "https://www.goodrx.com/antiplatelet-nsaid-combinations",
+	"drugclass": "Antiplatelet / NSAID Combinations",
+	"drugs": [
+		"Aggrenox"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc90ef868f65534b5b21a"
+	},
+	"url_address": "https://www.goodrx.com/antiperspirants",
+	"drugclass": "Antiperspirants",
+	"drugs": [
+		"Drysol",
+		"Xerac AC",
+		"Hypercare"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc911f868f65534b5b21b"
+	},
+	"url_address": "https://www.goodrx.com/antiparasitics",
+	"drugclass": "Antiparasitics",
+	"drugs": [
+		"Stromectol",
+		"Soolantra",
+		"Sklice",
+		"lindane",
+		"Emverm",
+		"Eurax",
+		"Benznidazole",
+		"Vermox"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc914f868f65534b5b21c"
+	},
+	"url_address": "https://www.goodrx.com/antimycobacterials",
+	"drugclass": "Antimycobacterials",
+	"drugs": [
+		"isoniazid",
+		"Myambutol",
+		"pyrazinamide",
+		"Seromycin",
+		"Trecator",
+		"Sirturo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc917f868f65534b5b21d"
+	},
+	"url_address": "https://www.goodrx.com/antimetabolites",
+	"drugclass": "Antimetabolites",
+	"drugs": [
+		"Cellcept",
+		"Imuran",
+		"Hydrea",
+		"mercaptopurine",
+		"Myfortic",
+		"Droxia",
+		"Azasan",
+		"Tabloid",
+		"Purixan",
+		"Mitosol",
+		"Arranon",
+		"Siklos",
+		"Nipent"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc91af868f65534b5b21e"
+	},
+	"url_address": "https://www.goodrx.com/antimalarials",
+	"drugclass": "Antimalarials",
+	"drugs": [
+		"Malarone",
+		"Aralen",
+		"Qualaquin",
+		"mefloquine",
+		"Primaquine",
+		"Coartem"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc924f868f65534b5b21f"
+	},
+	"url_address": "https://www.goodrx.com/antihistamines",
+	"drugclass": "Antihistamines",
+	"drugs": [
+		"hydroxyzine hydrochloride",
+		"Promethegan",
+		"Phenadoz",
+		"Claritin",
+		"Zyrtec",
+		"Vistaril",
+		"Astepro",
+		"Astelin",
+		"Optivar",
+		"Pataday",
+		"Patanol",
+		"Patanase",
+		"Xyzal",
+		"Allegra",
+		"cyproheptadine",
+		"Ketotifen",
+		"Children's Zyrtec",
+		"Children's Claritin",
+		"Diphenhist",
+		"Unisom",
+		"Benadryl",
+		"Zzzquil",
+		"Clarinex",
+		"Pazeo",
+		"cetirizine prescription",
+		"loratadine / pseudoephedrine",
+		"Elestat",
+		"Alaway",
+		"Children's Diphenhist",
+		"Zaditor",
+		"Arbinoxa",
+		"Palgic",
+		"Children's Allegra",
+		"Bepreve",
+		"Children's Benadryl",
+		"clemastine",
+		"Lastacaft",
+		"Histex PD",
+		"Dimetapp",
+		"Ryvent",
+		"Karbinal ER",
+		"q-dryl",
+		"Dramamine",
+		"Emadine",
+		"Tavist Allergy",
+		"dexchlorpheniramine",
+		"Dramamine for Kids"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc926f868f65534b5b220"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-vitamin-b6-analogue-combinations",
+	"drugclass": "Antihistamine / Vitamin B6 Analogue Combinations",
+	"drugs": [
+		"Diclegis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc929f868f65534b5b221"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-sudafed-combinations",
+	"drugclass": "Antihistamine / Sudafed Combinations",
+	"drugs": [
+		"Allegra-D",
+		"Zyrtec-D",
+		"Claritin-D",
+		"Semprex-D",
+		"Clarinex-D",
+		"Lodrane D",
+		"R-Tanna",
+		"R-Tanna PD"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc92cf868f65534b5b222"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-opioid-combinations",
+	"drugclass": "Antihistamine / Opioid Combinations",
+	"drugs": [
+		"Tussionex",
+		"promethazine VC with codeine",
+		"Tuzistra XR",
+		"Vituz",
+		"Z-Tuss AC",
+		"Capcof",
+		"Tussicaps"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc92ef868f65534b5b223"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-opioid-sudafed-combinations",
+	"drugclass": "Antihistamine / Opioid / Sudafed Combinations",
+	"drugs": [
+		"Histex-Ac",
+		"Zutripro",
+		"Z-Tuss E",
+		"Mar-Cof BP"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc930f868f65534b5b224"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-non-narcotic-antitussive-combinations",
+	"drugclass": "Antihistamine / Non-narcotic Antitussive Combinations",
+	"drugs": [
+		"promethazine DM",
+		"Bromfed DM",
+		"Nyquil Cough"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc933f868f65534b5b225"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-corticosteroid-combinations",
+	"drugclass": "Antihistamine / Corticosteroid Combinations",
+	"drugs": [
+		"Dymista"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc935f868f65534b5b226"
+	},
+	"url_address": "https://www.goodrx.com/antihistamine-alpha-agonist-combinations",
+	"drugclass": "Antihistamine / Alpha Agonist Combinations",
+	"drugs": [
+		"promethazine VC"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc937f868f65534b5b227"
+	},
+	"url_address": "https://www.goodrx.com/antigas-drugs",
+	"drugclass": "Antigas Drugs",
+	"drugs": [
+		"Gas-X"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc93bf868f65534b5b228"
+	},
+	"url_address": "https://www.goodrx.com/antifolates",
+	"drugclass": "Antifolates",
+	"drugs": [
+		"Rheumatrex",
+		"Rasuvo",
+		"Otrexup",
+		"Trexall",
+		"Xatmep",
+		"Alimta",
+		"Folotyn"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc93df868f65534b5b229"
+	},
+	"url_address": "https://www.goodrx.com/antifolate-antimalarials",
+	"drugclass": "Antifolate Antimalarials",
+	"drugs": [
+		"Daraprim"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc93ff868f65534b5b22a"
+	},
+	"url_address": "https://www.goodrx.com/antifolate-antibiotics",
+	"drugclass": "Antifolate Antibiotics",
+	"drugs": [
+		"trimethoprim",
+		"Primsol"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc942f868f65534b5b22b"
+	},
+	"url_address": "https://www.goodrx.com/antifolate-sulfa-antibiotic-combinations",
+	"drugclass": "Antifolate / Sulfa Antibiotic Combinations",
+	"drugs": [
+		"Sulfatrim",
+		"Bactrim",
+		"Septra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc945f868f65534b5b22c"
+	},
+	"url_address": "https://www.goodrx.com/antifibrinolytics",
+	"drugclass": "Antifibrinolytics",
+	"drugs": [
+		"Cyklokapron",
+		"Lysteda",
+		"Amicar",
+		"Esbriet",
+		"aminocaproic acid",
+		"Raplixa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc947f868f65534b5b22d"
+	},
+	"url_address": "https://www.goodrx.com/antiemetics",
+	"drugclass": "Antiemetics",
+	"drugs": [
+		"meclizine",
+		"Tigan",
+		"meclizine non-prescription",
+		"Bonine",
+		"Dramamine Less Drowsy",
+		"Sustol ER",
+		"Bonine for Kids"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc94af868f65534b5b22e"
+	},
+	"url_address": "https://www.goodrx.com/antidiarrheals",
+	"drugclass": "Antidiarrheals",
+	"drugs": [
+		"loperamide",
+		"Imodium A-D",
+		"Mytesi"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc94df868f65534b5b22f"
+	},
+	"url_address": "https://www.goodrx.com/anticoagulants",
+	"drugclass": "Anticoagulants",
+	"drugs": [
+		"Coumadin",
+		"Eliquis",
+		"Xarelto",
+		"Lovenox",
+		"Pradaxa",
+		"heparin sodium",
+		"Savaysa",
+		"Arixtra",
+		"Fragmin",
+		"Tnkase",
+		"Angiomax",
+		"Defitelio",
+		"Bevyxxa",
+		"argatroban"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc952f868f65534b5b230"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergics",
+	"drugclass": "Anticholinergics",
+	"drugs": [
+		"Bentyl",
+		"Spiriva",
+		"Atrovent",
+		"Hyosyne",
+		"Levsin",
+		"Symax Fastab",
+		"Symax SL",
+		"Hyomax SL",
+		"Transderm Scop",
+		"Cogentin",
+		"Robinul",
+		"Robinul Forte",
+		"Incruse Ellipta",
+		"atropine",
+		"Atrovent HFA",
+		"Levbid",
+		"Symax SR",
+		"Cyclogyl",
+		"trihexyphenidyl",
+		"Tudorza Pressair",
+		"Pamine",
+		"Pamine Forte",
+		"propantheline",
+		"Cuvposa",
+		"oscimin SR",
+		"Symax Duotab",
+		"oscimin",
+		"Anaspaz",
+		"Mydriacyl",
+		"Lonhala Magnair",
+		"Seebri",
+		"Osmolex ER",
+		"Isopto Atropine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc954f868f65534b5b231"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergic-opioid-combinations",
+	"drugclass": "Anticholinergic / Opioid Combinations",
+	"drugs": [
+		"belladonna / opium"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc957f868f65534b5b232"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergic-beta-agonist-combinations",
+	"drugclass": "Anticholinergic / Beta Agonist Combinations",
+	"drugs": [
+		"Anoro Ellipta",
+		"Stiolto"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc959f868f65534b5b233"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergic-benzodiazepine-combinations",
+	"drugclass": "Anticholinergic / Benzodiazepine Combinations",
+	"drugs": [
+		"Librax"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc95bf868f65534b5b234"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergic-barbiturate-combinations",
+	"drugclass": "Anticholinergic / Barbiturate Combinations",
+	"drugs": [
+		"Donnatal",
+		"Re-Pb Hyos",
+		"Quadrapax"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc95ef868f65534b5b235"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergic-antidiarrheal-combinations",
+	"drugclass": "Anticholinergic / Antidiarrheal Combinations",
+	"drugs": [
+		"Lomotil",
+		"Lonox"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc960f868f65534b5b236"
+	},
+	"url_address": "https://www.goodrx.com/anticholinergic-alpha-agonist-combinations",
+	"drugclass": "Anticholinergic / Alpha Agonist Combinations",
+	"drugs": [
+		"Cyclomydril"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc964f868f65534b5b237"
+	},
+	"url_address": "https://www.goodrx.com/antiarrhythmics",
+	"drugclass": "Antiarrhythmics",
+	"drugs": [
+		"Pacerone",
+		"Tambocor",
+		"Betapace",
+		"Rythmol",
+		"Multaq",
+		"Tikosyn",
+		"mexiletine",
+		"Rythmol SR",
+		"Betapace AF",
+		"Norpace",
+		"Norpace CR",
+		"quinidine gluconate ER",
+		"quinidine sulfate",
+		"Sotylize",
+		"Adenoscan",
+		"Nexterone",
+		"Corvert",
+		"Adenocard",
+		"quinidine sulfate ER"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc966f868f65534b5b238"
+	},
+	"url_address": "https://www.goodrx.com/anti-iges",
+	"drugclass": "Anti-IgEs",
+	"drugs": [
+		"Xolair"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc96bf868f65534b5b239"
+	},
+	"url_address": "https://www.goodrx.com/anti-epileptics",
+	"drugclass": "Anti-epileptics",
+	"drugs": [
+		"Neurontin",
+		"Lamictal",
+		"Topamax",
+		"Keppra",
+		"Roweepra",
+		"Lyrica",
+		"Depakote",
+		"Trileptal",
+		"Depakote ER",
+		"Dilantin",
+		"Tegretol",
+		"Phenytek",
+		"Zonegran",
+		"Tegretol XR",
+		"Carbatrol",
+		"Mysoline",
+		"Vimpat",
+		"Keppra XR",
+		"Depakene",
+		"Lamictal XR",
+		"Trokendi XR",
+		"Zarontin",
+		"Qudexy XR",
+		"Oxtellar XR",
+		"Aptiom",
+		"Banzel",
+		"Gralise",
+		"Briviact",
+		"Felbatol",
+		"Horizant",
+		"Gabitril",
+		"Equetro",
+		"Celontin",
+		"Sabril",
+		"Lyrica CR",
+		"Spritam",
+		"Peganone",
+		"Lacosamide",
+		"Carnexiv",
+		"Stavzor",
+		"Elepsia XR"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc96df868f65534b5b23a"
+	},
+	"url_address": "https://www.goodrx.com/anti-anginals",
+	"drugclass": "Anti-anginals",
+	"drugs": [
+		"Ranexa",
+		"Corlanor"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc970f868f65534b5b23b"
+	},
+	"url_address": "https://www.goodrx.com/anthracyclines",
+	"drugclass": "Anthracyclines",
+	"drugs": [
+		"doxorubicin",
+		"Ellence",
+		"Doxil"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc973f868f65534b5b23c"
+	},
+	"url_address": "https://www.goodrx.com/anthelminthics",
+	"drugclass": "Anthelminthics",
+	"drugs": [
+		"Albenza",
+		"praziquantel",
+		"Biltricide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc974f868f65534b5b23d"
+	},
+	"url_address": "https://www.goodrx.com/angiotensin-receptor-neprilysin-inhibitors",
+	"drugclass": "Angiotensin Receptor Neprilysin Inhibitors",
+	"drugs": [
+		"Entresto"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc979f868f65534b5b23e"
+	},
+	"url_address": "https://www.goodrx.com/androgens",
+	"drugclass": "Androgens",
+	"drugs": [
+		"Depo-Testosterone",
+		"Androgel",
+		"Testim",
+		"Axiron",
+		"Fortesta",
+		"Vogelxo",
+		"testosterone enanthate",
+		"Androderm",
+		"danazol",
+		"Striant",
+		"Aveed",
+		"Testred",
+		"Testopel",
+		"Natesto",
+		"Methitest",
+		"androxy",
+		"Android"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc97bf868f65534b5b23f"
+	},
+	"url_address": "https://www.goodrx.com/androgen-receptor-inhibitors",
+	"drugclass": "Androgen Receptor Inhibitors",
+	"drugs": [
+		"Casodex",
+		"Xtandi",
+		"flutamide",
+		"Erleada",
+		"Nilandron"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc97df868f65534b5b240"
+	},
+	"url_address": "https://www.goodrx.com/anabolic-steroids",
+	"drugclass": "Anabolic Steroids",
+	"drugs": [
+		"oxandrolone",
+		"Anadrol"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc980f868f65534b5b241"
+	},
+	"url_address": "https://www.goodrx.com/ampa-receptor-antagonists",
+	"drugclass": "AMPA Receptor Antagonists",
+	"drugs": [
+		"Fycompa"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc982f868f65534b5b242"
+	},
+	"url_address": "https://www.goodrx.com/amlyn-analogues",
+	"drugclass": "Amlyn Analogues",
+	"drugs": [
+		"Symlinpen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc985f868f65534b5b243"
+	},
+	"url_address": "https://www.goodrx.com/aminosalicylates",
+	"drugclass": "Aminosalicylates",
+	"drugs": [
+		"Lialda",
+		"Azulfidine",
+		"Asacol HD",
+		"Azulfidine En-Tabs",
+		"Colazal",
+		"Apriso",
+		"Canasa",
+		"Pentasa",
+		"Delzicol",
+		"Rowasa",
+		"Dipentum",
+		"Giazo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc988f868f65534b5b244"
+	},
+	"url_address": "https://www.goodrx.com/aminoglycoside-antibiotics",
+	"drugclass": "Aminoglycoside Antibiotics",
+	"drugs": [
+		"Tobrex",
+		"Tobi",
+		"gentamicin",
+		"neomycin",
+		"Bethkis",
+		"Kitabis Pak"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc98af868f65534b5b245"
+	},
+	"url_address": "https://www.goodrx.com/aminoglycoside-antibiotic-polypeptide-antibiotic-corticosteroid-combinations",
+	"drugclass": "Aminoglycoside Antibiotic / Polypeptide Antibiotic / Corticosteroid Combinations",
+	"drugs": [
+		"Maxitrol",
+		"Cortisporin",
+		"Coly-Mycin S",
+		"Cortisporin TC"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc98df868f65534b5b246"
+	},
+	"url_address": "https://www.goodrx.com/aminoglycoside-antibiotic-corticosteroid-combinations",
+	"drugclass": "Aminoglycoside Antibiotic / Corticosteroid Combinations",
+	"drugs": [
+		"Tobradex",
+		"Zylet",
+		"Tobradex ST",
+		"Pred-G",
+		"Neo-Synalar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc98ff868f65534b5b247"
+	},
+	"url_address": "https://www.goodrx.com/aminoglycoside-polypeptide-antibiotic-combinations",
+	"drugclass": "Aminoglycoside / Polypeptide Antibiotic Combinations",
+	"drugs": [
+		"Neosporin Prescription",
+		"Neosporin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc991f868f65534b5b248"
+	},
+	"url_address": "https://www.goodrx.com/aluminum-complexes",
+	"drugclass": "Aluminum Complexes",
+	"drugs": [
+		"Carafate"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc994f868f65534b5b249"
+	},
+	"url_address": "https://www.goodrx.com/alpha-hydroxy-acids",
+	"drugclass": "Alpha Hydroxy Acids",
+	"drugs": [
+		"Laclotion",
+		"Lac-Hydrin",
+		"lactic acid"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc996f868f65534b5b24a"
+	},
+	"url_address": "https://www.goodrx.com/alpha-glucosidase-inhibitors",
+	"drugclass": "Alpha Glucosidase Inhibitors",
+	"drugs": [
+		"Precose",
+		"Glyset"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc999f868f65534b5b24b"
+	},
+	"url_address": "https://www.goodrx.com/alpha-blockers",
+	"drugclass": "Alpha Blockers",
+	"drugs": [
+		"Flomax",
+		"terazosin",
+		"Minipress",
+		"Cardura",
+		"Uroxatral",
+		"Rapaflo",
+		"Dibenzyline",
+		"Cardura XL",
+		"Vecamyl"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc99cf868f65534b5b24c"
+	},
+	"url_address": "https://www.goodrx.com/alpha-agonists",
+	"drugclass": "Alpha Agonists",
+	"drugs": [
+		"Alphagan P",
+		"Proamatine",
+		"Sudafed",
+		"Afrin",
+		"Mirvaso",
+		"Rhofade",
+		"Iopidine",
+		"phenylephrine",
+		"naphazoline",
+		"Sudafed PE",
+		"Corphedra"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc99ef868f65534b5b24d"
+	},
+	"url_address": "https://www.goodrx.com/alpha-agonist-beta-blocker-combinations",
+	"drugclass": "Alpha Agonist / Beta Blocker Combinations",
+	"drugs": [
+		"Combigan"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9a1f868f65534b5b24e"
+	},
+	"url_address": "https://www.goodrx.com/allylamine-antifungals",
+	"drugclass": "Allylamine Antifungals",
+	"drugs": [
+		"Lamisil",
+		"Lamisil AT",
+		"Naftin",
+		"Tinactin"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9a3f868f65534b5b24f"
+	},
+	"url_address": "https://www.goodrx.com/allergen-immunotherapies",
+	"drugclass": "Allergen Immunotherapies",
+	"drugs": [
+		"Grastek",
+		"Odactra",
+		"Ragwitek",
+		"Oralair"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9a5f868f65534b5b250"
+	},
+	"url_address": "https://www.goodrx.com/alkylphosphocholine-drugs",
+	"drugclass": "Alkylphosphocholine Drugs",
+	"drugs": [
+		"Impavido"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9a9f868f65534b5b251"
+	},
+	"url_address": "https://www.goodrx.com/alkylating-drugs",
+	"drugclass": "Alkylating Drugs",
+	"drugs": [
+		"Temodar",
+		"Cyclophosphamide",
+		"Gleostine",
+		"Leukeran",
+		"Matulane",
+		"Alkeran",
+		"Valchlor",
+		"busulfan",
+		"Treanda",
+		"Gliadel",
+		"Ifex",
+		"dacarbazine",
+		"Bendeka",
+		"Emcyt",
+		"Zanosar",
+		"Myleran",
+		"Mustargen",
+		"Yondelis",
+		"Tepadina",
+		"Evomela",
+		"Hexalen"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9acf868f65534b5b252"
+	},
+	"url_address": "https://www.goodrx.com/alkalinizing-agents",
+	"drugclass": "Alkalinizing Agents",
+	"drugs": [
+		"calcium carbonate",
+		"sodium bicarbonate OTC",
+		"Cytra-2",
+		"Virtrate-2",
+		"Virtrate-K",
+		"sodium bicarbonate",
+		"Tricitrates",
+		"Tums",
+		"Cytra-3",
+		"Rolaids",
+		"Virtrate-3"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9aef868f65534b5b253"
+	},
+	"url_address": "https://www.goodrx.com/aldosterone-antagonists",
+	"drugclass": "Aldosterone Antagonists",
+	"drugs": [
+		"Aldactone",
+		"Inspra",
+		"Carospir"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9b0f868f65534b5b254"
+	},
+	"url_address": "https://www.goodrx.com/aldosterone-antagonist-thiazide-diuretic-combinations",
+	"drugclass": "Aldosterone Antagonist / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Aldactazide"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9b3f868f65534b5b255"
+	},
+	"url_address": "https://www.goodrx.com/alcohol-antagonists",
+	"drugclass": "Alcohol Antagonists",
+	"drugs": [
+		"Antabuse"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9b5f868f65534b5b256"
+	},
+	"url_address": "https://www.goodrx.com/adrenocorticotropic-hormones",
+	"drugclass": "Adrenocorticotropic Hormones",
+	"drugs": [
+		"H.P. Acthar"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9b7f868f65534b5b257"
+	},
+	"url_address": "https://www.goodrx.com/adrenal-cytotoxic-agents",
+	"drugclass": "Adrenal Cytotoxic Agents",
+	"drugs": [
+		"Lysodren"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9b9f868f65534b5b258"
+	},
+	"url_address": "https://www.goodrx.com/acetylcholine-releasing-agents",
+	"drugclass": "Acetylcholine Releasing Agents",
+	"drugs": [
+		"guanidine"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9bef868f65534b5b259"
+	},
+	"url_address": "https://www.goodrx.com/acetylcholine-release-inhibitors",
+	"drugclass": "Acetylcholine Release Inhibitors",
+	"drugs": [
+		"Botox",
+		"Xeomin",
+		"Dysport"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9c0f868f65534b5b25a"
+	},
+	"url_address": "https://www.goodrx.com/acetic-acids",
+	"drugclass": "Acetic Acids",
+	"drugs": [
+		"Vosol",
+		"Fem PH",
+		"Tri-Chlor",
+		"Trimo-San",
+		"Relagard"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9c2f868f65534b5b25b"
+	},
+	"url_address": "https://www.goodrx.com/acetic-acid-corticosteroid-combinations",
+	"drugclass": "Acetic Acid / Corticosteroid Combinations",
+	"drugs": [
+		"Acetasol HC",
+		"Vosol HC"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9c4f868f65534b5b25c"
+	},
+	"url_address": "https://www.goodrx.com/acetaminophens",
+	"drugclass": "Acetaminophens",
+	"drugs": [
+		"Mapap Extra Strength",
+		"Mapap",
+		"Acephen",
+		"Tylenol Extra Strength",
+		"Children's Mapap",
+		"Q-Pap",
+		"Tylenol",
+		"Children's Tylenol",
+		"Mapap Arthritis Pain",
+		"Dayquil",
+		"Tylenol Arthritis Pain",
+		"Infants Tylenol",
+		"Ofirmev",
+		"Tylenol JR",
+		"Tylenol Sore Throat",
+		"Sudafed PE Pressure and Pain",
+		"Infants Mapap"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9c7f868f65534b5b25d"
+	},
+	"url_address": "https://www.goodrx.com/acetaminophen-combinations",
+	"drugclass": "Acetaminophen Combinations",
+	"drugs": [
+		"Norel AD",
+		"Excedrin Migraine",
+		"Nyquil",
+		"Excedrin Extra Strength",
+		"Excedrin Back and Body",
+		"Mapap Cold",
+		"Tylenol PM",
+		"Tylenol Cold Daytime",
+		"Tylenol Cold Nighttime",
+		"Mapap PM",
+		"Excedrin PM",
+		"Tylenol Cold Severe"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9caf868f65534b5b25e"
+	},
+	"url_address": "https://www.goodrx.com/ace-inhibitors",
+	"drugclass": "ACE Inhibitors",
+	"drugs": [
+		"Prinivil",
+		"Zestril",
+		"Lotensin",
+		"Vasotec",
+		"Altace",
+		"Accupril",
+		"fosinopril",
+		"captopril",
+		"Mavik",
+		"Univasc",
+		"Epaned",
+		"perindopril",
+		"Qbrelis"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9cdf868f65534b5b25f"
+	},
+	"url_address": "https://www.goodrx.com/ace-inhibitor-thiazide-diuretic-combinations",
+	"drugclass": "ACE Inhibitor / Thiazide Diuretic Combinations",
+	"drugs": [
+		"Zestoretic",
+		"Lotensin HCT",
+		"Vaseretic",
+		"Accuretic",
+		"fosinopril / HCTZ",
+		"Uniretic",
+		"captopril / HCTZ"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9cff868f65534b5b260"
+	},
+	"url_address": "https://www.goodrx.com/ace-inhibitor-calcium-channel-blocker-combinations",
+	"drugclass": "ACE Inhibitor / Calcium Channel Blocker Combinations",
+	"drugs": [
+		"Tarka",
+		"Prestalia"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9d1f868f65534b5b261"
+	},
+	"url_address": "https://www.goodrx.com/5-lipoxygenase-inhibitors",
+	"drugclass": "5-Lipoxygenase Inhibitors",
+	"drugs": [
+		"zileuton ER",
+		"Zyflo CR",
+		"Zyflo"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9d3f868f65534b5b262"
+	},
+	"url_address": "https://www.goodrx.com/5-alpha-reductase-inhibitors",
+	"drugclass": "5-Alpha Reductase Inhibitors",
+	"drugs": [
+		"Propecia",
+		"Proscar",
+		"Avodart"
+	]
+},
+{
+	"_id": {
+		"$oid": "5b2bc9d5f868f65534b5b263"
+	},
+	"url_address": "https://www.goodrx.com/5-alpha-reductase-inhibitor-alpha-blocker-combinations",
+	"drugclass": "5-Alpha Reductase Inhibitor / Alpha Blocker Combinations",
+	"drugs": [
+		"Jalyn"
+	]
+}]
+

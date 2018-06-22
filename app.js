@@ -7,6 +7,7 @@ const morgan =require('morgan');
 const mongodb = require('mongodb').MongoClient;
 //const mongourl = "mongodb://localhost:27017/";
 const mongourl = "mongodb://ropafadzo1993:pass1234@ds231360.mlab.com:31360/scrapesites";
+var drugsclasses = require("./data/drugclassesCollection.json");
 
 app.set('port', process.env.PORT || 3000);
 app.use(morgan('dev'));
@@ -53,15 +54,59 @@ app.get('/api/medication',function(req,res){
                     res.render('main',result);
                 });
 
-            });    
+             });  
+           });  
+        });
+
+app.get("/api/drugsclass" , function(req,res){
+  var dgclass = req.query.search.trim().toLowerCase();
+  var classification = [];
+  var classif=[];
+   drugsclasses.forEach(function(result){
+    var rslt = result.drugclass.toLowerCase();
+    var drugclss = [];
+       if(rslt.startsWith(dgclass)){
+        var distance = levenshtein.get(dgclass, rslt, { useCollator: true});
+        result.distance=distance;
+        classification.push(result);
+        drugclss.push(rslt);
+        }
+       else if(rslt.includes(dgclass)){
+         var num=0;
+         for(var i=0 ; i<classification.length ; i++){
+           if(classification[i]==rslt){
+            num++;
+           }
+         }
+      if(num==0){
+        var distance = levenshtein.get(dgclass, rslt, { useCollator: true});
+        result.distance=distance;
+        classif.push(result);
+
+         }        
+       }
+       else{}
+      
+   });
+ classification=classification.sort(sortbyDistance);
+ classif=classif.sort(sortbyDistance);
+ classification=classification.concat(classif);
+ res.render('drgclasses',classification);
+
+}); 
 
 function sortNumber(a,b) {
   var dist= parseInt(a.distance) - parseInt(b.distance);
   if(dist == 0){
-     return parseInt(a.popularity) - parse(b.popularity);
+     return parseInt(a.popularity) - parseInt(b.popularity);
   }else{
        return dist;
   }
+}
+
+function sortbyDistance(a,b){
+  var distanc = parseInt(a.distance) - parseInt(b.distance);
+  return distanc;
 
 }
 

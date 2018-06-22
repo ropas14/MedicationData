@@ -1,0 +1,31 @@
+<div id="mycontainer" class="note-content" contenteditable="false">     
+<form id="form" action="/api/drugsclass/" method="get" novalidate>
+ <div>
+   <input type="text" name="search" placeholder="search term"> 
+   <input type="submit"  value="Submit" class="btn btn-default button1">
+ </div>
+</form>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th style="padding-right: 100px" >Classification</th>
+        <th>Description</th>
+        <th style="padding-left: 60px">Distance</th> 
+      </tr>
+    </thead>
+    	{{#each this}}
+      <tr>
+      <td>{{drugclass}}</td>
+      <td>
+      {{#each drugs}}
+         {{this}}  |
+        {{/each}}
+        </td>
+        <td>{{distance}}</td>
+      </tr>
+        {{/each}}
+   
+  </table>
+
+</div>

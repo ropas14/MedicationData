@@ -1,6 +1,4 @@
 var fs = require('fs');
-mongodb = require('mongodb').MongoClient;
-const mongourl = "mongodb://localhost:27017/";
 var drugJson = require('./drugsGoodrx.json');
 const arr = [];
 var attributes = Object.keys(drugJson);
