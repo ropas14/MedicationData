@@ -5,9 +5,9 @@ const hbs  = require('express-handlebars');
 const app = express();
 const morgan =require('morgan');
 const mongodb = require('mongodb').MongoClient;
-//const mongourl = "mongodb://localhost:27017/";
-const mongourl = "mongodb://ropafadzo1993:pass1234@ds231360.mlab.com:31360/scrapesites";
+//const mongourl = "mongodb://ropafadzo1993:pass1234@ds231360.mlab.com:31360/scrapesites";
 var drugsclasses = require("./data/drugclassesCollection.json");
+var drugsGoodrx = require("./data/thedrugs.json");
 
 app.set('port', process.env.PORT || 3000);
 app.use(morgan('dev'));
@@ -21,42 +21,40 @@ app.set('view engine','hbs');
 
 app.get('/api/medication',function(req,res){
 	var meds = req.query.search.trim().toLowerCase();	
-    mongodb.connect(mongourl, function(err, db) {
-          if (err) throw err;
-          var drugsResults=[];  
-          var dbo = db.db("scrapesites");
-         // dbo.collection("drugsGoodrx").createIndex({ drug: "text" });  
-          var query =  { drug:new RegExp('^' + meds)} ;        
-             dbo.collection("drugsGoodrx").find(query).toArray(function(error, result) {
-               if (error) throw error;
-              // res.render('main',result);
-               var drugnamez=[];
-               result.forEach(function(row){
-                drugnamez.push(row.drug);
-                var distance = levenshtein.get(meds, row.drug, { useCollator: true});
-                row.distance= distance;
+  var drugResults=[];
+  var drugnamez=[];
+   drugsGoodrx.forEach(function(result){
+    var rslt = result.drug.toLowerCase();
+    var drugclss = [];
+       if(rslt.startsWith(meds)){
+        var distance = levenshtein.get(meds, rslt, { useCollator: true});
+        result.distance=distance;
+        drugResults.push(result);
+        drugclss.push(rslt);
+        }
+       else if(rslt.includes(meds)){
+         var num=0;
+         for(var i=0 ; i<drugclss.length ; i++){
+           if(drugclss[i]==rslt){
+            num++;
+           }
+         }
+      if(num==0){
+        var distance = levenshtein.get(meds, rslt, { useCollator: true});
+        result.distance=distance;
+        drugnamez.push(result);
 
-               });
-                
-              console.log(drugnamez)
-               query = {$text: { $search: meds },drug:{$nin:drugnamez}}
-                dbo.collection("drugsGoodrx").find(query).toArray(function(err, reslt){
-                  if (err) throw err;
-                reslt.forEach(function(row){
-                 drugnamez.push(row.drug);
-                 var distance = levenshtein.get(meds, row.drug, { useCollator: true});
-                 row.distance= distance;
+         }        
+       }
+       else{}
+      
+   });
 
-               });
-                    reslt=reslt.sort(sortNumber);
-                    result=result.sort(sortNumber);
-                    result=result.concat(reslt);
-                    res.render('main',result);
-                });
-
-             });  
-           });  
-        });
+      drugResults=drugResults.sort(sortNumber);
+      drugnamez=drugnamez.sort(sortNumber);
+      drugResults=drugResults.concat(drugnamez);
+      res.render('main',drugResults);
+});
 
 app.get("/api/drugsclass" , function(req,res){
   var dgclass = req.query.search.trim().toLowerCase();
@@ -73,8 +71,8 @@ app.get("/api/drugsclass" , function(req,res){
         }
        else if(rslt.includes(dgclass)){
          var num=0;
-         for(var i=0 ; i<classification.length ; i++){
-           if(classification[i]==rslt){
+         for(var i=0 ; i<drugclss.length ; i++){
+           if(drugclss[i]==rslt){
             num++;
            }
          }
@@ -88,10 +86,10 @@ app.get("/api/drugsclass" , function(req,res){
        else{}
       
    });
- classification=classification.sort(sortbyDistance);
- classif=classif.sort(sortbyDistance);
- classification=classification.concat(classif);
- res.render('drgclasses',classification);
+    classification=classification.sort(sortbyDistance);
+    classif=classif.sort(sortbyDistance);
+    classification=classification.concat(classif);
+    res.render('drgclasses',classification);
 
 }); 
 
