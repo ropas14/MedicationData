@@ -8,6 +8,9 @@ const mongodb = require('mongodb').MongoClient;
 //const mongourl = "mongodb://ropafadzo1993:pass1234@ds231360.mlab.com:31360/scrapesites";
 var drugsclasses = require("./data/drugclassesCollection.json");
 var drugsGoodrx = require("./data/thedrugs.json");
+var drugResults=[];
+ var drugnamez=[];
+ 
 
 app.set('port', process.env.PORT || 3000);
 app.use(morgan('dev'));
@@ -21,55 +24,41 @@ app.set('view engine','hbs');
 
 app.get('/api/medication',function(req,res){
 	var meds = req.query.search.trim().toLowerCase();	
-  var drugResults=[];
-  var drugnamez=[];
-   drugsGoodrx.forEach(function(result){
+  var drgresults=[];
+  var dgclassresults=[];
+  drugsGoodrx.forEach(function(result){
     var rslt = result.drug.toLowerCase();
-    var drugclss = [];
-       if(rslt.startsWith(meds)){
-        var distance = levenshtein.get(meds, rslt, { useCollator: true});
-        result.distance=distance;
-        drugResults.push(result);
-        drugclss.push(rslt);
-        }
-       else if(rslt.includes(meds)){
-         var num=0;
-         for(var i=0 ; i<drugclss.length ; i++){
-           if(drugclss[i]==rslt){
-            num++;
-           }
-         }
-      if(num==0){
-        var distance = levenshtein.get(meds, rslt, { useCollator: true});
-        result.distance=distance;
-        drugnamez.push(result);
-
-         }        
-       }
-       else{}
+    filteritems(meds,rslt,result);
       
    });
-
+  drugsclasses.forEach(function(result){
+    var rslt = result.drugclass.toLowerCase();
+    
+      filteritems(meds,rslt,result);
+   });
+    
       drugResults=drugResults.sort(sortNumber);
       drugnamez=drugnamez.sort(sortNumber);
-      drugResults=drugResults.concat(drugnamez);
-      res.render('main',drugResults);
+      drgresults=drugResults.concat(drugnamez);
+      drugResults =[];drugnamez=[];
+      drugResults=drugResults.sort(sortbyDistance);
+      drugnamez=drugnamez.sort(sortbyDistance);
+      dgclassresults=drugResults.concat(drugnamez);
+      drgresults=drgresults.concat(dgclassresults);
+      res.json(drgresults);
+      drugResults =[];drugnamez=[];
 });
 
-app.get("/api/drugsclass" , function(req,res){
-  var dgclass = req.query.search.trim().toLowerCase();
-  var classification = [];
-  var classif=[];
-   drugsclasses.forEach(function(result){
-    var rslt = result.drugclass.toLowerCase();
-    var drugclss = [];
-       if(rslt.startsWith(dgclass)){
-        var distance = levenshtein.get(dgclass, rslt, { useCollator: true});
-        result.distance=distance;
-        classification.push(result);
-        drugclss.push(rslt);
+
+function filteritems(meds,reslt,results){
+      var drugclss = [];
+       if(reslt.startsWith(meds)){
+        var distance = levenshtein.get(meds, reslt, { useCollator: true});
+        results.distance=distance;
+        drugResults.push(results);
+        drugclss.push(reslt);
         }
-       else if(rslt.includes(dgclass)){
+       else if(reslt.includes(meds)){
          var num=0;
          for(var i=0 ; i<drugclss.length ; i++){
            if(drugclss[i]==rslt){
@@ -77,21 +66,16 @@ app.get("/api/drugsclass" , function(req,res){
            }
          }
       if(num==0){
-        var distance = levenshtein.get(dgclass, rslt, { useCollator: true});
-        result.distance=distance;
-        classif.push(result);
+        var distance = levenshtein.get(meds, reslt, { useCollator: true});
+        results.distance=distance;
+        drugnamez.push(results);
 
          }        
        }
        else{}
-      
-   });
-    classification=classification.sort(sortbyDistance);
-    classif=classif.sort(sortbyDistance);
-    classification=classification.concat(classif);
-    res.render('drgclasses',classification);
 
-}); 
+}
+
 
 function sortNumber(a,b) {
   var dist= parseInt(a.distance) - parseInt(b.distance);
