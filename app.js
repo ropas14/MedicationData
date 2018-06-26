@@ -31,21 +31,35 @@ app.get('/api/medication',function(req,res){
     filteritems(meds,rslt,result);
       
    });
+    drugResults=drugResults.sort(sortNumber);
+    drugnamez=drugnamez.sort(sortNumber);
+    drgresults=drugResults.concat(drugnamez);
+    drugResults =[];drugnamez=[];
+
   drugsclasses.forEach(function(result){
     var rslt = result.drugclass.toLowerCase();
     
       filteritems(meds,rslt,result);
    });
+     // for temporary storage of drugs and their classes
+     var temporary = {};
+     sortedclassresults=[];
     
-      drugResults=drugResults.sort(sortNumber);
-      drugnamez=drugnamez.sort(sortNumber);
-      drgresults=drugResults.concat(drugnamez);
-      drugResults =[];drugnamez=[];
       drugResults=drugResults.sort(sortbyDistance);
       drugnamez=drugnamez.sort(sortbyDistance);
       dgclassresults=drugResults.concat(drugnamez);
-      drgresults=drgresults.concat(dgclassresults);
+      dgclassresults.forEach(function(classif){
+        // loop for each drug in the drugs attribute
+         for(var i=0 ; i < classif.drugs.length ; i++){
+            temporary.drug = classif.drugs[i];
+            temporary.classification =classif.drugclass;
+            sortedclassresults.push(temporary);
+            temporary={};   
+         }      
+      });
+      drgresults=drgresults.concat(sortedclassresults);
       res.json(drgresults);
+      //res.render("main",drgresults)
       drugResults =[];drugnamez=[];
 });
 
@@ -53,6 +67,7 @@ app.get('/api/medication',function(req,res){
 function filteritems(meds,reslt,results){
       var drugclss = [];
        if(reslt.startsWith(meds)){
+        // calculate distance 
         var distance = levenshtein.get(meds, reslt, { useCollator: true});
         results.distance=distance;
         drugResults.push(results);
@@ -66,6 +81,7 @@ function filteritems(meds,reslt,results){
            }
          }
       if(num==0){
+        // loop in here if drugname is not present in 
         var distance = levenshtein.get(meds, reslt, { useCollator: true});
         results.distance=distance;
         drugnamez.push(results);
@@ -75,7 +91,6 @@ function filteritems(meds,reslt,results){
        else{}
 
 }
-
 
 function sortNumber(a,b) {
   var dist= parseInt(a.distance) - parseInt(b.distance);
@@ -93,6 +108,5 @@ function sortbyDistance(a,b){
 }
 
 app.listen(app.get('port'));
-
 console.log("server listening on port " + app.get('port'));
 
