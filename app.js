@@ -18,9 +18,21 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
    extended: false
 }));
+app.use(function(req, res, next) {
+    res.setHeader('Access-Control-Allow-Credentials', 'true');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, content type, Authorization, Accept');
+    next();
+});
 
 app.engine('hbs', hbs({extname:'hbs' , defaultLayout:'layout',layoutsDir:__dirname +'/views/layouts/'}));
 app.set('view engine','hbs');
+
+app.get("/",function(req,res){
+  res.sendFile(__dirname + '/home.html');
+ 
+});
 
 app.get('/api/medication',function(req,res){
 	var meds = req.query.search.trim().toLowerCase();	

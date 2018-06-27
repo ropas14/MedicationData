@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<style type="text/css">
+       #btnSubmit{
+        width: 120px;
+        height: 35px;
+        border: none;
+        outline: none;
+        color: #fff;
+        font-size: 14px;
+        text-shadow: 0 1px rgba(0,0,0,0.4);
+        background-color: #4e1c28;
+        border-radius: 3px;
+       font-weight: 700;
+		       }
+		#btnSubmit:hover{
+        background-color:#5a4e51;
+        cursor:pointer
+           }
+   table { 
+  width: 100%; 
+  border-collapse: collapse;
+  empty-cells: hide; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+ 
+tr td:hover { background: #666; color: #FFF; }  
+	</style>
+</head>
+
+<body>
+<h1 style="color: #5a091f;">Medication Data Lookup</h1>
+<form id="form1" action="" title="" method="post">
+        <div>          
+            <input type="text" id="txtsearch" name="search " style="padding: 6px 30px 8px 20px;border: 2px solid #6f6f6f;" >
+            <input type="submit" id="btnSubmit"  name="submitButton" value="Search">
+        </div>
+ </form>
+
+<table id="table-items">
+	<thead id="tableHeaders">
+	<tr>
+		<th>Drug</th>
+        <th>Description</th>
+        <th>Dosages</th>
+        <th>Drugclass</th>
+        <th>Drugs(under class)</th>
+    </tr>
+	</thead>
+	<tbody id= "tableData">
+		
+	</tbody>	
+	
+
+</table>
+<script type="text/javascript">	
+$(function(){
+  $('#btnSubmit').click(function (e){  
+   e.preventDefault();     
+   var search = $('#txtsearch').val();
+   $.ajax({
+   type:'GET',
+   url :"/api/medication/?search="+search,
+   dataType: 'json',
+   success: function(data) {
+        console.log('success',data);
+         $.each(data, function(index, element) {
+           if(element.drug){
+              console.log(element.drug);
+           }
+           else{
+           	console.log(element.classification);
+           }
+        });
+   },
+   error:function(exception){
+   	alert('Exeption:'+exception);
+    }
+}); 
+ 
+});
+	});
+
+</script>
+</body>
+</html>
+
+    
+    
