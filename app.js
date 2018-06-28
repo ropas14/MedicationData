@@ -4,7 +4,7 @@ const levenshtein = require('fast-levenshtein');
 const hbs  = require('express-handlebars');
 const app = express();
 const morgan =require('morgan');
-const mongodb = require('mongodb').MongoClient;
+//const mongodb = require('mongodb').MongoClient;
 //const mongourl = "mongodb://ropafadzo1993:pass1234@ds231360.mlab.com:31360/scrapesites";
 var drugsclasses = require("./data/drugclassesCollection.json");
 var drugsGoodrx = require("./data/thedrugs.json");
@@ -65,6 +65,7 @@ app.get('/api/medication',function(req,res){
          for(var i=0 ; i < classif.drugs.length ; i++){
             temporary.drug = classif.drugs[i];
             temporary.classification =classif.drugclass;
+            temporary.distance=classif.distance
             sortedclassresults.push(temporary);
             temporary={};   
          }      

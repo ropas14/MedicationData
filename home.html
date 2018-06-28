@@ -32,7 +32,7 @@ tr:nth-of-type(odd) {
   background: #eee; 
 }
 th { 
-  background: #333; 
+  background: #330c16; 
   color: white; 
   font-weight: bold; 
 }
@@ -61,8 +61,8 @@ tr td:hover { background: #666; color: #FFF; }
 		<th>Drug</th>
         <th>Description</th>
         <th>Dosages</th>
-        <th>Drugclass</th>
-        <th>Drugs(under class)</th>
+        <th>Distance</th>
+        <th>Popularity</th>
     </tr>
 	</thead>
 	<tbody id= "tableData">
@@ -71,9 +71,24 @@ tr td:hover { background: #666; color: #FFF; }
 	
 
 </table>
+
+<table id="table2">
+	<thead id="theaders">
+	<tr>
+        <th>Drug</th>
+        <th>Classification</th>
+        <th>Distance</th>
+    </tr>
+	</thead>
+	<tbody id="data">
+		
+	</tbody>	
+	
+
+</table>
 <script type="text/javascript">	
 $(function(){
-  $('#table-items').hide();
+  $('table').hide();
   $('#btnSubmit').click(function (e){  
    e.preventDefault();     
    var search = $('#txtsearch').val();
@@ -85,14 +100,33 @@ $(function(){
         console.log('success',data);
         var dclasses=0; var drugs=0;
          $.each(data, function(index, element) {
-
            if(element.description){
-              console.log(element.drug);
+           	drugs++;
            }
-           else{
-           	console.log(element.classification);
+           else if (element.classification){
+           	dclasses++
            }
         });
+         $.each(data, function(indx, elemnt) {
+           if(drugs>dclasses){
+           	 if(elemnt.description){
+           	$('tbody#tableData').append('<tr><td>'+ elemnt.drug +'</td><td>' +elemnt.description +'</td><td>'+elemnt.dosage+'</td><td>'+elemnt.distance+
+           		'</td><td>'+ elemnt.popularity+'</td></tr>' );
+           	  $('#table-items').show();	
+           	    $('#table2').hide();
+           	    }
+              }
+           else{
+               if(elemnt.classification){
+           	$('tbody#data').append('<tr><td>'+ elemnt.drug +'</td><td>' 
+           		+elemnt.classification +'</td><td>'+elemnt.distance+'</td></tr>' );
+           	  $('#table2').show();
+           	   $('#table-items').hide();	
+           	    }
+               }
+        });
+   
+
    },
    error:function(exception){
    	alert('Exeption:'+exception);
