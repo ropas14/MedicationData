@@ -73,6 +73,7 @@ tr td:hover { background: #666; color: #FFF; }
 </table>
 <script type="text/javascript">	
 $(function(){
+  $('#table-items').hide();
   $('#btnSubmit').click(function (e){  
    e.preventDefault();     
    var search = $('#txtsearch').val();
@@ -82,8 +83,10 @@ $(function(){
    dataType: 'json',
    success: function(data) {
         console.log('success',data);
+        var dclasses=0; var drugs=0;
          $.each(data, function(index, element) {
-           if(element.drug){
+
+           if(element.description){
               console.log(element.drug);
            }
            else{
@@ -103,5 +106,4 @@ $(function(){
 </body>
 </html>
 
-    
     
