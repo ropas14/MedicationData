@@ -39,19 +39,15 @@ app.get('/api/medication',function(req,res){
 	var meds = req.query.search.trim().toLowerCase();	
   var drgresults=[];
   var dgclassresults=[];
+  var closers=[];
   drugsGoodrx.forEach(function(result){
     var rslt = result.drug.toLowerCase();
     filteritems(meds,rslt,result);     
    });
      drugResults=drugResults.sort(sortNumber);
      drugnamez=drugnamez.sort(sortNumber);
-     if(drugnamez.length > 0){
-         drgresults=drugResults.concat(drugnamez);
-      }else{
-        closeres=closeres.sort(sortbyDistance);
-        drgresults = closeres;
-      }
-     drgresults=drugResults.concat(drugnamez);
+     closers=closeres.sort(sortbyDistance);
+     drgresults=drugResults.concat(drugnamez,closers);
      drugResults =[];drugnamez=[]; closeres=[];
 
      drugsclasses.forEach(function(result){
@@ -63,14 +59,9 @@ app.get('/api/medication',function(req,res){
       sortedclassresults=[];
       drugResults=drugResults.sort(sortbyDistance); 
       drugnamez=drugnamez.sort(sortbyDistance);
-      if(drugnamez.length>0){
-        dgclassresults=drugResults.concat(drugnamez);
-      }
-    else{
-       closeres=closeres.sort(sortbyDistance);
-       dgclassresults=closeres;
-    }
-      
+      closers=closeres.sort(sortbyDistance);
+      dgclassresults=drugResults.concat(drugnamez,closers);
+              
       dgclassresults.forEach(function(classif){
         // loop for each drug in the drugs attribute
          for(var i=0 ; i < classif.drugs.length ; i++){
@@ -83,7 +74,6 @@ app.get('/api/medication',function(req,res){
       });
       drgresults=drgresults.concat(sortedclassresults);
       res.json(drgresults);
-      //res.render("main",drgresults)
       drugResults =[];drugnamez=[]; closeres=[];
 });
 
@@ -105,20 +95,17 @@ function filteritems(meds,reslt,results){
            }
          }
       if(num==0){
-        // loop in here if drugname is not present in drugclass array
+        // loop in here if drugname is not present in drugclas array
         results.distance=distance;
         drugnamez.push(results);
-
          }        
        }
        else{
-          if(distance<4){
-           results.distance=distance;
-           closeres.push(results);
-            }         
-
+           if(distance<2){
+            results.distance=distance;
+            closeres.push(results);
+           }          
         }
-
 }
 
 function sortNumber(a,b) {
