@@ -102,7 +102,7 @@ $(function(){
         $('tbody#tableData').empty();
         var dclasses=0; var drugs=0;
          $.each(data, function(index, element) {
-           if(element.description){
+           if(element.popularity){
            	drugs++;
            }
            else if (element.classification){
