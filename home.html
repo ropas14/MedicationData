@@ -49,10 +49,10 @@ tr td:hover { background: #666; color: #FFF; }
 <body>
 <h1 style="color: #5a091f;">Medication Data Lookup</h1>
 <form id="form1" action="" title="" method="post">
-        <div>          
-            <input type="text" id="txtsearch" name="search " style="padding: 6px 30px 8px 20px;border: 2px solid #6f6f6f;" >
-            <input type="submit" id="btnSubmit"  name="submitButton" value="Search">
-        </div>
+      <div>          
+        <input type="text" id="txtsearch" name="search " style="padding: 6px 30px 8px 20px;border: 2px solid #6f6f6f;">
+       <input type="submit" id="btnSubmit"  name="submitButton" value="Search">
+      </div>
  </form>
 
 <table id="table-items">
@@ -98,6 +98,8 @@ $(function(){
    dataType: 'json',
    success: function(data) {
         console.log('success',data);
+        $('tbody#data').empty();
+        $('tbody#tableData').empty();
         var dclasses=0; var drugs=0;
          $.each(data, function(index, element) {
            if(element.description){
@@ -109,7 +111,7 @@ $(function(){
         });
          $.each(data, function(indx, elemnt) {
            if(drugs>dclasses){
-           	 if(elemnt.description){
+           	 if(elemnt.popularity){
            	$('tbody#tableData').append('<tr><td>'+ elemnt.drug +'</td><td>' +elemnt.description +'</td><td>'+elemnt.dosage+'</td><td>'+elemnt.distance+
            		'</td><td>'+ elemnt.popularity+'</td></tr>' );
            	  $('#table-items').show();	
@@ -125,8 +127,6 @@ $(function(){
            	    }
                }
         });
-   
-
    },
    error:function(exception){
    	alert('Exeption:'+exception);

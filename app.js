@@ -9,7 +9,8 @@ const morgan =require('morgan');
 var drugsclasses = require("./data/drugclassesCollection.json");
 var drugsGoodrx = require("./data/thedrugs.json");
 var drugResults=[];
- var drugnamez=[];
+var drugnamez=[];
+var closeres=[];
  
 
 app.set('port', process.env.PORT || 3000);
@@ -40,26 +41,36 @@ app.get('/api/medication',function(req,res){
   var dgclassresults=[];
   drugsGoodrx.forEach(function(result){
     var rslt = result.drug.toLowerCase();
-    filteritems(meds,rslt,result);
-      
+    filteritems(meds,rslt,result);     
    });
-    drugResults=drugResults.sort(sortNumber);
-    drugnamez=drugnamez.sort(sortNumber);
-    drgresults=drugResults.concat(drugnamez);
-    drugResults =[];drugnamez=[];
+     drugResults=drugResults.sort(sortNumber);
+     drugnamez=drugnamez.sort(sortNumber);
+     if(drugnamez.length > 0){
+         drgresults=drugResults.concat(drugnamez);
+      }else{
+        closeres=closeres.sort(sortbyDistance);
+        drgresults = closeres;
+      }
+     drgresults=drugResults.concat(drugnamez);
+     drugResults =[];drugnamez=[]; closeres=[];
 
-  drugsclasses.forEach(function(result){
-    var rslt = result.drugclass.toLowerCase();
-    
+     drugsclasses.forEach(function(result){
+     var rslt = result.drugclass.toLowerCase();  
       filteritems(meds,rslt,result);
-   });
-     // for temporary storage of drugs and their classes
-     var temporary = {};
-     sortedclassresults=[];
-    
-      drugResults=drugResults.sort(sortbyDistance);
+    });
+     
+      var temporary = {};
+      sortedclassresults=[];
+      drugResults=drugResults.sort(sortbyDistance); 
       drugnamez=drugnamez.sort(sortbyDistance);
-      dgclassresults=drugResults.concat(drugnamez);
+      if(drugnamez.length>0){
+        dgclassresults=drugResults.concat(drugnamez);
+      }
+    else{
+       closeres=closeres.sort(sortbyDistance);
+       dgclassresults=closeres;
+    }
+      
       dgclassresults.forEach(function(classif){
         // loop for each drug in the drugs attribute
          for(var i=0 ; i < classif.drugs.length ; i++){
@@ -73,15 +84,15 @@ app.get('/api/medication',function(req,res){
       drgresults=drgresults.concat(sortedclassresults);
       res.json(drgresults);
       //res.render("main",drgresults)
-      drugResults =[];drugnamez=[];
+      drugResults =[];drugnamez=[]; closeres=[];
 });
 
 
 function filteritems(meds,reslt,results){
-      var drugclss = [];
-       if(reslt.startsWith(meds)){
-        // calculate distance 
+       var drugclss = [];
+      // calculate distance 
         var distance = levenshtein.get(meds, reslt, { useCollator: true});
+       if(reslt.startsWith(meds)){      
         results.distance=distance;
         drugResults.push(results);
         drugclss.push(reslt);
@@ -94,14 +105,19 @@ function filteritems(meds,reslt,results){
            }
          }
       if(num==0){
-        // loop in here if drugname is not present in 
-        var distance = levenshtein.get(meds, reslt, { useCollator: true});
+        // loop in here if drugname is not present in drugclass array
         results.distance=distance;
         drugnamez.push(results);
 
          }        
        }
-       else{}
+       else{
+          if(distance<4){
+           results.distance=distance;
+           closeres.push(results);
+            }         
+
+        }
 
 }
 
