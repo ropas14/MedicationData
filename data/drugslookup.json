@@ -135,7 +135,7 @@
     "popularity": "30",
     "description": "BACITRACIN; NEOMYCIN; POLYMYXIN is used to treat skin infections.",
     "drugInfo": "BACITRACIN; NEOMYCIN; POLYMYXIN is used to treat skin infections.  Compare aminoglycoside / polypeptide antibiotic combinations.",
-    "dosage": "",
+    "dosage": ["1g of 500 units/g", "3.5g of 500 units/g"],
     "country": "US",
     "drug": "neosporin"
 }, {
@@ -177,7 +177,7 @@
     "popularity": "24",
     "description": "BACITRACIN; POLYMYXIN is used to prevent skin infections.",
     "drugInfo": "BACITRACIN; POLYMYXIN is used to prevent skin infections.  Compare polypeptide antibiotics.",
-    "dosage": "",
+    "dosage": ["1g of 500 units/g", "3.5g of 500 units/g"],
     "country": "US",
     "drug": "polysporin"
 }, {
@@ -625,7 +625,7 @@
     "popularity": "2",
     "description": "CYANOCOBALAMIN is a man made form of vitamin B12. Vitamin B12 is essential in the development of healthy blood cells, nerve cells, and proteins in the body. It also helps with the metabolism of fats and carbohydrates. It is added to a healthy diet to prevent or treat low vitamin B-12 levels.",
     "drugInfo": "CYANOCOBALAMIN is a man made form of vitamin B12. Vitamin B12 is essential in the development of healthy blood cells, nerve cells, and proteins in the body. It also helps with the metabolism of fats and carbohydrates. It is added to a healthy diet to prevent or treat low vitamin B-12 levels. The lowest GoodRx price for the most common version of vitamin b12 is around $2.33, 74% off the average retail price of $8.98. Compare vitamin B12 analogues.",
-    "dosage": "",
+    "dosage": ["1ml of 1000mcg/ml", "10ml of 1000mcg/ml", "30ml of 1000mcg/ml"],
     "country": "US",
     "drug": "vitamin b12"
 }, {
@@ -2487,7 +2487,7 @@
     "popularity": "5",
     "description": "NICOTINE helps people stop smoking. This medicine replaces the nicotine found in cigarettes and helps to decrease withdrawal effects. It is most effective when used in combination with a stop-smoking program.",
     "drugInfo": "NICOTINE helps people stop smoking. This medicine replaces the nicotine found in cigarettes and helps to decrease withdrawal effects. It is most effective when used in combination with a stop-smoking program.  Compare nicotine agonists.",
-    "dosage": "",
+    "dosage": ["7mg", "14mg", "21mg"],
     "country": "US",
     "drug": "nicorette"
 }, {
@@ -7989,7 +7989,7 @@
     "popularity": "143",
     "description": "DIPHENHYDRAMINE; IBUPROFEN is a combination of a sleep-aid and a non-steroidal anti-inflammatory drug (NSAID). It is used to treat occasional sleeplessness with minor aches and pains.",
     "drugInfo": "DIPHENHYDRAMINE; IBUPROFEN is a combination of a sleep-aid and a non-steroidal anti-inflammatory drug (NSAID). It is used to treat occasional sleeplessness with minor aches and pains.  Compare NSAID cough and cold combinations.",
-    "dosage": "",
+    "dosage": ["400mg", "600mg", "800mg"],
     "country": "US",
     "drug": "advil pm(ibuprofen pm)"
 }, {
@@ -8276,7 +8276,7 @@
     "popularity": "99",
     "description": "IBUPROFEN is a non-steroidal anti-inflammatory drug (NSAID). This medicine can relieve minor aches and pains caused by a cold, flu, sore throat, headache, or toothache. It is used to treat fever or pain for a short time.",
     "drugInfo": "IBUPROFEN is a non-steroidal anti-inflammatory drug (NSAID). This medicine can relieve minor aches and pains caused by a cold, flu, sore throat, headache, or toothache. It is used to treat fever or pain for a short time.  Compare NSAIDs.",
-    "dosage": "",
+    "dosage": ["400mg", "600mg", "800mg"],
     "country": "US",
     "drug": "infants motrin(infants ibuprofen)"
 }, {
@@ -8430,7 +8430,7 @@
     "popularity": "72",
     "description": "IBUPROFEN is a non-steroidal anti-inflammatory drug (NSAID). It is used for dental pain, fever, headaches or migraines, osteoarthritis, rheumatoid arthritis, or painful monthly periods. It can also relieve minor aches and pains caused by a cold, flu, or sore throat.",
     "drugInfo": "IBUPROFEN is a non-steroidal anti-inflammatory drug (NSAID). It is used for dental pain, fever, headaches or migraines, osteoarthritis, rheumatoid arthritis, or painful monthly periods. It can also relieve minor aches and pains caused by a cold, flu, or sore throat.  Compare NSAIDs.",
-    "dosage": "",
+    "dosage": ["400mg", "600mg", "800mg"],
     "country": "US",
     "drug": "motrin junior strength(ibuprofen junior strength)"
 }, {
@@ -10474,7 +10474,7 @@
     "popularity": "16",
     "description": "MECLIZINE is an antihistamine. It is used to prevent nausea, vomiting, or dizziness caused by motion sickness. It is also used to prevent and treat vertigo (extreme dizziness or a feeling that you or your surroundings are tilting or spinning around).",
     "drugInfo": "MECLIZINE is an antihistamine. It is used to prevent nausea, vomiting, or dizziness caused by motion sickness. It is also used to prevent and treat vertigo (extreme dizziness or a feeling that you or your surroundings are tilting or spinning around).  Compare antiemetics.",
-    "dosage": "",
+    "dosage": ["12.5mg", "25mg"],
     "country": "US",
     "drug": "meclizine non-prescription"
 }, {
@@ -10621,7 +10621,7 @@
     "popularity": "45",
     "description": "PHENYLEPHRINE is a decongestant. It is used to relieve a stuffy nose from allergies, colds, or sinus problems.",
     "drugInfo": "PHENYLEPHRINE is a decongestant. It is used to relieve a stuffy nose from allergies, colds, or sinus problems.  Compare alpha agonists.",
-    "dosage": "",
+    "dosage": ["2ml of 2.5%", "3ml of 2.5%", "5ml of 2.5%", "15ml of 2.5%", "2ml of 10%", "5ml of 10%"],
     "country": "US",
     "drug": "sudafed pe(phenylephrine pe)"
 }, {
@@ -11265,7 +11265,7 @@
     "popularity": "30",
     "description": "IBUPROFEN is a non-steroidal anti-inflammatory drug (NSAID). It is used for dental pain, fever, headaches or migraines, osteoarthritis, rheumatoid arthritis, or painful monthly periods. It can also relieve minor aches and pains caused by a cold, flu, or sore throat.",
     "drugInfo": "IBUPROFEN is a non-steroidal anti-inflammatory drug (NSAID). It is used for dental pain, fever, headaches or migraines, osteoarthritis, rheumatoid arthritis, or painful monthly periods. It can also relieve minor aches and pains caused by a cold, flu, or sore throat.  Compare NSAIDs.",
-    "dosage": "",
+    "dosage": ["400mg", "600mg", "800mg"],
     "country": "US",
     "drug": "advil migraine"
 }, {
@@ -15150,7 +15150,7 @@
     "popularity": "25",
     "description": "CIMETIDINE is a type of antihistamine that blocks the release of stomach acid. It is used to treat stomach or intestinal ulcers. It can relieve ulcer pain and discomfort, and the heartburn from acid reflux.",
     "drugInfo": "CIMETIDINE is a type of antihistamine that blocks the release of stomach acid. It is used to treat stomach or intestinal ulcers. It can relieve ulcer pain and discomfort, and the heartburn from acid reflux.  Compare histamine-2 antagonists.",
-    "dosage": "",
+    "dosage": ["200mg", "300mg", "400mg", "800mg"],
     "country": "US",
     "drug": "tagamet hb(cimetidine hb)"
 }, {
@@ -15458,14 +15458,14 @@
     "popularity": "3",
     "description": "MINOXIDIL is used to increase new hair growth in cases of hereditary hair loss. When applied to the scalp, this medicine can promote hair growth in men with male pattern baldness. This medicine can also help women with thin hair and frontal hair loss. Women should not use extra-strength minoxidil products.",
     "drugInfo": "MINOXIDIL is used to increase new hair growth in cases of hereditary hair loss. When applied to the scalp, this medicine can promote hair growth in men with male pattern baldness. This medicine can also help women with thin hair and frontal hair loss. Women should not use extra-strength minoxidil products.  Compare arteriolar vasodilators.",
-    "dosage": "",
+    "dosage": ["2.5mg", "10mg"],
     "country": "US",
     "drug": "women's rogaine(minoxidil non-prescription)"
 }, {
     "popularity": "2",
     "description": "MINOXIDIL is used to increase new hair growth in cases of hereditary hair loss. When applied to the scalp, this medicine can promote hair growth in men with male pattern baldness. This medicine can also help women with thin hair and frontal hair loss. Women should not use extra-strength minoxidil products.",
     "drugInfo": "MINOXIDIL is used to increase new hair growth in cases of hereditary hair loss. When applied to the scalp, this medicine can promote hair growth in men with male pattern baldness. This medicine can also help women with thin hair and frontal hair loss. Women should not use extra-strength minoxidil products.  Compare arteriolar vasodilators.",
-    "dosage": "",
+    "dosage": ["2.5mg", "10mg"],
     "country": "US",
     "drug": "men's rogaine(minoxidil non-prescription)"
 }, {

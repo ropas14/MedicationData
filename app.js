@@ -7,7 +7,7 @@ const morgan =require('morgan');
 //const mongodb = require('mongodb').MongoClient;
 //const mongourl = "mongodb://ropafadzo1993:pass1234@ds231360.mlab.com:31360/scrapesites";
 var drugsclasses = require("./data/drugclassesCollection.json");
-var drugsGoodrx = require("./data/thedrugs.json");
+var drugsGoodrx = require("./data/drugslookup.json");
 var drugResults=[];
 var drugnamez=[];
 var closeres=[];
@@ -27,8 +27,6 @@ app.use(function(req, res, next) {
     next();
 });
 
-app.engine('hbs', hbs({extname:'hbs' , defaultLayout:'layout',layoutsDir:__dirname +'/views/layouts/'}));
-app.set('view engine','hbs');
 
 app.get("/",function(req,res){
   res.sendFile(__dirname + '/home.html');
@@ -65,11 +63,18 @@ app.get('/api/medication',function(req,res){
       dgclassresults.forEach(function(classif){
         // loop for each drug in the drugs attribute
          for(var i=0 ; i < classif.drugs.length ; i++){
-            temporary.drug = classif.drugs[i];
-            temporary.classification =classif.drugclass;
-            temporary.distance=classif.distance
-            sortedclassresults.push(temporary);
-            temporary={};   
+              var drugnm = classif.drugs[i].toLowerCase();
+              //console.log(drugnm)
+              //get detail information for each drug in drug class
+             drugsGoodrx.forEach(function(element){
+              
+              if(drugnm==element.drug){
+             element.distance=classif.distance
+             element.classification =classif.drugclass;
+             sortedclassresults.push(element);
+              }
+
+            });
          }      
       });
       drgresults=drgresults.concat(sortedclassresults);
@@ -126,3 +131,4 @@ function sortbyDistance(a,b){
 app.listen(app.get('port'));
 console.log("server listening on port " + app.get('port'));
 
+module.exports = app;

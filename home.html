@@ -58,7 +58,7 @@ tr td:hover { background: #666; color: #FFF; }
 <table id="table-items">
 	<thead id="tableHeaders">
 	<tr>
-		<th>Drug</th>
+		   <th>Drug</th>
         <th>Description</th>
         <th>Dosages</th>
         <th>Distance</th>
@@ -77,6 +77,8 @@ tr td:hover { background: #666; color: #FFF; }
 	<tr>
         <th>Drug</th>
         <th>Classification</th>
+        <th>Description</th>
+        <th>Dosages</th>
         <th>Distance</th>
     </tr>
 	</thead>
@@ -98,20 +100,20 @@ $(function(){
    dataType: 'json',
    success: function(data) {
         console.log('success',data);
-        $('tbody#data').empty();
         $('tbody#tableData').empty();
+        $('tbody#data').empty();
         var dclasses=0; var drugs=0;
          $.each(data, function(index, element) {
-           if(element.popularity){
-           	drugs++;
+           if(element.classification){
+           	  dclasses++;
            }
-           else if (element.classification){
-           	dclasses++
+           else {
+           	drugs++;
            }
         });
          $.each(data, function(indx, elemnt) {
            if(drugs>dclasses){
-           	 if(elemnt.popularity){
+           	 if(!elemnt.classification){
            	$('tbody#tableData').append('<tr><td>'+ elemnt.drug +'</td><td>' +elemnt.description +'</td><td>'+elemnt.dosage+'</td><td>'+elemnt.distance+
            		'</td><td>'+ elemnt.popularity+'</td></tr>' );
            	  $('#table-items').show();	
@@ -120,8 +122,9 @@ $(function(){
               }
            else{
                if(elemnt.classification){
-           	$('tbody#data').append('<tr><td>'+ elemnt.drug +'</td><td>' 
-           		+elemnt.classification +'</td><td>'+elemnt.distance+'</td></tr>' );
+           	$('tbody#data').append('<tr><td>'+ elemnt.drug +'</td><td>'
+              +elemnt.classification+'</td><td>'+elemnt.description +'</td><td>'
+              +elemnt.dosage+'</td><td>'+elemnt.distance+'</td></tr>' );
            	  $('#table2').show();
            	   $('#table-items').hide();	
            	    }
@@ -129,7 +132,7 @@ $(function(){
         });
    },
    error:function(exception){
-   	alert('Exeption:'+exception);
+   	alert('Exception:'+exception);
     }
 }); 
  
